@@ -1,0 +1,36 @@
+* {
+    margin:0;
+    padding:0;
+}
+body{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkolivegreen;
+}
+
+.container {
+    height:450px;
+    padding: 20px;
+    border: solid 3px red;
+    background: white;
+}
+
+.chart-wrapper {
+    height: 450px;
+    max-height: 450px;
+    overflow-y:scroll ;
+}
+
+.chart-container{
+    width: 500px;
+    height: 10000px
+}
+
+#bar-test {
+}
+
+p {
+    text-align: center;
+}
