@@ -7,13 +7,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: darkolivegreen;
+    background-color: #1E3859;
 }
 
 .container {
     height:450px;
     padding: 20px;
-    border: solid 3px red;
+    border: solid 3px #D904A0;
     background: white;
 }
 
