@@ -1,15 +1,17 @@
 console.log(data)
 
+// Josef har skrevet denne del
 const ctx = document.querySelector("#bar-test")
 const yLabels = data.map((row)=>row.Airport)
 const bgColorArray = []
 
+// Josef har skrevet denne del
 data.forEach((obj,index)=> {
     obj.Airport == "UNKNOWN" ? bgColorArray[index]="grey" : bgColorArray[index]="#8C0383"
 })
 
 
-
+// Josef har skrevet denne del
 const myChart = new Chart(ctx,
     {
         type:'bar',

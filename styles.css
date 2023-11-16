@@ -3,6 +3,7 @@
     padding:0;
     font-family: "Montserrat";
 }
+
 body{
     width: 100vw;
     display: flex;
@@ -46,6 +47,9 @@ h1 {
     text-align: center;
 }
 
+/*
+Josef har skrevet denne del, der handler om chart-området
+ */
 .chart-wrapper {
     height: 450px;
     max-height: 450px;
