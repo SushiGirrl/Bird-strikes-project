@@ -7,7 +7,7 @@ const bgColorArray = []
 
 // Josef har skrevet denne del
 data.forEach((obj,index)=> {
-    obj.Airport == "UNKNOWN" ? bgColorArray[index]="grey" : bgColorArray[index]="#8C0383"
+    obj.Airport[0] === "UNKNOWN" ? bgColorArray[index]="grey" : bgColorArray[index]="#8C0383"
 })
 
 
