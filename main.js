@@ -149,6 +149,7 @@ getData().then(data => {
 });*/
 
 // Attach event listeners
+window.addEventListener("load", ()=>{clearSearch()})
 document.getElementById('searchInput').addEventListener('input', ()=>search(data));
 document.getElementById('searchButton').addEventListener('click', ()=>updateData(myChart));
 document.getElementById('clearButton').addEventListener('click', ()=>{clearSearch();updateData(myChart)});
