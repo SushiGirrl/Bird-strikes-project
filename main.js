@@ -185,6 +185,14 @@ function birdAttack() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     drawAirplane();
 
+    // Count amount of dots
+    let fillFunctionCallCount = 0;
+    CanvasRenderingContext2D.prototype.originalFill = CanvasRenderingContext2D.prototype.fill;
+    CanvasRenderingContext2D.prototype.fill = function() {
+        fillFunctionCallCount++; // Increment the counter
+        this.originalFill.apply(this, arguments); // Call the original fill function
+    };
+
     // Draw dots within the circular shape of the cockpit with a delay
     drawDotsInCockpitWithDelay();
 
@@ -231,6 +239,7 @@ function birdAttack() {
         airplane.x + 100, airplane.y + 8,
         airplane.x + 100, airplane.y + 15
     );
+    console.log(fillFunctionCallCount)
 }
 
 window.addEventListener("load", ()=>{
@@ -239,4 +248,5 @@ window.addEventListener("load", ()=>{
 })
 launch.addEventListener("click", () =>{
     birdAttack();
+
 })
