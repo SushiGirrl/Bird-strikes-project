@@ -5,8 +5,17 @@ body{
     justify-content: center;
 }
 .plane-visualisation{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     height: 35vh;
     width: 80vw;
+}
+.missiles{
+    margin: 10px;
+    max-width: 65px;
+    border-radius: 5px;
+    border: 0;
 }
 canvas{
     display: flex;
