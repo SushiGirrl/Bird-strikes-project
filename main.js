@@ -1,3 +1,5 @@
+console.log(data)
+
 const ctx = document.querySelector("#bar-test")
 const yLabels = data.map((row)=>row.Airport)
 const bgColorArray = []
@@ -15,8 +17,8 @@ const myChart = new Chart(ctx,
             labels:yLabels,
             datasets:[
                 {
-                    label:'Total cost per Airport',
-                    data: data.map(row=>row.total),
+                    label:'Total cost per Airport per year',
+                    data: data.map(row=>row.totalPerYear),
                     backgroundColor: bgColorArray,
                 }
             ]
