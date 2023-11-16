@@ -1,3 +1,9 @@
+console.log(data)
+
+const ctx = document.querySelector("#bar-test")
+const yLabels = data.map((row)=>row.Airport)
+const bgColorArray = []
+
 async function getData() {
     try {
         const response = await fetch('data.json');
@@ -8,10 +14,13 @@ async function getData() {
         return [];
     }
 }
-
 function displayResults(matchingAirports) {
     const resultsContainer = document.getElementById('results');
     resultsContainer.innerHTML = '';
+
+data.forEach((obj,index)=> {
+    obj.Airport == "UNKNOWN" ? bgColorArray[index]="grey" : bgColorArray[index]="#8C0383"
+})
 
     if (matchingAirports.length === 0) {
         resultsContainer.innerHTML = 'No results found. Sorry!';
@@ -27,6 +36,7 @@ function displayResults(matchingAirports) {
 function search() {
     const searchTerm = document.getElementById('searchInput').value.trim().toLowerCase();
     let matchingAirports;
+
 
     if (searchTerm.length === 1) {
         matchingAirports = airports.filter(airport =>
@@ -46,6 +56,43 @@ function clearSearch() {
     document.getElementById('searchInput').value = '';
     document.getElementById('results').innerHTML = '';
 }
+
+const myChart = new Chart(ctx,
+    {
+        type:'bar',
+        data:{
+            labels:yLabels,
+            datasets:[
+                {
+                    label:'Total cost per Airport per year',
+                    data: data.map(row=>row.totalPerYear),
+                    backgroundColor: bgColorArray,
+                }
+            ]
+        },
+        options:{
+            maintainAspectRatio: false,
+            indexAxis:"y",
+            plugins:{
+                title:{
+                    display:true,
+                    text:"The Cost",
+                    font:{
+                        size:22,
+                        weight: "bold",
+                    }
+                }
+            },
+            scales:{
+                y:{
+
+                },
+                x:{
+
+                },
+            },
+        }
+});
 
 let airports = []; // Define the variable for airports
 

@@ -2,22 +2,56 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.0/chart.min.js" ></script>
+    <link href="styles.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:regular,bold" rel="stylesheet">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Title</title>
 </head>
 <body>
-<div id="search-container">
-    <input type="text" id="searchInput" placeholder="Search...">
-    <button onclick="search()">Search</button>
-    <button onclick="clearSearch()">Clear</button>
-    <div id="results"></div>
+
+<div class="container">
+    <h1>Bird strikes</h1>
+    <section id="plane-chart">
+        <div class="plane">
+        <p>Placeholder for plane</p>
+    </div>
+    </section>
+
+    <section id="bar-chart">
+
+        <div id="search-container">
+            <input type="text" id="searchInput" placeholder="Search...">
+            <button onclick="search()">Search</button>
+            <button onclick="clearSearch()">Clear</button>
+            <div id="results"></div>
+        </div>
+
+        <div class="chart-wrapper">
+            <div class="chart-container" >
+                <canvas id="bar-test"></canvas>
+            </div>
+        </div>
+        <p>Above is a visualisation of the cost of all the recorded bird strikes since 1990</p>
+    </section>
+
+    <section id="text-chart">
+        <h2>What was the most expensive bird hit?</h2>
+    <div class="wrapper">
+        <div class="descriptor">Up Towards</div>
+        <div id="large-number">13,000,000 $</div>
+        <div class="descriptor">for ONE bird!</div>
+    </div>
+
+    </section>
+
+
+
 </div>
-
-<script src="data.json"></script>
-<script src="main.js"></script>
 </body>
+<script src="data.json"></script>
+<script src="data.js"></script>
+<script type="module" src="main.js"></script>
 </html>
-
-

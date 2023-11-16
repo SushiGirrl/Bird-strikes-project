@@ -15196,6 +15196,7 @@ let data = `[
 // Josef har skrevet nedenstående
 data = JSON.parse(data)
 data = data.filter(elem=>elem.total>0)
+data.forEach(elem=>elem.totalPerYear = (elem.total)/32)
 data = data.reverse()
-data = data.slice(0,59)
+//data = data.slice(0,59)
 data.forEach((obj)=>obj.Airport = obj.Airport.split(/[\s?=/]+/))
