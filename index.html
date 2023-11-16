@@ -2,21 +2,22 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.0/chart.min.js" ></script>
-    <link rel="stylesheet" href="styles.css">
-    <title>Title</title>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
 </head>
 <body>
-
-<div class="container">
-    <div class="chart-wrapper">
-        <div class="chart-container" >
-            <canvas id="bar-test"></canvas>
-        </div>
-    </div>
-<p>HI :)</p>
+<div id="search-container">
+    <input type="text" id="searchInput" placeholder="Search...">
+    <button onclick="search()">Search</button>
+    <button onclick="clearSearch()">Clear</button>
+    <div id="results"></div>
 </div>
+
+<script src="data.json"></script>
+<script src="main.js"></script>
 </body>
-<script src="data.js"></script>
-<script type="module" src="main.js"></script>
 </html>
+
+
