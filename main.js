@@ -3,9 +3,16 @@ console.log(data)
 // Josef har skrevet denne del
 const ctx = document.querySelector("#bar-test")
 const yLabels = data.map((row)=>row.Airport)
-const bgColorArray = []
+const bgColorArray = [];
+
+data.forEach((obj,index)=> {
+    obj.Airport[0] === "UNKNOWN" ? bgColorArray[index]="grey" : bgColorArray[index]="#8C0383"
+})
+
+const listOfAirports = data.map((row)=>row.Airport)
 
 // Josef har skrevet denne del
+/*
 async function getData() {
     try {
         const response = await fetch('data.json');
@@ -16,14 +23,12 @@ async function getData() {
         return [];
     }
 }
+
+ */
+/*
 function displayResults(matchingAirports) {
     const resultsContainer = document.getElementById('results');
     resultsContainer.innerHTML = '';
-
-data.forEach((obj,index)=> {
-    obj.Airport[0] === "UNKNOWN" ? bgColorArray[index]="grey" : bgColorArray[index]="#8C0383"
-})
-
     if (matchingAirports.length === 0) {
         resultsContainer.innerHTML = 'No results found. Sorry!';
     } else {
@@ -33,32 +38,59 @@ data.forEach((obj,index)=> {
             resultsContainer.appendChild(airportElement);
         });
     }
-}
+}*/
 
-function search() {
+
+/*
+function search(airports) {
     const searchTerm = document.getElementById('searchInput').value.trim().toLowerCase();
     let matchingAirports;
 
-// Josef har skrevet denne del
-
     if (searchTerm.length === 1) {
         matchingAirports = airports.filter(airport =>
-            airport.Airport.toLowerCase().startsWith(searchTerm)
+            airport.toLowerCase().startsWith(searchTerm)
         );
     } else {
         matchingAirports = airports.filter(airport =>
-            airport.Airport.toLowerCase().includes(searchTerm)
+            airport.toLowerCase().includes(searchTerm)
         );
     }
 
-    displayResults(matchingAirports);
+
+   // displayResults(matchingAirports);
+    console.log(matchingAirports)
+}*/
+function search(airports) {
+    const searchTerm = document.getElementById('searchInput').value.trim().toLowerCase();
+    let matchingAirports;
+
+    if (searchTerm.length === 1) {
+        matchingAirports = airports.filter(obj =>
+            obj.Airport.toLowerCase().startsWith(searchTerm)
+        );
+    } else {
+        matchingAirports = airports.filter(obj =>
+            obj.Airport.toLowerCase().includes(searchTerm)
+        );
+    }
+
+
+    // displayResults(matchingAirports);
+        console.log(matchingAirports)
+    return matchingAirports
 }
 
 
 function clearSearch() {
     document.getElementById('searchInput').value = '';
     document.getElementById('results').innerHTML = '';
+
+
 }
+
+
+
+
 
 const myChart = new Chart(ctx,
     {
@@ -74,6 +106,7 @@ const myChart = new Chart(ctx,
             ]
         },
         options:{
+            animation: false,
             maintainAspectRatio: false,
             indexAxis:"y",
             plugins:{
@@ -97,15 +130,25 @@ const myChart = new Chart(ctx,
         }
 });
 
+function updateData(chart){
+    let newData = search(data)
+    chart.data.labels = newData.map(row=>row.Airport);
+    chart.data.datasets[0].data = newData.map(row=>row.totalPerYear);
+    chart.canvas.parentNode.style.height = '500px';
+
+    chart.update();
+}
+
 let airports = []; // Define the variable for airports
 
+/*
 getData().then(data => {
     airports = data;
 }).catch(error => {
     console.error('Error fetching data:', error);
-});
+});*/
 
 // Attach event listeners
-document.getElementById('searchInput').addEventListener('input', search);
-document.getElementById('searchButton').addEventListener('click', search);
-document.getElementById('clearButton').addEventListener('click', clearSearch);
+document.getElementById('searchInput').addEventListener('input', ()=>search(data));
+document.getElementById('searchButton').addEventListener('click', ()=>updateData(myChart));
+document.getElementById('clearButton').addEventListener('click', ()=>{clearSearch();updateData(myChart)});
