@@ -1,0 +1,83 @@
+* {
+    margin:0;
+    padding:0;
+    font-family: "Montserrat";
+}
+body{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1E3859;
+}
+
+section {
+    margin-top: 50px;
+}
+
+
+h1 {
+    padding: 6px;
+    text-align: center;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.plane {
+    height: 400px;
+    width: 400px;
+    background-color: indianred;
+}
+
+.container {
+    border: solid 3px #D904A0;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-bar {
+    text-align: center;
+}
+
+.chart-wrapper {
+    height: 450px;
+    max-height: 450px;
+    overflow-y:scroll ;
+    margin: 20px 0;
+}
+
+.chart-container{
+    width: 500px;
+    height: 10000px
+}
+
+#bar-test {
+}
+
+p {
+    text-align: center;
+}
+#text-chart{
+    margin-bottom: 100px;
+}
+#text-chart h2{
+    margin-bottom: 20px;
+
+}
+
+.descriptor {
+    font-size: larger;
+}
+
+#large-number {
+    font-size: xx-large;
+    font-weight: bold;
+
+}

@@ -1,0 +1,6002 @@
+[
+  {
+    "total": 69977787,
+    "other": 10865557,
+    "repair": 59112230,
+    "Airport": "UNKNOWN"
+  },
+  {
+    "total": 53560187,
+    "other": 1072461,
+    "repair": 52487726,
+    "Airport": "LA GUARDIA ARPT"
+  },
+  {
+    "total": 40774476,
+    "other": 861493,
+    "repair": 39912983,
+    "Airport": "DENVER INTL AIRPORT"
+  },
+  {
+    "total": 38500034,
+    "other": 15006338,
+    "repair": 23493696,
+    "Airport": "CHICAGO O'HARE INTL ARPT"
+  },
+  {
+    "total": 37897250,
+    "other": 7969484,
+    "repair": 29927766,
+    "Airport": "JOHN F KENNEDY INTL"
+  },
+  {
+    "total": 28300295,
+    "other": 4897757,
+    "repair": 23402538,
+    "Airport": "SUBIC BAY INTL"
+  },
+  {
+    "total": 26236380,
+    "other": 692013,
+    "repair": 25544367,
+    "Airport": "SALT LAKE CITY INTL"
+  },
+  {
+    "total": 21493712,
+    "other": 715514,
+    "repair": 20778198,
+    "Airport": "GENERAL EDWARD LAWRENCE LOGAN INTL ARPT"
+  },
+  {
+    "total": 20318255,
+    "other": 2151993,
+    "repair": 18166262,
+    "Airport": "PORTLAND INTL (OR)"
+  },
+  {
+    "total": 16575553,
+    "other": 553,
+    "repair": 16575000,
+    "Airport": "KELLY FIELD AIRPORT"
+  },
+  {
+    "total": 15283539,
+    "other": 2459009,
+    "repair": 12824530,
+    "Airport": "MEMPHIS INTL"
+  },
+  {
+    "total": 14628855,
+    "other": 1093633,
+    "repair": 13535222,
+    "Airport": "SAN FRANCISCO INTL ARPT"
+  },
+  {
+    "total": 14554200,
+    "other": 38200,
+    "repair": 14516000,
+    "Airport": "TROY MUNICIPAL ARPT"
+  },
+  {
+    "total": 13936940,
+    "other": 777345,
+    "repair": 13159595,
+    "Airport": "LOS ANGELES INTL"
+  },
+  {
+    "total": 12083347,
+    "other": 172208,
+    "repair": 11911139,
+    "Airport": "FORT LAUDERDALE/HOLLYWOOD INTL"
+  },
+  {
+    "total": 12028217,
+    "other": 811544,
+    "repair": 11216673,
+    "Airport": "NEWARK LIBERTY INTL ARPT"
+  },
+  {
+    "total": 11902970,
+    "other": 255690,
+    "repair": 11647280,
+    "Airport": "NICE COTE D'AZUR INTL ARPT"
+  },
+  {
+    "total": 11839342,
+    "other": 1776449,
+    "repair": 10062893,
+    "Airport": "EPPLEY AIRFIELD"
+  },
+  {
+    "total": 11118233,
+    "other": 505062,
+    "repair": 10613171,
+    "Airport": "PALM BEACH INTL"
+  },
+  {
+    "total": 10301490,
+    "other": 764103,
+    "repair": 9537387,
+    "Airport": "AUSTIN-BERGSTROM INTL"
+  },
+  {
+    "total": 10052779,
+    "other": 4556356,
+    "repair": 5496423,
+    "Airport": "SEATTLE-TACOMA INTL"
+  },
+  {
+    "total": 9488843,
+    "other": 2196,
+    "repair": 9486647,
+    "Airport": "LUIS MUNOZ MARIN INTL"
+  },
+  {
+    "total": 9412552,
+    "other": 231225,
+    "repair": 9181327,
+    "Airport": "PHILADELPHIA INTL"
+  },
+  {
+    "total": 9251374,
+    "other": 1097098,
+    "repair": 8154276,
+    "Airport": "SACRAMENTO INTL"
+  },
+  {
+    "total": 9099141,
+    "other": 6937040,
+    "repair": 2162101,
+    "Airport": "TONCONTIN INTL"
+  },
+  {
+    "total": 8776064,
+    "other": 156599,
+    "repair": 8619465,
+    "Airport": "WASHINGTON DULLES INTL ARPT"
+  },
+  {
+    "total": 8766009,
+    "other": 150166,
+    "repair": 8615843,
+    "Airport": "MINNEAPOLIS-ST PAUL INTL/WOLD-CHAMBERLAIN ARPT"
+  },
+  {
+    "total": 8544256,
+    "other": 421426,
+    "repair": 8122830,
+    "Airport": "JAMES M COX DAYTON INTL"
+  },
+  {
+    "total": 7611186,
+    "other": 33516,
+    "repair": 7577670,
+    "Airport": "ASTORIA REGIONAL"
+  },
+  {
+    "total": 7464335,
+    "other": 144464,
+    "repair": 7319871,
+    "Airport": "TULSA INTL"
+  },
+  {
+    "total": 6725396,
+    "other": 1256,
+    "repair": 6724140,
+    "Airport": "MARTIN STATE ARPT"
+  },
+  {
+    "total": 6720893,
+    "other": 2280323,
+    "repair": 4440570,
+    "Airport": "METRO OAKLAND INTL"
+  },
+  {
+    "total": 6676550,
+    "other": 391299,
+    "repair": 6285251,
+    "Airport": "BILL AND  HILLARY CLINTON NATL ARPT/ADAMS FIELD"
+  },
+  {
+    "total": 6640000,
+    "other": 0,
+    "repair": 6640000,
+    "Airport": "NAIROBI JOMO KENYATA"
+  },
+  {
+    "total": 6506967,
+    "other": 172453,
+    "repair": 6334514,
+    "Airport": "MIAMI INTL"
+  },
+  {
+    "total": 6502568,
+    "other": 126251,
+    "repair": 6376317,
+    "Airport": "KANSAS CITY INTL"
+  },
+  {
+    "total": 6496567,
+    "other": 247980,
+    "repair": 6248587,
+    "Airport": "SPOKANE INTERNATIONAL"
+  },
+  {
+    "total": 6464683,
+    "other": 145440,
+    "repair": 6319243,
+    "Airport": "ORLANDO SANFORD INTL ARPT"
+  },
+  {
+    "total": 5788782,
+    "other": 23986,
+    "repair": 5764796,
+    "Airport": "TED STEVENS ANCHORAGE INTL"
+  },
+  {
+    "total": 5475392,
+    "other": 26771,
+    "repair": 5448621,
+    "Airport": "DETROIT METRO WAYNE COUNTY ARPT"
+  },
+  {
+    "total": 5060230,
+    "other": 4737860,
+    "repair": 322370,
+    "Airport": "KANSAI INTL"
+  },
+  {
+    "total": 5010662,
+    "other": 42132,
+    "repair": 4968530,
+    "Airport": "SITKA ROCKY GUTIERREZ ARPT"
+  },
+  {
+    "total": 4949478,
+    "other": 179026,
+    "repair": 4770452,
+    "Airport": "CITY OF COLORADO SPRINGS MUNI APRT"
+  },
+  {
+    "total": 4759744,
+    "other": 138500,
+    "repair": 4621244,
+    "Airport": "PU DONG INTL ARPT"
+  },
+  {
+    "total": 4681932,
+    "other": 181841,
+    "repair": 4500091,
+    "Airport": "MORRISTOWN MUNICIPAL ARPT"
+  },
+  {
+    "total": 4454105,
+    "other": 994654,
+    "repair": 3459451,
+    "Airport": "TETERBORO AIRPORT"
+  },
+  {
+    "total": 4390023,
+    "other": 242541,
+    "repair": 4147482,
+    "Airport": "GENERAL MITCHELL INTL"
+  },
+  {
+    "total": 4382120,
+    "other": 837958,
+    "repair": 3544162,
+    "Airport": "RONALD REAGAN WASHINGTON NATIONAL ARPT"
+  },
+  {
+    "total": 4298736,
+    "other": 770882,
+    "repair": 3527854,
+    "Airport": "DALLAS/FORT WORTH INTL ARPT"
+  },
+  {
+    "total": 4099289,
+    "other": 145194,
+    "repair": 3954095,
+    "Airport": "BOB HOPE ARPT"
+  },
+  {
+    "total": 3657651,
+    "other": 208680,
+    "repair": 3448971,
+    "Airport": "SOUTHWEST FLORIDA INTL ARPT"
+  },
+  {
+    "total": 3300747,
+    "other": 694354,
+    "repair": 2606393,
+    "Airport": "NAPLES MUNICIPAL"
+  },
+  {
+    "total": 3180194,
+    "other": 99944,
+    "repair": 3080250,
+    "Airport": "JOHN C TUNE ARPT"
+  },
+  {
+    "total": 3157084,
+    "other": 1111356,
+    "repair": 2045728,
+    "Airport": "LAMBERT-ST LOUIS INTL"
+  },
+  {
+    "total": 3122507,
+    "other": 1263891,
+    "repair": 1858616,
+    "Airport": "MUHAMMAD ALI INTERNATIONAL"
+  },
+  {
+    "total": 3041375,
+    "other": 850085,
+    "repair": 2191290,
+    "Airport": "BURKE LAKEFRONT"
+  },
+  {
+    "total": 2981932,
+    "other": 157268,
+    "repair": 2824664,
+    "Airport": "ABRAHAM LINCOLN CAPITAL ARPT"
+  },
+  {
+    "total": 2933443,
+    "other": 34501,
+    "repair": 2898942,
+    "Airport": "CINCINNATI/NORTHERN KENTUCKY INTL ARPT"
+  },
+  {
+    "total": 2847501,
+    "other": 253112,
+    "repair": 2594389,
+    "Airport": "DUPAGE AIRPORT"
+  },
+  {
+    "total": 2748981,
+    "other": 130366,
+    "repair": 2618615,
+    "Airport": "ORLANDO INTL"
+  },
+  {
+    "total": 2568263,
+    "other": 11197,
+    "repair": 2557066,
+    "Airport": "TRENTON MERCER ARPT"
+  },
+  {
+    "total": 2537700,
+    "other": 43502,
+    "repair": 2494198,
+    "Airport": "CHICAGO EXECUTIVE ARPT"
+  },
+  {
+    "total": 2511714,
+    "other": 9462,
+    "repair": 2502252,
+    "Airport": "NAPA COUNTY ARPT"
+  },
+  {
+    "total": 2501461,
+    "other": 39591,
+    "repair": 2461870,
+    "Airport": "NEW CASTLE COUNTY"
+  },
+  {
+    "total": 2460834,
+    "other": 42684,
+    "repair": 2418150,
+    "Airport": "JACKSONVILLE INTL"
+  },
+  {
+    "total": 2436738,
+    "other": 517584,
+    "repair": 1919154,
+    "Airport": "CLEVELAND-HOPKINS INTL ARPT"
+  },
+  {
+    "total": 2424909,
+    "other": 290117,
+    "repair": 2134792,
+    "Airport": "LOUIE ARMSTRONG NEW ORLEANS INTL ARPT"
+  },
+  {
+    "total": 2417004,
+    "other": 855,
+    "repair": 2416149,
+    "Airport": "SOUTH BEND REGIONAL"
+  },
+  {
+    "total": 2380627,
+    "other": 390822,
+    "repair": 1989805,
+    "Airport": "LIHUE ARPT"
+  },
+  {
+    "total": 2358000,
+    "other": 0,
+    "repair": 2358000,
+    "Airport": "SELETAR ARPT"
+  },
+  {
+    "total": 2355820,
+    "other": 0,
+    "repair": 2355820,
+    "Airport": "LEE GILMER MEMORIAL ARPT"
+  },
+  {
+    "total": 2301779,
+    "other": 1473734,
+    "repair": 828045,
+    "Airport": "JOHN WAYNE-ORANGE COUNTY ARPT"
+  },
+  {
+    "total": 2224485,
+    "other": 2952,
+    "repair": 2221533,
+    "Airport": "TOLEDO EXPRESS ARPT"
+  },
+  {
+    "total": 2213708,
+    "other": 1553379,
+    "repair": 660329,
+    "Airport": "LA AURORA"
+  },
+  {
+    "total": 2210518,
+    "other": 61073,
+    "repair": 2149445,
+    "Airport": "CINCINNATI MUNI ARPT-LUNKEN FIELD"
+  },
+  {
+    "total": 2088819,
+    "other": 101917,
+    "repair": 1986902,
+    "Airport": "TAMPA INTL"
+  },
+  {
+    "total": 2077832,
+    "other": 332,
+    "repair": 2077500,
+    "Airport": "OGDENSBURG INTL ARPT"
+  },
+  {
+    "total": 2030719,
+    "other": 4737,
+    "repair": 2025982,
+    "Airport": "GREATER ROCHESTER INTL"
+  },
+  {
+    "total": 2028111,
+    "other": 38287,
+    "repair": 1989824,
+    "Airport": "PURDUE UNIV ARPT"
+  },
+  {
+    "total": 1993606,
+    "other": 73469,
+    "repair": 1920137,
+    "Airport": "BIRMINGHAM-SHUTTLESWORTH INTL"
+  },
+  {
+    "total": 1988415,
+    "other": 293212,
+    "repair": 1695203,
+    "Airport": "LORAIN COUNTY REGIONAL ARPT"
+  },
+  {
+    "total": 1967091,
+    "other": 421093,
+    "repair": 1545998,
+    "Airport": "BALTIMORE/WASH INTL THURGOOD MARSHAL ARPT"
+  },
+  {
+    "total": 1917692,
+    "other": 265963,
+    "repair": 1651729,
+    "Airport": "WILL ROGERS WORLD ARPT"
+  },
+  {
+    "total": 1898042,
+    "other": 358582,
+    "repair": 1539460,
+    "Airport": "DALLAS LOVE FIELD ARPT"
+  },
+  {
+    "total": 1886665,
+    "other": 503879,
+    "repair": 1382786,
+    "Airport": "NORMAN Y. MINETA SAN JOSE INTL ARPT"
+  },
+  {
+    "total": 1870530,
+    "other": 7742,
+    "repair": 1862788,
+    "Airport": "FORT WORTH ALLIANCE"
+  },
+  {
+    "total": 1847785,
+    "other": 140681,
+    "repair": 1707104,
+    "Airport": "RICHMOND INTL"
+  },
+  {
+    "total": 1841035,
+    "other": 10031,
+    "repair": 1831004,
+    "Airport": "FRANKFURT MAIN"
+  },
+  {
+    "total": 1806000,
+    "other": 0,
+    "repair": 1806000,
+    "Airport": "LA ISABELA  INTL ARPT"
+  },
+  {
+    "total": 1734235,
+    "other": 0,
+    "repair": 1734235,
+    "Airport": "HEATHROW - LONDON"
+  },
+  {
+    "total": 1726334,
+    "other": 9234,
+    "repair": 1717100,
+    "Airport": "WILKES-BARRE/SCRANTON INTL"
+  },
+  {
+    "total": 1726000,
+    "other": 172600,
+    "repair": 1553400,
+    "Airport": "PIARCO TRINIDAD"
+  },
+  {
+    "total": 1724555,
+    "other": 572228,
+    "repair": 1152327,
+    "Airport": "KEY WEST INTL ARPT"
+  },
+  {
+    "total": 1717574,
+    "other": 181720,
+    "repair": 1535854,
+    "Airport": "JOE FOSS FIELD ARPT"
+  },
+  {
+    "total": 1713000,
+    "other": 571000,
+    "repair": 1142000,
+    "Airport": "SIMON BOLIVAR INTL"
+  },
+  {
+    "total": 1694966,
+    "other": 0,
+    "repair": 1694966,
+    "Airport": "CHARLES DE GAULLE"
+  },
+  {
+    "total": 1670869,
+    "other": 644579,
+    "repair": 1026290,
+    "Airport": "KLAMATH FALLS INTL"
+  },
+  {
+    "total": 1599937,
+    "other": 4818,
+    "repair": 1595119,
+    "Airport": "EDMONTON INTL"
+  },
+  {
+    "total": 1566457,
+    "other": 4390,
+    "repair": 1562067,
+    "Airport": "LEHIGH VALLEY INTL"
+  },
+  {
+    "total": 1558864,
+    "other": 176382,
+    "repair": 1382482,
+    "Airport": "MANASSAS REGNL ARPT/HARRY P. DAVIS FIELD"
+  },
+  {
+    "total": 1527160,
+    "other": 42960,
+    "repair": 1484200,
+    "Airport": "CALGARY INTL"
+  },
+  {
+    "total": 1516025,
+    "other": 0,
+    "repair": 1516025,
+    "Airport": "DAKAY-YOFF-LEOPOLD SEDAR SENGHOR"
+  },
+  {
+    "total": 1498536,
+    "other": 45566,
+    "repair": 1452970,
+    "Airport": "CHINO AIRPORT"
+  },
+  {
+    "total": 1476198,
+    "other": 3840,
+    "repair": 1472358,
+    "Airport": "SOUTHWEST OREGON REGIONAL ARPT"
+  },
+  {
+    "total": 1476124,
+    "other": 47254,
+    "repair": 1428870,
+    "Airport": "CHARLOTTE/DOUGLAS INTL ARPT"
+  },
+  {
+    "total": 1434104,
+    "other": 0,
+    "repair": 1434104,
+    "Airport": "MONTAUK ARPT"
+  },
+  {
+    "total": 1430462,
+    "other": 209667,
+    "repair": 1220795,
+    "Airport": "WILLIAM P HOBBY ARPT"
+  },
+  {
+    "total": 1429710,
+    "other": 149950,
+    "repair": 1279760,
+    "Airport": "ELKO REGIONAL ARPT"
+  },
+  {
+    "total": 1393194,
+    "other": 861938,
+    "repair": 531256,
+    "Airport": "ADDISON"
+  },
+  {
+    "total": 1333354,
+    "other": 14375,
+    "repair": 1318979,
+    "Airport": "JACKSON EVERS INTL"
+  },
+  {
+    "total": 1327927,
+    "other": 528975,
+    "repair": 798952,
+    "Airport": "WASHINGTON COUNTY"
+  },
+  {
+    "total": 1278780,
+    "other": 8045,
+    "repair": 1270735,
+    "Airport": "LAKEFRONT AIRPORT"
+  },
+  {
+    "total": 1252164,
+    "other": 126529,
+    "repair": 1125635,
+    "Airport": "WESTCHESTER COUNTY ARPT"
+  },
+  {
+    "total": 1247263,
+    "other": 354891,
+    "repair": 892372,
+    "Airport": "VAN NUYS ARPT"
+  },
+  {
+    "total": 1196729,
+    "other": 3842,
+    "repair": 1192887,
+    "Airport": "ST LOUIS DOWNTOWN"
+  },
+  {
+    "total": 1193668,
+    "other": 21742,
+    "repair": 1171926,
+    "Airport": "FORT WORTH MEACHAM INTL ARPT"
+  },
+  {
+    "total": 1172874,
+    "other": 108078,
+    "repair": 1064796,
+    "Airport": "CHARLES B WHEELER DOWNTOWN ARPT"
+  },
+  {
+    "total": 1146000,
+    "other": 0,
+    "repair": 1146000,
+    "Airport": "BARNESVILLE-BRADFIELD ARPT"
+  },
+  {
+    "total": 1144477,
+    "other": 23074,
+    "repair": 1121403,
+    "Airport": "GEORGE BUSH INTERCONTINENTAL/ HOUSTON ARPT"
+  },
+  {
+    "total": 1137717,
+    "other": 119147,
+    "repair": 1018570,
+    "Airport": "DAYTONA BEACH INTL"
+  },
+  {
+    "total": 1133909,
+    "other": 2675,
+    "repair": 1131234,
+    "Airport": "WILLIAMSON COUNTY REGIONAL"
+  },
+  {
+    "total": 1119908,
+    "other": 45075,
+    "repair": 1074833,
+    "Airport": "BISHOP INTL ARPT"
+  },
+  {
+    "total": 1098923,
+    "other": 4973,
+    "repair": 1093950,
+    "Airport": "ANGELINA COUNTY"
+  },
+  {
+    "total": 1091557,
+    "other": 318719,
+    "repair": 772838,
+    "Airport": "SPIRIT OF ST LOUIS"
+  },
+  {
+    "total": 1083787,
+    "other": 24118,
+    "repair": 1059669,
+    "Airport": "ASHEVILLE REGIONAL ARPT"
+  },
+  {
+    "total": 1082738,
+    "other": 78445,
+    "repair": 1004293,
+    "Airport": "CHICAGO MIDWAY INTL ARPT"
+  },
+  {
+    "total": 1059100,
+    "other": 159305,
+    "repair": 899795,
+    "Airport": "JOHN GLENN COLUMBUS INTL ARPT"
+  },
+  {
+    "total": 1033363,
+    "other": 17499,
+    "repair": 1015864,
+    "Airport": "RENTON MUNICIPAL ARPT"
+  },
+  {
+    "total": 1032424,
+    "other": 52859,
+    "repair": 979565,
+    "Airport": "LAFAYETTE REGIONAL"
+  },
+  {
+    "total": 1031690,
+    "other": 534490,
+    "repair": 497200,
+    "Airport": "LOGAN COUNTY ARPT"
+  },
+  {
+    "total": 1026300,
+    "other": 522000,
+    "repair": 504300,
+    "Airport": "SMITH REYOLDS ARPT"
+  },
+  {
+    "total": 1024425,
+    "other": 0,
+    "repair": 1024425,
+    "Airport": "FIUMICINO ARPT"
+  },
+  {
+    "total": 1016720,
+    "other": 14320,
+    "repair": 1002400,
+    "Airport": "MONROE-WALTON COUNTY"
+  },
+  {
+    "total": 1011854,
+    "other": 430354,
+    "repair": 581500,
+    "Airport": "OCALA INTL ARPT-JIM TAYLOR FIELD"
+  },
+  {
+    "total": 1006618,
+    "other": 0,
+    "repair": 1006618,
+    "Airport": "TRI-STATE STEUBEN COUNTY ARPT"
+  },
+  {
+    "total": 978310,
+    "other": 519462,
+    "repair": 458848,
+    "Airport": "SAN ANTONIO INTL"
+  },
+  {
+    "total": 977723,
+    "other": 0,
+    "repair": 977723,
+    "Airport": "INDIRA GANDHI INTL"
+  },
+  {
+    "total": 955348,
+    "other": 26399,
+    "repair": 928949,
+    "Airport": "NORFOLK INTL"
+  },
+  {
+    "total": 940760,
+    "other": 42935,
+    "repair": 897825,
+    "Airport": "RALEIGH EXEC JETPORT AT SANFORD-LEE CNTY ARPT"
+  },
+  {
+    "total": 938944,
+    "other": 69040,
+    "repair": 869904,
+    "Airport": "GRND GLAIZE-OSAGE BEACH"
+  },
+  {
+    "total": 935203,
+    "other": 493278,
+    "repair": 441925,
+    "Airport": "WESTERN NEBRASKA REGNL ARPT/WILLIAM B. HEILIG FIELD"
+  },
+  {
+    "total": 925020,
+    "other": 662360,
+    "repair": 262660,
+    "Airport": "JOSE MARTI INTL ARPT"
+  },
+  {
+    "total": 916014,
+    "other": 0,
+    "repair": 916014,
+    "Airport": "NOME ARPT"
+  },
+  {
+    "total": 914814,
+    "other": 103314,
+    "repair": 811500,
+    "Airport": "ALTOONA-BLAIR COUNTY"
+  },
+  {
+    "total": 907047,
+    "other": 109719,
+    "repair": 797328,
+    "Airport": "NEWPORT NEWS/WILLIAMSBURG INTL"
+  },
+  {
+    "total": 902400,
+    "other": 300800,
+    "repair": 601600,
+    "Airport": "ROSEAU MUNI ARPT/RUDY BILLBERG FLD"
+  },
+  {
+    "total": 900250,
+    "other": 0,
+    "repair": 900250,
+    "Airport": "DADE-COLLIER TRAINING & TRANSITION ARPT"
+  },
+  {
+    "total": 888500,
+    "other": 0,
+    "repair": 888500,
+    "Airport": "LAS CRUCES INTL"
+  },
+  {
+    "total": 875920,
+    "other": 198335,
+    "repair": 677585,
+    "Airport": "EL PASO INTL ARPT"
+  },
+  {
+    "total": 864088,
+    "other": 0,
+    "repair": 864088,
+    "Airport": "DANBURY MUNICIPAL ARPT"
+  },
+  {
+    "total": 862064,
+    "other": 2864,
+    "repair": 859200,
+    "Airport": "BARROW COUNTY ARPT"
+  },
+  {
+    "total": 855325,
+    "other": 329376,
+    "repair": 525949,
+    "Airport": "SINGAPORE CHANGI AIRPORT"
+  },
+  {
+    "total": 844818,
+    "other": 81799,
+    "repair": 763019,
+    "Airport": "LEESBURG EXECUTIVE ARPT"
+  },
+  {
+    "total": 840630,
+    "other": 26865,
+    "repair": 813765,
+    "Airport": "GERALD R. FORD INTL ARPT"
+  },
+  {
+    "total": 839668,
+    "other": 156269,
+    "repair": 683399,
+    "Airport": "JOHN MURTHA JOHNSTOWN-CAMBRIA COUNTY ARPT"
+  },
+  {
+    "total": 836966,
+    "other": 327593,
+    "repair": 509373,
+    "Airport": "BRADLEY INTL"
+  },
+  {
+    "total": 830891,
+    "other": 5596,
+    "repair": 825295,
+    "Airport": "WAUKEGAN REGIONAL ARPT"
+  },
+  {
+    "total": 800427,
+    "other": 735,
+    "repair": 799692,
+    "Airport": "AKRON-CANTON REGIONAL"
+  },
+  {
+    "total": 790309,
+    "other": 124484,
+    "repair": 665825,
+    "Airport": "OWENSBORO-DAVIESS"
+  },
+  {
+    "total": 789509,
+    "other": 344333,
+    "repair": 445176,
+    "Airport": "REPUBLIC AIRPORT"
+  },
+  {
+    "total": 785741,
+    "other": 2741,
+    "repair": 783000,
+    "Airport": "CHERRY POINT MARINE AIR CORPS AIR ST"
+  },
+  {
+    "total": 780200,
+    "other": 33200,
+    "repair": 747000,
+    "Airport": "WATSONVILLE MUNICIPAL ARPT"
+  },
+  {
+    "total": 773217,
+    "other": 71670,
+    "repair": 701547,
+    "Airport": "GRIFFING SANDUSKY ARPT"
+  },
+  {
+    "total": 762532,
+    "other": 113093,
+    "repair": 649439,
+    "Airport": "GARY/CHICAGO INTL ARPT"
+  },
+  {
+    "total": 746140,
+    "other": 94668,
+    "repair": 651472,
+    "Airport": "BOEING FIELD/KING COUNTY INTL ARPT"
+  },
+  {
+    "total": 736429,
+    "other": 53763,
+    "repair": 682666,
+    "Airport": "NORTHEAST FLORIDA REGIONAL"
+  },
+  {
+    "total": 734600,
+    "other": 13008,
+    "repair": 721592,
+    "Airport": "PITTSBURGH INTL ARPT"
+  },
+  {
+    "total": 724574,
+    "other": 0,
+    "repair": 724574,
+    "Airport": "COLUMBUS MUNICIPAL ARPT (IN)"
+  },
+  {
+    "total": 714298,
+    "other": 12948,
+    "repair": 701350,
+    "Airport": "CAIRO INTL"
+  },
+  {
+    "total": 708629,
+    "other": 138147,
+    "repair": 570482,
+    "Airport": "SAN DIEGO INTL"
+  },
+  {
+    "total": 700646,
+    "other": 0,
+    "repair": 700646,
+    "Airport": "FORBES FIELD AIRPORT"
+  },
+  {
+    "total": 692768,
+    "other": 11825,
+    "repair": 680943,
+    "Airport": "ST. PAUL DOWNTOWN ARPT/HOLMAN FIELD"
+  },
+  {
+    "total": 685200,
+    "other": 342600,
+    "repair": 342600,
+    "Airport": "PUNTA CANA INTL"
+  },
+  {
+    "total": 676822,
+    "other": 300822,
+    "repair": 376000,
+    "Airport": "AUGUSTA STATE"
+  },
+  {
+    "total": 676260,
+    "other": 79560,
+    "repair": 596700,
+    "Airport": "SULLIVAN COUNTY INTL"
+  },
+  {
+    "total": 668414,
+    "other": 230154,
+    "repair": 438260,
+    "Airport": "EXECUTIVE ARPT"
+  },
+  {
+    "total": 665076,
+    "other": 29894,
+    "repair": 635182,
+    "Airport": "JACQUELINE COCHRAN REGIONAL ARPT"
+  },
+  {
+    "total": 664800,
+    "other": 415500,
+    "repair": 249300,
+    "Airport": "NEW BRAUNFELS MUNICIPAL ARPT"
+  },
+  {
+    "total": 660345,
+    "other": 425741,
+    "repair": 234604,
+    "Airport": "SOUTHWEST MINNESOTA REGNL ARPT-MARSHALL/RYAN FIELD"
+  },
+  {
+    "total": 658388,
+    "other": 86750,
+    "repair": 571638,
+    "Airport": "COLUMBUS ARPT"
+  },
+  {
+    "total": 652760,
+    "other": 25343,
+    "repair": 627417,
+    "Airport": "PRIVATE AIR STRIP"
+  },
+  {
+    "total": 647971,
+    "other": 357147,
+    "repair": 290824,
+    "Airport": "SCHUYKILL COUNTY (JOE ZERBEY) ARPT"
+  },
+  {
+    "total": 646485,
+    "other": 118185,
+    "repair": 528300,
+    "Airport": "ONTARIO INTL ARPT"
+  },
+  {
+    "total": 644706,
+    "other": 306,
+    "repair": 644400,
+    "Airport": "KALAMAZOO/BATTLE CREEK INTL"
+  },
+  {
+    "total": 642079,
+    "other": 19222,
+    "repair": 622857,
+    "Airport": "HARTSFIELD - JACKSON ATLANTA INTL ARPT"
+  },
+  {
+    "total": 639556,
+    "other": 0,
+    "repair": 639556,
+    "Airport": "ANDERSON REGIONAL"
+  },
+  {
+    "total": 628500,
+    "other": 0,
+    "repair": 628500,
+    "Airport": "UGNU-KUPARUK ARPT"
+  },
+  {
+    "total": 627523,
+    "other": 46163,
+    "repair": 581360,
+    "Airport": "LA CROSSE MUNICIPAL AIRPORT"
+  },
+  {
+    "total": 624012,
+    "other": 475338,
+    "repair": 148674,
+    "Airport": "YAKUTAT ARPT"
+  },
+  {
+    "total": 623943,
+    "other": 693,
+    "repair": 623250,
+    "Airport": "SOLBERG-HUNTERDON"
+  },
+  {
+    "total": 612976,
+    "other": 133876,
+    "repair": 479100,
+    "Airport": "SUGAR LAND REGIONAL ARPT"
+  },
+  {
+    "total": 605098,
+    "other": 146473,
+    "repair": 458625,
+    "Airport": "PHOENIX SKY HARBOR INTL ARPT"
+  },
+  {
+    "total": 601439,
+    "other": 35210,
+    "repair": 566229,
+    "Airport": "SALISBURY-OCEAN CITY WICOMICO REGNL ARPT"
+  },
+  {
+    "total": 598851,
+    "other": 2864,
+    "repair": 595987,
+    "Airport": "SHOW LOW REGIONAL ARPT"
+  },
+  {
+    "total": 598602,
+    "other": 5042,
+    "repair": 593560,
+    "Airport": "MIDDLE GEORGIA REGIONAL"
+  },
+  {
+    "total": 598441,
+    "other": 18359,
+    "repair": 580082,
+    "Airport": "WINCHESTER REGIONAL ARPT"
+  },
+  {
+    "total": 597184,
+    "other": 476784,
+    "repair": 120400,
+    "Airport": "BRIGHAM CITY ARPT"
+  },
+  {
+    "total": 597020,
+    "other": 0,
+    "repair": 597020,
+    "Airport": "GREAT FALLS INTL"
+  },
+  {
+    "total": 597008,
+    "other": 296056,
+    "repair": 300952,
+    "Airport": "DANIEL K. INOUYE INTERNATIONAL AIRPORT"
+  },
+  {
+    "total": 596784,
+    "other": 256219,
+    "repair": 340565,
+    "Airport": "CLARK COUNTY REGIONAL ARPT (IN)"
+  },
+  {
+    "total": 594320,
+    "other": 41730,
+    "repair": 552590,
+    "Airport": "LONDON-CORBIN ARPT-MAGEE  FIELD"
+  },
+  {
+    "total": 591561,
+    "other": 84225,
+    "repair": 507336,
+    "Airport": "INDIANAPOLIS INTL ARPT"
+  },
+  {
+    "total": 590959,
+    "other": 168688,
+    "repair": 422271,
+    "Airport": "LAURENCE G HANSCOM FIELD ARPT"
+  },
+  {
+    "total": 587504,
+    "other": 800,
+    "repair": 586704,
+    "Airport": "CASPER/NATRONA COUNTY INTL ARPT"
+  },
+  {
+    "total": 586199,
+    "other": 394334,
+    "repair": 191865,
+    "Airport": "GREENVILLE-SPARTANBURG INTL"
+  },
+  {
+    "total": 582566,
+    "other": 1322,
+    "repair": 581244,
+    "Airport": "GAINESVILLE REG ARPT"
+  },
+  {
+    "total": 578558,
+    "other": 194028,
+    "repair": 384530,
+    "Airport": "JACKSON HOLE"
+  },
+  {
+    "total": 564438,
+    "other": 456750,
+    "repair": 107688,
+    "Airport": "CLINTONVILLE MUNICIPAL ARPT"
+  },
+  {
+    "total": 556288,
+    "other": 12430,
+    "repair": 543858,
+    "Airport": "INCHEON INTL"
+  },
+  {
+    "total": 548279,
+    "other": 142964,
+    "repair": 405315,
+    "Airport": "SARASOTA-BRADENTON INTL ARPT"
+  },
+  {
+    "total": 522770,
+    "other": 69410,
+    "repair": 453360,
+    "Airport": "SPRINGERVILLE MUNICIPAL"
+  },
+  {
+    "total": 516208,
+    "other": 401312,
+    "repair": 114896,
+    "Airport": "HUNTSVILLE INTL ARPT-CARL T JONES FIELD"
+  },
+  {
+    "total": 515540,
+    "other": 15540,
+    "repair": 500000,
+    "Airport": "BANGOR INTL"
+  },
+  {
+    "total": 512720,
+    "other": 35123,
+    "repair": 477597,
+    "Airport": "VALENCIA AIRPORT"
+  },
+  {
+    "total": 509229,
+    "other": 2949,
+    "repair": 506280,
+    "Airport": "CECIL ARPT"
+  },
+  {
+    "total": 505253,
+    "other": 1105,
+    "repair": 504148,
+    "Airport": "WILEY POST ARPT"
+  },
+  {
+    "total": 499281,
+    "other": 329251,
+    "repair": 170030,
+    "Airport": "VICTORIA REGIONAL"
+  },
+  {
+    "total": 496293,
+    "other": 161850,
+    "repair": 334443,
+    "Airport": "HONG KONG INTL"
+  },
+  {
+    "total": 495878,
+    "other": 664,
+    "repair": 495214,
+    "Airport": "SHREVEPORT REGIONAL"
+  },
+  {
+    "total": 487577,
+    "other": 154900,
+    "repair": 332677,
+    "Airport": "MC CARRAN INTL ARPT"
+  },
+  {
+    "total": 487180,
+    "other": 378049,
+    "repair": 109131,
+    "Airport": "JUNEAU INTL ARPT"
+  },
+  {
+    "total": 480669,
+    "other": 11288,
+    "repair": 469381,
+    "Airport": "BISMARCK MUNICIPAL ARPT"
+  },
+  {
+    "total": 472232,
+    "other": 68063,
+    "repair": 404169,
+    "Airport": "HANCOCK COUNTY-BAR HARBOR"
+  },
+  {
+    "total": 467980,
+    "other": 603,
+    "repair": 467377,
+    "Airport": "MALCOLM MCKINNON ARPT"
+  },
+  {
+    "total": 463365,
+    "other": 38755,
+    "repair": 424610,
+    "Airport": "PORTER COUNTY MUNICIPAL"
+  },
+  {
+    "total": 459189,
+    "other": 59086,
+    "repair": 400103,
+    "Airport": "GREENVILLE DOWNTOWN ARPT"
+  },
+  {
+    "total": 450060,
+    "other": 86223,
+    "repair": 363837,
+    "Airport": "LINCOLN ARPT"
+  },
+  {
+    "total": 449820,
+    "other": 220500,
+    "repair": 229320,
+    "Airport": "MILLVILLE MUNICIPAL ARPT"
+  },
+  {
+    "total": 444511,
+    "other": 195270,
+    "repair": 249241,
+    "Airport": "NASHVILLE INTL"
+  },
+  {
+    "total": 443171,
+    "other": 970,
+    "repair": 442201,
+    "Airport": "EL MONTE ARPT"
+  },
+  {
+    "total": 419119,
+    "other": 228,
+    "repair": 418891,
+    "Airport": "LOS CABOS INTL"
+  },
+  {
+    "total": 416546,
+    "other": 102765,
+    "repair": 313781,
+    "Airport": "ATLANTIC CITY INTL"
+  },
+  {
+    "total": 414680,
+    "other": 20880,
+    "repair": 393800,
+    "Airport": "NEVADA COUNTY AIR PARK"
+  },
+  {
+    "total": 414674,
+    "other": 5684,
+    "repair": 408990,
+    "Airport": "SAULT STE MARIE MUNICIPAL"
+  },
+  {
+    "total": 414104,
+    "other": 164331,
+    "repair": 249773,
+    "Airport": "CENTENNIAL ARPT"
+  },
+  {
+    "total": 411538,
+    "other": 21740,
+    "repair": 389798,
+    "Airport": "JACK BROOKS REGIONAL ARPT"
+  },
+  {
+    "total": 402530,
+    "other": 60986,
+    "repair": 341544,
+    "Airport": "FRANCIS S GABRESKI ARPT"
+  },
+  {
+    "total": 400781,
+    "other": 1747,
+    "repair": 399034,
+    "Airport": "JUAN SANTAMARIA INTL"
+  },
+  {
+    "total": 398780,
+    "other": 154432,
+    "repair": 244348,
+    "Airport": "JEFFERSON CITY MEMORIAL ARPT"
+  },
+  {
+    "total": 397209,
+    "other": 66497,
+    "repair": 330712,
+    "Airport": "VERO BEACH MUNICIPAL"
+  },
+  {
+    "total": 389022,
+    "other": 39275,
+    "repair": 349747,
+    "Airport": "NORTH CENTRAL WEST VIRGINIA ARPT"
+  },
+  {
+    "total": 388652,
+    "other": 320904,
+    "repair": 67748,
+    "Airport": "DON MUEANG INTL ARPT"
+  },
+  {
+    "total": 387968,
+    "other": 68736,
+    "repair": 319232,
+    "Airport": "JACKSON COUNTY ARPT-REYNOLDS FIELD"
+  },
+  {
+    "total": 387945,
+    "other": 148230,
+    "repair": 239715,
+    "Airport": "STOCKTON METRO"
+  },
+  {
+    "total": 380006,
+    "other": 0,
+    "repair": 380006,
+    "Airport": "MARCO ISLAND ARPT"
+  },
+  {
+    "total": 373500,
+    "other": 8300,
+    "repair": 365200,
+    "Airport": "WITTMAN REGIONAL ARPT"
+  },
+  {
+    "total": 370799,
+    "other": 207799,
+    "repair": 163000,
+    "Airport": "MONROE REGIONAL ARPT"
+  },
+  {
+    "total": 363348,
+    "other": 158669,
+    "repair": 204679,
+    "Airport": "FORT LAUDERDALE EXECUTIVE ARPT"
+  },
+  {
+    "total": 361200,
+    "other": 0,
+    "repair": 361200,
+    "Airport": "WILEY POST-WILL ROGERS MEM"
+  },
+  {
+    "total": 358274,
+    "other": 132996,
+    "repair": 225278,
+    "Airport": "EASTERWOOD FIELD AIRPORT"
+  },
+  {
+    "total": 357775,
+    "other": 565,
+    "repair": 357210,
+    "Airport": "GUANAJUATO DEL BAJIO INTL"
+  },
+  {
+    "total": 356772,
+    "other": 103287,
+    "repair": 253485,
+    "Airport": "TYLER POUNDS REGIONAL ARPT"
+  },
+  {
+    "total": 355114,
+    "other": 47490,
+    "repair": 307624,
+    "Airport": "BOISE AIR TERMINAL/GOWEN FIELD"
+  },
+  {
+    "total": 348137,
+    "other": 83439,
+    "repair": 264698,
+    "Airport": "CHARLESTON EXECUTIVE ARPT"
+  },
+  {
+    "total": 347015,
+    "other": 272602,
+    "repair": 74413,
+    "Airport": "GRAND FORKS INTL"
+  },
+  {
+    "total": 345376,
+    "other": 3315,
+    "repair": 342061,
+    "Airport": "LAWRENCE SMITH MEMORIAL ARPT"
+  },
+  {
+    "total": 345280,
+    "other": 13280,
+    "repair": 332000,
+    "Airport": "ARTURO MICHELENA INTL"
+  },
+  {
+    "total": 342027,
+    "other": 253313,
+    "repair": 88714,
+    "Airport": "SACRAMENTO EXECUTIVE ARPT"
+  },
+  {
+    "total": 341980,
+    "other": 40381,
+    "repair": 301599,
+    "Airport": "DEKALB-PEACHTREE ARPT"
+  },
+  {
+    "total": 339503,
+    "other": 113535,
+    "repair": 225968,
+    "Airport": "JOHN F KENNEDY MEMORIAL"
+  },
+  {
+    "total": 339124,
+    "other": 3571,
+    "repair": 335553,
+    "Airport": "ELLINGTON FIELD ARPT"
+  },
+  {
+    "total": 338804,
+    "other": 3248,
+    "repair": 335556,
+    "Airport": "WILLOUGHBY LOST NATION MUNI ARPT"
+  },
+  {
+    "total": 338562,
+    "other": 0,
+    "repair": 338562,
+    "Airport": "BUTLER COUNTY REGIONAL"
+  },
+  {
+    "total": 337762,
+    "other": 269750,
+    "repair": 68012,
+    "Airport": "BOERNE STAGE FIELD"
+  },
+  {
+    "total": 335608,
+    "other": 35608,
+    "repair": 300000,
+    "Airport": "FRIEDMAN MEMORIAL"
+  },
+  {
+    "total": 329080,
+    "other": 0,
+    "repair": 329080,
+    "Airport": "DEXTER B FLORENCE MEMORIAL FIELD ARPT"
+  },
+  {
+    "total": 328048,
+    "other": 194880,
+    "repair": 133168,
+    "Airport": "TRUKEE-TAHOE ARPT"
+  },
+  {
+    "total": 326411,
+    "other": 182737,
+    "repair": 143674,
+    "Airport": "PIEDMONT TRIAD INTL"
+  },
+  {
+    "total": 320266,
+    "other": 0,
+    "repair": 320266,
+    "Airport": "OCONEE COUNTY REGIONAL ARPT"
+  },
+  {
+    "total": 318867,
+    "other": 20517,
+    "repair": 298350,
+    "Airport": "PERSON COUNTY ARPT"
+  },
+  {
+    "total": 317548,
+    "other": 1550,
+    "repair": 315998,
+    "Airport": "MOBILE DOWNTOWN ARPT"
+  },
+  {
+    "total": 311372,
+    "other": 126525,
+    "repair": 184847,
+    "Airport": "READING REGNL ARPT/CARL A SPAATZ FIELD"
+  },
+  {
+    "total": 309775,
+    "other": 75978,
+    "repair": 233797,
+    "Airport": "HOUSTON EXECUTIVE ARPT"
+  },
+  {
+    "total": 309524,
+    "other": 4910,
+    "repair": 304614,
+    "Airport": "MCNARY FLD ARPT"
+  },
+  {
+    "total": 303289,
+    "other": 154264,
+    "repair": 149025,
+    "Airport": "HOUMA-TERREBONNE ARPT"
+  },
+  {
+    "total": 301626,
+    "other": 93876,
+    "repair": 207750,
+    "Airport": "UNALASKA ARPT"
+  },
+  {
+    "total": 301000,
+    "other": 0,
+    "repair": 301000,
+    "Airport": "BRAINERD LAKES REGIONAL ARPT"
+  },
+  {
+    "total": 300656,
+    "other": 18365,
+    "repair": 282291,
+    "Airport": "BOWERMAN ARPT"
+  },
+  {
+    "total": 300000,
+    "other": 0,
+    "repair": 300000,
+    "Airport": "PAOLI MUNICIPAL AIRPORT"
+  },
+  {
+    "total": 293494,
+    "other": 0,
+    "repair": 293494,
+    "Airport": "WACO REGIONAL ARPT"
+  },
+  {
+    "total": 290500,
+    "other": 0,
+    "repair": 290500,
+    "Airport": "EAGLE COUNTY REGIONAL"
+  },
+  {
+    "total": 290206,
+    "other": 4780,
+    "repair": 285426,
+    "Airport": "ELMIRA/CORNING REGIONAL ARPT"
+  },
+  {
+    "total": 289981,
+    "other": 203402,
+    "repair": 86579,
+    "Airport": "WILLOW RUN ARPT"
+  },
+  {
+    "total": 288145,
+    "other": 57461,
+    "repair": 230684,
+    "Airport": "MONROE COUNTY"
+  },
+  {
+    "total": 282688,
+    "other": 85,
+    "repair": 282603,
+    "Airport": "FORT SMITH REGIONAL ARPT"
+  },
+  {
+    "total": 282549,
+    "other": 179950,
+    "repair": 102599,
+    "Airport": "SAN PEDRO SULA LA MESA"
+  },
+  {
+    "total": 278880,
+    "other": 46480,
+    "repair": 232400,
+    "Airport": "AURORA STATE ARPT"
+  },
+  {
+    "total": 275983,
+    "other": 0,
+    "repair": 275983,
+    "Airport": "QUONSET STATE ARPT"
+  },
+  {
+    "total": 274050,
+    "other": 0,
+    "repair": 274050,
+    "Airport": "WALKER FIELD (IA)"
+  },
+  {
+    "total": 273807,
+    "other": 32976,
+    "repair": 240831,
+    "Airport": "DANE COUNTY REGIONAL ARPT-TRUAX FLD"
+  },
+  {
+    "total": 271250,
+    "other": 59250,
+    "repair": 212000,
+    "Airport": "CHIPPEWA COUNTY INTL ARPT"
+  },
+  {
+    "total": 269007,
+    "other": 1660,
+    "repair": 267347,
+    "Airport": "ROCKY MOUNTAIN METROPOLITAN ARPT"
+  },
+  {
+    "total": 265000,
+    "other": 0,
+    "repair": 265000,
+    "Airport": "DAYTON-WRIGHT BROTHERS ARPT"
+  },
+  {
+    "total": 264355,
+    "other": 16185,
+    "repair": 248170,
+    "Airport": "GEORGE T LEWIS ARPT"
+  },
+  {
+    "total": 263645,
+    "other": 0,
+    "repair": 263645,
+    "Airport": "CONCORD REGIONAL ARPT"
+  },
+  {
+    "total": 263092,
+    "other": 28334,
+    "repair": 234758,
+    "Airport": "RENO TAHOE INTL"
+  },
+  {
+    "total": 256159,
+    "other": 23905,
+    "repair": 232254,
+    "Airport": "JONESBORO MUNICIPAL ARPT"
+  },
+  {
+    "total": 255730,
+    "other": 0,
+    "repair": 255730,
+    "Airport": "CAMDENTON MEMORIAL ARPT"
+  },
+  {
+    "total": 254873,
+    "other": 70960,
+    "repair": 183913,
+    "Airport": "LIMA ALLEN COUNTY"
+  },
+  {
+    "total": 250086,
+    "other": 29499,
+    "repair": 220587,
+    "Airport": "MELBOURNE INTL"
+  },
+  {
+    "total": 248309,
+    "other": 49671,
+    "repair": 198638,
+    "Airport": "OAKLAND COUNTY INTL"
+  },
+  {
+    "total": 248278,
+    "other": 52181,
+    "repair": 196097,
+    "Airport": "QUAD CITY ARPT"
+  },
+  {
+    "total": 245120,
+    "other": 33810,
+    "repair": 211310,
+    "Airport": "PALESTINE MUNICIPAL ARPT"
+  },
+  {
+    "total": 244480,
+    "other": 15280,
+    "repair": 229200,
+    "Airport": "ASHE COUNTY"
+  },
+  {
+    "total": 242690,
+    "other": 11280,
+    "repair": 231410,
+    "Airport": "MASON COUNTY ARPT (MI)"
+  },
+  {
+    "total": 238280,
+    "other": 0,
+    "repair": 238280,
+    "Airport": "DRUMMOND ISLAND ARPT"
+  },
+  {
+    "total": 236965,
+    "other": 8565,
+    "repair": 228400,
+    "Airport": "MC ELROY AIRFIELD"
+  },
+  {
+    "total": 236132,
+    "other": 4362,
+    "repair": 231770,
+    "Airport": "ALBANY INTL"
+  },
+  {
+    "total": 235850,
+    "other": 10290,
+    "repair": 225560,
+    "Airport": "KAHULUI ARPT"
+  },
+  {
+    "total": 235800,
+    "other": 0,
+    "repair": 235800,
+    "Airport": "VIRGINIA TECH/MONTGOMERY EXEC ARPT"
+  },
+  {
+    "total": 233710,
+    "other": 1733,
+    "repair": 231977,
+    "Airport": "RICKENBACKER INTL"
+  },
+  {
+    "total": 231000,
+    "other": 85000,
+    "repair": 146000,
+    "Airport": "EGLIN AIR FORCE BASE/DESTIN-FORT WALTON BEACH AIRPORT"
+  },
+  {
+    "total": 230937,
+    "other": 0,
+    "repair": 230937,
+    "Airport": "FLOYD W. JONES LEBANON ARPT"
+  },
+  {
+    "total": 230784,
+    "other": 120433,
+    "repair": 110351,
+    "Airport": "ST. PETE-CLEARWATER INTL ARPT"
+  },
+  {
+    "total": 229010,
+    "other": 0,
+    "repair": 229010,
+    "Airport": "LEE C FINE MEMORIAL ARPT"
+  },
+  {
+    "total": 227962,
+    "other": 110521,
+    "repair": 117441,
+    "Airport": "LAKE IN THE HILLS"
+  },
+  {
+    "total": 225194,
+    "other": 22194,
+    "repair": 203000,
+    "Airport": "LONG BEACH-DAUGH FLD"
+  },
+  {
+    "total": 224805,
+    "other": 17500,
+    "repair": 207305,
+    "Airport": "MADISONVILLE MUNICIPAL"
+  },
+  {
+    "total": 224090,
+    "other": 4374,
+    "repair": 219716,
+    "Airport": "MCKINNEY NATIONAL ARPT"
+  },
+  {
+    "total": 221670,
+    "other": 0,
+    "repair": 221670,
+    "Airport": "GEORGETOWN COUNTY ARPT"
+  },
+  {
+    "total": 218585,
+    "other": 66812,
+    "repair": 151773,
+    "Airport": "TRI-STATE ARPT/MILTON J. FERGUSON FIELD"
+  },
+  {
+    "total": 217079,
+    "other": 109179,
+    "repair": 107900,
+    "Airport": "TUCSON INTL"
+  },
+  {
+    "total": 215997,
+    "other": 98748,
+    "repair": 117249,
+    "Airport": "DAVID WAYNE HOOKS MEMORIAL ARPT"
+  },
+  {
+    "total": 215261,
+    "other": 0,
+    "repair": 215261,
+    "Airport": "MT PLEASANT MUNICIPAL ARPT"
+  },
+  {
+    "total": 214690,
+    "other": 109410,
+    "repair": 105280,
+    "Airport": "MEMORIAL FIELD"
+  },
+  {
+    "total": 213070,
+    "other": 0,
+    "repair": 213070,
+    "Airport": "SPRINGDALE MUNICIPAL ARPT"
+  },
+  {
+    "total": 212902,
+    "other": 148587,
+    "repair": 64315,
+    "Airport": "OPA-LOCKA EXECUTIVE ARPT"
+  },
+  {
+    "total": 210091,
+    "other": 65882,
+    "repair": 144209,
+    "Airport": "BURLINGTON-ALAMANCE REGIONAL"
+  },
+  {
+    "total": 209160,
+    "other": 0,
+    "repair": 209160,
+    "Airport": "LEO GOETZ COUNTY ARPT"
+  },
+  {
+    "total": 206845,
+    "other": 60921,
+    "repair": 145924,
+    "Airport": "WICHITA DWIGHT D EISENHOWER NATL ARPT"
+  },
+  {
+    "total": 206587,
+    "other": 2357,
+    "repair": 204230,
+    "Airport": "TRI-CITY ARPT (PARSONS)"
+  },
+  {
+    "total": 203971,
+    "other": 1193,
+    "repair": 202778,
+    "Airport": "ROANOKE REGNL ARPT/WOODRUM FIELD"
+  },
+  {
+    "total": 201242,
+    "other": 33498,
+    "repair": 167744,
+    "Airport": "GREENBRIER VALLEY ARPT"
+  },
+  {
+    "total": 201062,
+    "other": 11200,
+    "repair": 189862,
+    "Airport": "ATLANTA REGIONAL ARPT - FALCON FIELD"
+  },
+  {
+    "total": 201057,
+    "other": 80675,
+    "repair": 120382,
+    "Airport": "KEOKUK MUNICIPAL ARPT"
+  },
+  {
+    "total": 200970,
+    "other": 109620,
+    "repair": 91350,
+    "Airport": "TOLEDO EXECUTIVE ARPT"
+  },
+  {
+    "total": 200404,
+    "other": 58100,
+    "repair": 142304,
+    "Airport": "ALBERT LEA MUNICIPAL ARPT"
+  },
+  {
+    "total": 199689,
+    "other": 8558,
+    "repair": 191131,
+    "Airport": "GROTON-NEW LONDON AR"
+  },
+  {
+    "total": 199635,
+    "other": 3263,
+    "repair": 196372,
+    "Airport": "CLAYTON COUNTY ARPT- TARA FIELD"
+  },
+  {
+    "total": 198887,
+    "other": 28141,
+    "repair": 170746,
+    "Airport": "MINERAL WELLS ARPT"
+  },
+  {
+    "total": 198166,
+    "other": 24334,
+    "repair": 173832,
+    "Airport": "FULTON COUNTY ARPT - BROWN FIELD"
+  },
+  {
+    "total": 198101,
+    "other": 72326,
+    "repair": 125775,
+    "Airport": "SPRINGFIELD-BECKLEY MUNICIPAL ARPT"
+  },
+  {
+    "total": 196875,
+    "other": 56250,
+    "repair": 140625,
+    "Airport": "MCGEHEE CATFISH REST"
+  },
+  {
+    "total": 194016,
+    "other": 6016,
+    "repair": 188000,
+    "Airport": "SLIDELL AIRPORT"
+  },
+  {
+    "total": 193815,
+    "other": 59760,
+    "repair": 134055,
+    "Airport": "HORSESHOE BAY RESORT ARPT"
+  },
+  {
+    "total": 193243,
+    "other": 35528,
+    "repair": 157715,
+    "Airport": "LAWRENCE MUNICIPAL  ARPT (KS)"
+  },
+  {
+    "total": 190618,
+    "other": 117249,
+    "repair": 73369,
+    "Airport": "GRANT COUNTY ARPT"
+  },
+  {
+    "total": 190593,
+    "other": 6626,
+    "repair": 183967,
+    "Airport": "EAST HAMPTON ARPT"
+  },
+  {
+    "total": 190136,
+    "other": 6710,
+    "repair": 183426,
+    "Airport": "GROSSE ILE MUNICIPAL ARPT"
+  },
+  {
+    "total": 189200,
+    "other": 0,
+    "repair": 189200,
+    "Airport": "MIDDLETON MUNI ARPT - MOREY FIELD"
+  },
+  {
+    "total": 187056,
+    "other": 0,
+    "repair": 187056,
+    "Airport": "CYRIL E KING ARPT"
+  },
+  {
+    "total": 185570,
+    "other": 16870,
+    "repair": 168700,
+    "Airport": "HARDIN COUNTY"
+  },
+  {
+    "total": 184356,
+    "other": 12764,
+    "repair": 171592,
+    "Airport": "THE EASTERN IOWA ARPT"
+  },
+  {
+    "total": 183925,
+    "other": 41325,
+    "repair": 142600,
+    "Airport": "LANSING MUNICIPAL ARPT"
+  },
+  {
+    "total": 183750,
+    "other": 0,
+    "repair": 183750,
+    "Airport": "ROCKY MOUNT-WILSON REGNL ARPT"
+  },
+  {
+    "total": 183532,
+    "other": 1503,
+    "repair": 182029,
+    "Airport": "CHICAGO/ROCKFORD INTL ARPT"
+  },
+  {
+    "total": 181381,
+    "other": 40600,
+    "repair": 140781,
+    "Airport": "DELAWARE MUNICIPAL ARPT-JIM MOORE FIELD"
+  },
+  {
+    "total": 179219,
+    "other": 17764,
+    "repair": 161455,
+    "Airport": "SNOHOMISH CO (PAINE FIELD)"
+  },
+  {
+    "total": 176971,
+    "other": 20127,
+    "repair": 156844,
+    "Airport": "DES MOINES INTL"
+  },
+  {
+    "total": 176514,
+    "other": 28016,
+    "repair": 148498,
+    "Airport": "PORTLAND-HILLSBORO ARPT"
+  },
+  {
+    "total": 175720,
+    "other": 7640,
+    "repair": 168080,
+    "Airport": "REEDSBURG MUNICIPAL"
+  },
+  {
+    "total": 175405,
+    "other": 24900,
+    "repair": 150505,
+    "Airport": "TAMPA EXECUTIVE ARPT"
+  },
+  {
+    "total": 175231,
+    "other": 29611,
+    "repair": 145620,
+    "Airport": "CEDAR CITY REGIONAL"
+  },
+  {
+    "total": 174123,
+    "other": 5090,
+    "repair": 169033,
+    "Airport": "MERRILL C MEIGS ARPT"
+  },
+  {
+    "total": 173444,
+    "other": 10736,
+    "repair": 162708,
+    "Airport": "WEST BRANCH COMMUNITY ARPT"
+  },
+  {
+    "total": 173325,
+    "other": 581,
+    "repair": 172744,
+    "Airport": "HARRISBURG INTL"
+  },
+  {
+    "total": 172838,
+    "other": 17767,
+    "repair": 155071,
+    "Airport": "SAVANNAH/HILTON HEAD INTL ARPT"
+  },
+  {
+    "total": 172680,
+    "other": 120172,
+    "repair": 52508,
+    "Airport": "OLIVE BRANCH ARPT"
+  },
+  {
+    "total": 171703,
+    "other": 1135,
+    "repair": 170568,
+    "Airport": "COASTAL CAROLINA REGIONAL ARPT"
+  },
+  {
+    "total": 171519,
+    "other": 35579,
+    "repair": 135940,
+    "Airport": "BUFFALO-NIAGARA INTL"
+  },
+  {
+    "total": 171121,
+    "other": 269,
+    "repair": 170852,
+    "Airport": "ARCATA AIRPORT"
+  },
+  {
+    "total": 168780,
+    "other": 0,
+    "repair": 168780,
+    "Airport": "LONE STAR EXECUTIVE ARPT"
+  },
+  {
+    "total": 166912,
+    "other": 17238,
+    "repair": 149674,
+    "Airport": "SANTA BARBARA MUNICIPAL"
+  },
+  {
+    "total": 165750,
+    "other": 165750,
+    "repair": 0,
+    "Airport": "SOUTH BIMINI ARPT"
+  },
+  {
+    "total": 164060,
+    "other": 0,
+    "repair": 164060,
+    "Airport": "FRENCH LICK MUNICIPAL ARPT"
+  },
+  {
+    "total": 164060,
+    "other": 0,
+    "repair": 164060,
+    "Airport": "HAYFORK ARPT"
+  },
+  {
+    "total": 163029,
+    "other": 0,
+    "repair": 163029,
+    "Airport": "CORPUS CHRISTI NAS/TRUAX FIELD"
+  },
+  {
+    "total": 161797,
+    "other": 33426,
+    "repair": 128371,
+    "Airport": "MONMOUTH EXECUTIVE ARPT"
+  },
+  {
+    "total": 161223,
+    "other": 2137,
+    "repair": 159086,
+    "Airport": "CUYAHOGA COUNTY ARPT"
+  },
+  {
+    "total": 158864,
+    "other": 50732,
+    "repair": 108132,
+    "Airport": "CHARLESTON AFB/INTL ARPT"
+  },
+  {
+    "total": 157557,
+    "other": 457,
+    "repair": 157100,
+    "Airport": "ROBERTS FIELD ARPT"
+  },
+  {
+    "total": 155810,
+    "other": 16594,
+    "repair": 139216,
+    "Airport": "BEVERLY MUNICIPAL ARPT"
+  },
+  {
+    "total": 155480,
+    "other": 129146,
+    "repair": 26334,
+    "Airport": "SANTA FE DE BOGOTA"
+  },
+  {
+    "total": 155295,
+    "other": 54810,
+    "repair": 100485,
+    "Airport": "WAUPACA MUNICIPAL ARPT"
+  },
+  {
+    "total": 154997,
+    "other": 8580,
+    "repair": 146417,
+    "Airport": "KISSIMMEE GATEWAY ARPT"
+  },
+  {
+    "total": 154480,
+    "other": 0,
+    "repair": 154480,
+    "Airport": "FORT DODGE REGIONAL"
+  },
+  {
+    "total": 154160,
+    "other": 72944,
+    "repair": 81216,
+    "Airport": "PITTSFIELD MUNICIPAL (ME)"
+  },
+  {
+    "total": 154056,
+    "other": 1527,
+    "repair": 152529,
+    "Airport": "BLUE GRASS ARPT"
+  },
+  {
+    "total": 153008,
+    "other": 27733,
+    "repair": 125275,
+    "Airport": "GRANTS PASS ARPT"
+  },
+  {
+    "total": 151195,
+    "other": 28468,
+    "repair": 122727,
+    "Airport": "BOCA RATON ARPT"
+  },
+  {
+    "total": 151064,
+    "other": 11,
+    "repair": 151053,
+    "Airport": "BELLINGHAM INTL"
+  },
+  {
+    "total": 151046,
+    "other": 17654,
+    "repair": 133392,
+    "Airport": "BROOKSVILLE-TAMPA BAY REGNL ARPT"
+  },
+  {
+    "total": 150800,
+    "other": 27654,
+    "repair": 123146,
+    "Airport": "ANOKA COUNTY-BLAINE"
+  },
+  {
+    "total": 150588,
+    "other": 6925,
+    "repair": 143663,
+    "Airport": "MACKINAC ISLAND ARPT"
+  },
+  {
+    "total": 150418,
+    "other": 31337,
+    "repair": 119081,
+    "Airport": "KNOX COUNTY REGIONAL"
+  },
+  {
+    "total": 149174,
+    "other": 52206,
+    "repair": 96968,
+    "Airport": "NEW CENTURY AIRCENTER ARPT"
+  },
+  {
+    "total": 148890,
+    "other": 22308,
+    "repair": 126582,
+    "Airport": "UNIV OF ILLINOIS -WILLARD ARPT"
+  },
+  {
+    "total": 148351,
+    "other": 11320,
+    "repair": 137031,
+    "Airport": "BILLINGS LOGAN INTL"
+  },
+  {
+    "total": 147518,
+    "other": 38675,
+    "repair": 108843,
+    "Airport": "CAPITAL (BEIJING)"
+  },
+  {
+    "total": 147000,
+    "other": 0,
+    "repair": 147000,
+    "Airport": "ROGUE VALLEY INTL - MEDFORD ARPT"
+  },
+  {
+    "total": 146160,
+    "other": 0,
+    "repair": 146160,
+    "Airport": "AIR HAVEN ARPT"
+  },
+  {
+    "total": 145203,
+    "other": 0,
+    "repair": 145203,
+    "Airport": "ST LOUIS REGIONAL"
+  },
+  {
+    "total": 144555,
+    "other": 0,
+    "repair": 144555,
+    "Airport": "RIYAHD AIR BASE"
+  },
+  {
+    "total": 143863,
+    "other": 2288,
+    "repair": 141575,
+    "Airport": "SPARTANBURG DOWNTOWN MEMORIAL ARPT"
+  },
+  {
+    "total": 143200,
+    "other": 0,
+    "repair": 143200,
+    "Airport": "L M CLAYTON"
+  },
+  {
+    "total": 142728,
+    "other": 58725,
+    "repair": 84003,
+    "Airport": "SOUTHWEST MICHIGAN REGIONAL"
+  },
+  {
+    "total": 142702,
+    "other": 32084,
+    "repair": 110618,
+    "Airport": "TULIP CITY ARPT"
+  },
+  {
+    "total": 142410,
+    "other": 47765,
+    "repair": 94645,
+    "Airport": "FAIRMONT MUNI-FRANKMAN FLD"
+  },
+  {
+    "total": 142378,
+    "other": 57279,
+    "repair": 85099,
+    "Airport": "MT PLEASANT REGL ARPT-FAISON FIELD"
+  },
+  {
+    "total": 141480,
+    "other": 117900,
+    "repair": 23580,
+    "Airport": "DILLINGHAM ARPT"
+  },
+  {
+    "total": 141161,
+    "other": 4344,
+    "repair": 136817,
+    "Airport": "YEAGER ARPT"
+  },
+  {
+    "total": 141023,
+    "other": 60485,
+    "repair": 80538,
+    "Airport": "TALLAHASSEE INTERNATIONAL AIRPORT"
+  },
+  {
+    "total": 140476,
+    "other": 0,
+    "repair": 140476,
+    "Airport": "SIERRA VISTA MUNI ARPT-LIBBY ARMY AIRFIELD"
+  },
+  {
+    "total": 139684,
+    "other": 0,
+    "repair": 139684,
+    "Airport": "MID-AMERICA INDUSTRIAL"
+  },
+  {
+    "total": 139546,
+    "other": 7926,
+    "repair": 131620,
+    "Airport": "BERLIN REGIONAL ARPT"
+  },
+  {
+    "total": 139441,
+    "other": 103911,
+    "repair": 35530,
+    "Airport": "RICHARD LLOYD JONES JR ARPT"
+  },
+  {
+    "total": 138500,
+    "other": 0,
+    "repair": 138500,
+    "Airport": "ROOKE FIELD ARPT"
+  },
+  {
+    "total": 137366,
+    "other": 25948,
+    "repair": 111418,
+    "Airport": "SPRINGFIELD-BRANSON NATIONAL"
+  },
+  {
+    "total": 136881,
+    "other": 32799,
+    "repair": 104082,
+    "Airport": "SYRACUSE HANCOCK INTL"
+  },
+  {
+    "total": 136021,
+    "other": 94260,
+    "repair": 41761,
+    "Airport": "ESSEX COUNTY AIRPORT"
+  },
+  {
+    "total": 134792,
+    "other": 0,
+    "repair": 134792,
+    "Airport": "LAWRENCE MUNICIPAL ARPT (MA)"
+  },
+  {
+    "total": 134779,
+    "other": 0,
+    "repair": 134779,
+    "Airport": "EL SALVADOR INTL"
+  },
+  {
+    "total": 134056,
+    "other": 4235,
+    "repair": 129821,
+    "Airport": "MINOT INTL AIRPORT"
+  },
+  {
+    "total": 133500,
+    "other": 84510,
+    "repair": 48990,
+    "Airport": "CARROLL COUNTY REGNL ARPT/JACK B POAGE FIELD"
+  },
+  {
+    "total": 133017,
+    "other": 32969,
+    "repair": 100048,
+    "Airport": "ODESSA-SCHLEMEYER FIELD ARPT"
+  },
+  {
+    "total": 132800,
+    "other": 0,
+    "repair": 132800,
+    "Airport": "HEFNER-EASLEY AIRSTRIP"
+  },
+  {
+    "total": 132776,
+    "other": 0,
+    "repair": 132776,
+    "Airport": "COLEMAN A YOUNG MUNICIPAL ARPT"
+  },
+  {
+    "total": 132458,
+    "other": 9008,
+    "repair": 123450,
+    "Airport": "VALLEY INTL"
+  },
+  {
+    "total": 132194,
+    "other": 33200,
+    "repair": 98994,
+    "Airport": "PAYSON ARPT"
+  },
+  {
+    "total": 131283,
+    "other": 0,
+    "repair": 131283,
+    "Airport": "OCEAN CITY MUNICIPAL (NJ)"
+  },
+  {
+    "total": 131246,
+    "other": 241,
+    "repair": 131005,
+    "Airport": "WILMINGTON INTL"
+  },
+  {
+    "total": 130570,
+    "other": 5710,
+    "repair": 124860,
+    "Airport": "AURORA MUNICIPAL ARPT"
+  },
+  {
+    "total": 129917,
+    "other": 3947,
+    "repair": 125970,
+    "Airport": "LUBBOCK PRESTON SMITH INTL ARPT"
+  },
+  {
+    "total": 129360,
+    "other": 5525,
+    "repair": 123835,
+    "Airport": "OCEAN CITY MUNICIPAL  ARPT (MD)"
+  },
+  {
+    "total": 129250,
+    "other": 0,
+    "repair": 129250,
+    "Airport": "PETALUMA MUNICIPAL ARPT"
+  },
+  {
+    "total": 125926,
+    "other": 3915,
+    "repair": 122011,
+    "Airport": "ZELIENOPLE MUNICIPAL"
+  },
+  {
+    "total": 125280,
+    "other": 1305,
+    "repair": 123975,
+    "Airport": "FESTUS MEMORIAL ARPT"
+  },
+  {
+    "total": 124838,
+    "other": 50610,
+    "repair": 74228,
+    "Airport": "CLINTON COUNTY ARPT"
+  },
+  {
+    "total": 124443,
+    "other": 11313,
+    "repair": 113130,
+    "Airport": "LAWRENCE J TIMMERMAN ARPT"
+  },
+  {
+    "total": 124300,
+    "other": 124300,
+    "repair": 0,
+    "Airport": "HEWANORRA ST LUCIA"
+  },
+  {
+    "total": 123152,
+    "other": 22912,
+    "repair": 100240,
+    "Airport": "MECKLENBURG-BRUNSWICK REGIONAL"
+  },
+  {
+    "total": 121636,
+    "other": 11294,
+    "repair": 110342,
+    "Airport": "THEODORE FRANCIS GREEN STATE"
+  },
+  {
+    "total": 120596,
+    "other": 6396,
+    "repair": 114200,
+    "Airport": "HAMILTON MUNICIPAL ARPT"
+  },
+  {
+    "total": 120405,
+    "other": 10470,
+    "repair": 109935,
+    "Airport": "PANOLA COUNTY AIRPORT-SHARPE FIELD"
+  },
+  {
+    "total": 120033,
+    "other": 733,
+    "repair": 119300,
+    "Airport": "LYNCHBURG REGNL ARPT/PRESTON GLENN FIELD"
+  },
+  {
+    "total": 118755,
+    "other": 19074,
+    "repair": 99681,
+    "Airport": "ALBUQUERQUE INTL SUNPORT"
+  },
+  {
+    "total": 118090,
+    "other": 0,
+    "repair": 118090,
+    "Airport": "NORTH LITTLE ROCK MUNICIPAL ARPT"
+  },
+  {
+    "total": 117648,
+    "other": 600,
+    "repair": 117048,
+    "Airport": "KENAI MUNICIPAL ARPT"
+  },
+  {
+    "total": 117558,
+    "other": 1531,
+    "repair": 116027,
+    "Airport": "FLYING CLOUD ARPT"
+  },
+  {
+    "total": 116828,
+    "other": 51298,
+    "repair": 65530,
+    "Airport": "HARVEY FIELD"
+  },
+  {
+    "total": 116385,
+    "other": 27405,
+    "repair": 88980,
+    "Airport": "HIGGINSVILLE INDUSTRIAL MUNICIPAL ARPT"
+  },
+  {
+    "total": 115912,
+    "other": 37122,
+    "repair": 78790,
+    "Airport": "ROSTRAVER"
+  },
+  {
+    "total": 115505,
+    "other": 4420,
+    "repair": 111085,
+    "Airport": "SMYRNA ARPT"
+  },
+  {
+    "total": 115430,
+    "other": 35430,
+    "repair": 80000,
+    "Airport": "CAPITAL REGION INTL ARPT"
+  },
+  {
+    "total": 113541,
+    "other": 0,
+    "repair": 113541,
+    "Airport": "TOLUCA/LIC ADOLFO"
+  },
+  {
+    "total": 112148,
+    "other": 21200,
+    "repair": 90948,
+    "Airport": "PUEBLO MEMORIAL ARPT"
+  },
+  {
+    "total": 111541,
+    "other": 12568,
+    "repair": 98973,
+    "Airport": "CLERMONT COUNTY ARPT"
+  },
+  {
+    "total": 111427,
+    "other": 0,
+    "repair": 111427,
+    "Airport": "SUNDANCE AIRPARK"
+  },
+  {
+    "total": 110224,
+    "other": 0,
+    "repair": 110224,
+    "Airport": "FORD ARPT"
+  },
+  {
+    "total": 110184,
+    "other": 0,
+    "repair": 110184,
+    "Airport": "OWOSSO COMMUNITY ARPT"
+  },
+  {
+    "total": 109514,
+    "other": 75254,
+    "repair": 34260,
+    "Airport": "AMSTERDAM SCHIPHOL"
+  },
+  {
+    "total": 107590,
+    "other": 1590,
+    "repair": 106000,
+    "Airport": "DRIGGS-REED MEMORIAL ARPT"
+  },
+  {
+    "total": 106960,
+    "other": 0,
+    "repair": 106960,
+    "Airport": "NORTHEAST ALABAMA REGIONAL ARPT"
+  },
+  {
+    "total": 106868,
+    "other": 25924,
+    "repair": 80944,
+    "Airport": "HARTFORD-BRAINARD ARPT"
+  },
+  {
+    "total": 104875,
+    "other": 3237,
+    "repair": 101638,
+    "Airport": "BOOTHVILLE HELIPORT"
+  },
+  {
+    "total": 104771,
+    "other": 38220,
+    "repair": 66551,
+    "Airport": "MAHLON SWEET FLD"
+  },
+  {
+    "total": 104700,
+    "other": 120,
+    "repair": 104580,
+    "Airport": "GREATER BINGHAMTON ARPT/EDWIN A LINK FIELD"
+  },
+  {
+    "total": 104700,
+    "other": 52350,
+    "repair": 52350,
+    "Airport": "GREAT BENT MUNICIPAL"
+  },
+  {
+    "total": 104700,
+    "other": 0,
+    "repair": 104700,
+    "Airport": "SANDUSKY COUNTY REGIONAL ARPT"
+  },
+  {
+    "total": 104676,
+    "other": 0,
+    "repair": 104676,
+    "Airport": "MILLER AIR PARK ARPT"
+  },
+  {
+    "total": 104580,
+    "other": 0,
+    "repair": 104580,
+    "Airport": "ASHLAND REGIONAL ARPT"
+  },
+  {
+    "total": 104552,
+    "other": 50972,
+    "repair": 53580,
+    "Airport": "MANCHESTER AIRPORT"
+  },
+  {
+    "total": 103100,
+    "other": 0,
+    "repair": 103100,
+    "Airport": "LACONIA MUNICIPAL"
+  },
+  {
+    "total": 102924,
+    "other": 70425,
+    "repair": 32499,
+    "Airport": "HENDERSON FIELD"
+  },
+  {
+    "total": 102900,
+    "other": 0,
+    "repair": 102900,
+    "Airport": "GOODSPEED"
+  },
+  {
+    "total": 102767,
+    "other": 2064,
+    "repair": 100703,
+    "Airport": "SIOUX GATEWAY ARPT/COL. BUD DAY FIELD"
+  },
+  {
+    "total": 102421,
+    "other": 56581,
+    "repair": 45840,
+    "Airport": "ALLEGHENY COUNTY ARPT"
+  },
+  {
+    "total": 101725,
+    "other": 286,
+    "repair": 101439,
+    "Airport": "DUTCHESS COUNTY ARPT"
+  },
+  {
+    "total": 100970,
+    "other": 1262,
+    "repair": 99708,
+    "Airport": "BRITTON MUNICIPAL ARPT SD"
+  },
+  {
+    "total": 100560,
+    "other": 2514,
+    "repair": 98046,
+    "Airport": "NEW CASTLE MUNICIPAL ARPT"
+  },
+  {
+    "total": 100510,
+    "other": 44452,
+    "repair": 56058,
+    "Airport": "SANDPOINT ARPT"
+  },
+  {
+    "total": 100464,
+    "other": 9296,
+    "repair": 91168,
+    "Airport": "WEST GEORGIA REGNL ARPT-O V GRAY FIELD"
+  },
+  {
+    "total": 100450,
+    "other": 29050,
+    "repair": 71400,
+    "Airport": "STUTTGART MUNICIPAL ARPT"
+  },
+  {
+    "total": 100000,
+    "other": 50000,
+    "repair": 50000,
+    "Airport": "LEESBURG INTL ARPT"
+  },
+  {
+    "total": 98948,
+    "other": 34721,
+    "repair": 64227,
+    "Airport": "GEORGETOWN MUNICIPAL ARPT"
+  },
+  {
+    "total": 98650,
+    "other": 21420,
+    "repair": 77230,
+    "Airport": "ARLINGTON MUNICIPAL ARPT (TX)"
+  },
+  {
+    "total": 98346,
+    "other": 58531,
+    "repair": 39815,
+    "Airport": "ABERDEEN REGIONAL ARPT"
+  },
+  {
+    "total": 97402,
+    "other": 31420,
+    "repair": 65982,
+    "Airport": "GALLIA-MEIGS REGIONAL ARPT"
+  },
+  {
+    "total": 95897,
+    "other": 1414,
+    "repair": 94483,
+    "Airport": "TEXARKANA-WEBB FIELD"
+  },
+  {
+    "total": 95499,
+    "other": 18864,
+    "repair": 76635,
+    "Airport": "WEEDON FIELD ARPT"
+  },
+  {
+    "total": 94650,
+    "other": 0,
+    "repair": 94650,
+    "Airport": "BAY BRIDGE"
+  },
+  {
+    "total": 93800,
+    "other": 81550,
+    "repair": 12250,
+    "Airport": "BOWLING GREEN-WARREN COUNTY REGNL ARPT"
+  },
+  {
+    "total": 93700,
+    "other": 0,
+    "repair": 93700,
+    "Airport": "FOUR CORNERS REGIONAL"
+  },
+  {
+    "total": 93565,
+    "other": 28361,
+    "repair": 65204,
+    "Airport": "SANTA FE MUNICIPAL"
+  },
+  {
+    "total": 93532,
+    "other": 572,
+    "repair": 92960,
+    "Airport": "GRAND JUNCTION REGIONAL ARPT"
+  },
+  {
+    "total": 93225,
+    "other": 6215,
+    "repair": 87010,
+    "Airport": "KINGS LAND O' LAKES ARPT"
+  },
+  {
+    "total": 93210,
+    "other": 57260,
+    "repair": 35950,
+    "Airport": "BARKLEY REGIONAL ARPT"
+  },
+  {
+    "total": 93182,
+    "other": 32792,
+    "repair": 60390,
+    "Airport": "UNIVERSITY PARK ARPT"
+  },
+  {
+    "total": 92657,
+    "other": 4815,
+    "repair": 87842,
+    "Airport": "JOHNSON COUNTY EXECUTIVE ARPT"
+  },
+  {
+    "total": 92591,
+    "other": 37032,
+    "repair": 55559,
+    "Airport": "CENTRAL ILLINOIS REGNL ARPT"
+  },
+  {
+    "total": 92464,
+    "other": 1854,
+    "repair": 90610,
+    "Airport": "BOWMAN FIELD"
+  },
+  {
+    "total": 91670,
+    "other": 10470,
+    "repair": 81200,
+    "Airport": "GARNER FIELD ARPT"
+  },
+  {
+    "total": 91053,
+    "other": 1893,
+    "repair": 89160,
+    "Airport": "SALINA MUNICIPAL"
+  },
+  {
+    "total": 90615,
+    "other": 9126,
+    "repair": 81489,
+    "Airport": "NEWPORT STATE ARPT"
+  },
+  {
+    "total": 89899,
+    "other": 35888,
+    "repair": 54011,
+    "Airport": "MURRAY FIELD AIRPORT"
+  },
+  {
+    "total": 89807,
+    "other": 118,
+    "repair": 89689,
+    "Airport": "COLUMBIA REGIONAL"
+  },
+  {
+    "total": 89604,
+    "other": 0,
+    "repair": 89604,
+    "Airport": "ROLLA MUNICIPAL ARPT"
+  },
+  {
+    "total": 88995,
+    "other": 52350,
+    "repair": 36645,
+    "Airport": "PRINCESS JULIANA"
+  },
+  {
+    "total": 88495,
+    "other": 95,
+    "repair": 88400,
+    "Airport": "ROTA INTL ARPT"
+  },
+  {
+    "total": 87990,
+    "other": 0,
+    "repair": 87990,
+    "Airport": "LIVINGSTON COUNTY SPENCER J HARDY"
+  },
+  {
+    "total": 87802,
+    "other": 12450,
+    "repair": 75352,
+    "Airport": "LINDEN AIRPORT"
+  },
+  {
+    "total": 87543,
+    "other": 87543,
+    "repair": 0,
+    "Airport": "GALEAO INTL (RIO)"
+  },
+  {
+    "total": 87230,
+    "other": 87230,
+    "repair": 0,
+    "Airport": "CIUDAD DEL ESTE GARCIA"
+  },
+  {
+    "total": 86834,
+    "other": 72514,
+    "repair": 14320,
+    "Airport": "FALCON FIELD ARPT"
+  },
+  {
+    "total": 86656,
+    "other": 5178,
+    "repair": 81478,
+    "Airport": "BUFFALO AIRFIELD ARPT"
+  },
+  {
+    "total": 85887,
+    "other": 18054,
+    "repair": 67833,
+    "Airport": "TRI-CITIES"
+  },
+  {
+    "total": 85650,
+    "other": 0,
+    "repair": 85650,
+    "Airport": "HARRELL FIELD ARPT"
+  },
+  {
+    "total": 85340,
+    "other": 17538,
+    "repair": 67802,
+    "Airport": "OGDEN-HINCKLEY ARPT"
+  },
+  {
+    "total": 84834,
+    "other": 47130,
+    "repair": 37704,
+    "Airport": "TRAVIS AIR FORCE BASE"
+  },
+  {
+    "total": 84350,
+    "other": 0,
+    "repair": 84350,
+    "Airport": "BOUNTIFUL SKYPARK"
+  },
+  {
+    "total": 84019,
+    "other": 3426,
+    "repair": 80593,
+    "Airport": "WAUSAU DOWNTOWN ARPT"
+  },
+  {
+    "total": 83000,
+    "other": 0,
+    "repair": 83000,
+    "Airport": "SIKESTON MEMORIAL MUNICIPAL ARPT"
+  },
+  {
+    "total": 82569,
+    "other": 11420,
+    "repair": 71149,
+    "Airport": "EAST TEXAS REGIONAL ARPT"
+  },
+  {
+    "total": 81429,
+    "other": 6277,
+    "repair": 75152,
+    "Airport": "RALEIGH-DURHAM INTL"
+  },
+  {
+    "total": 81200,
+    "other": 0,
+    "repair": 81200,
+    "Airport": "THOMASTON-UPSON COUNTY ARPT"
+  },
+  {
+    "total": 81141,
+    "other": 9925,
+    "repair": 71216,
+    "Airport": "SAN LUIS VALLEY REGNL ARPT/BERGMAN FIELD"
+  },
+  {
+    "total": 80795,
+    "other": 0,
+    "repair": 80795,
+    "Airport": "CORLAND COUNTY ARPT-CHASE FIELD"
+  },
+  {
+    "total": 80749,
+    "other": 13649,
+    "repair": 67100,
+    "Airport": "JOHN H BATTEN ARPT"
+  },
+  {
+    "total": 80080,
+    "other": 5720,
+    "repair": 74360,
+    "Airport": "POSTE ARPT"
+  },
+  {
+    "total": 80035,
+    "other": 146,
+    "repair": 79889,
+    "Airport": "EASTON/NEWNAM FIELD ARPT"
+  },
+  {
+    "total": 79191,
+    "other": 0,
+    "repair": 79191,
+    "Airport": "FRAZIER LAKE AIRPARK"
+  },
+  {
+    "total": 78678,
+    "other": 0,
+    "repair": 78678,
+    "Airport": "RALEIGH COUNTY MEMORIAL"
+  },
+  {
+    "total": 77063,
+    "other": 61593,
+    "repair": 15470,
+    "Airport": "LT WARREN EATON ARPT"
+  },
+  {
+    "total": 77025,
+    "other": 21200,
+    "repair": 55825,
+    "Airport": "JIM HOGG COUNTY ARPT"
+  },
+  {
+    "total": 76651,
+    "other": 22895,
+    "repair": 53756,
+    "Airport": "PAGE FIELD ARPT"
+  },
+  {
+    "total": 75672,
+    "other": 0,
+    "repair": 75672,
+    "Airport": "REDWOOD FALLS MUNICIPAL ARPT"
+  },
+  {
+    "total": 75290,
+    "other": 46908,
+    "repair": 28382,
+    "Airport": "DENTON MUNICIPAL ARPT"
+  },
+  {
+    "total": 75000,
+    "other": 0,
+    "repair": 75000,
+    "Airport": "SOUTH LAFOURCHE LEONARD MILLER  JR ARPT"
+  },
+  {
+    "total": 74872,
+    "other": 0,
+    "repair": 74872,
+    "Airport": "THOMAS RUSSELL FIELD"
+  },
+  {
+    "total": 74623,
+    "other": 65982,
+    "repair": 8641,
+    "Airport": "KINGMAN"
+  },
+  {
+    "total": 74360,
+    "other": 17160,
+    "repair": 57200,
+    "Airport": "BRANDON MUNICIPAL"
+  },
+  {
+    "total": 74219,
+    "other": 295,
+    "repair": 73924,
+    "Airport": "CHAUTAUQUA COUNTY/JAMESTOWN ARPT"
+  },
+  {
+    "total": 74218,
+    "other": 16620,
+    "repair": 57598,
+    "Airport": "CHAN GURNEY MUNICIPAL ARPT"
+  },
+  {
+    "total": 73720,
+    "other": 10642,
+    "repair": 63078,
+    "Airport": "SAN ANGELO REGNL ARPT/MATHIS FIELD"
+  },
+  {
+    "total": 72426,
+    "other": 188,
+    "repair": 72238,
+    "Airport": "MONTGOMERY CO AIRPARK"
+  },
+  {
+    "total": 71375,
+    "other": 71375,
+    "repair": 0,
+    "Airport": "ATOKA MUNICIPAL ARPT"
+  },
+  {
+    "total": 71064,
+    "other": 71064,
+    "repair": 0,
+    "Airport": "YAP INTERNATIONAL AIRPORT"
+  },
+  {
+    "total": 70913,
+    "other": 10470,
+    "repair": 60443,
+    "Airport": "RIVERVIEW"
+  },
+  {
+    "total": 70867,
+    "other": 13517,
+    "repair": 57350,
+    "Airport": "TOCUMEN INTL"
+  },
+  {
+    "total": 70720,
+    "other": 70720,
+    "repair": 0,
+    "Airport": "STEPHENVILLE"
+  },
+  {
+    "total": 69832,
+    "other": 0,
+    "repair": 69832,
+    "Airport": "LAKE CHARLES REGIONAL"
+  },
+  {
+    "total": 69797,
+    "other": 387,
+    "repair": 69410,
+    "Airport": "DELTA COUNTY ARPT"
+  },
+  {
+    "total": 69732,
+    "other": 1455,
+    "repair": 68277,
+    "Airport": "ROCHESTER INTL"
+  },
+  {
+    "total": 69250,
+    "other": 0,
+    "repair": 69250,
+    "Airport": "MARSHALL ISLANDS INTL ARPT"
+  },
+  {
+    "total": 69181,
+    "other": 0,
+    "repair": 69181,
+    "Airport": "MOBILE REGIONAL"
+  },
+  {
+    "total": 68723,
+    "other": 0,
+    "repair": 68723,
+    "Airport": "ROBERTSON FIELD"
+  },
+  {
+    "total": 68365,
+    "other": 0,
+    "repair": 68365,
+    "Airport": "CAMPBELL ARPT"
+  },
+  {
+    "total": 67680,
+    "other": 39480,
+    "repair": 28200,
+    "Airport": "HELENA REGIONAL"
+  },
+  {
+    "total": 66220,
+    "other": 24080,
+    "repair": 42140,
+    "Airport": "GUSTAVO ROJAS PINILLA INTL ARPT"
+  },
+  {
+    "total": 65519,
+    "other": 6525,
+    "repair": 58994,
+    "Airport": "BRUCE CAMPBELL FIELD"
+  },
+  {
+    "total": 65439,
+    "other": 31599,
+    "repair": 33840,
+    "Airport": "INDIANAPOLIS REGIONAL ARPT"
+  },
+  {
+    "total": 65241,
+    "other": 1672,
+    "repair": 63569,
+    "Airport": "ITHACA TOMPKINS REGIONAL ARPT"
+  },
+  {
+    "total": 64960,
+    "other": 0,
+    "repair": 64960,
+    "Airport": "KENOSHA REGIONAL ARPT"
+  },
+  {
+    "total": 64607,
+    "other": 64607,
+    "repair": 0,
+    "Airport": "L F WADE INTL ARPT"
+  },
+  {
+    "total": 64585,
+    "other": 10315,
+    "repair": 54270,
+    "Airport": "OHIO STATE UNIVERSITY"
+  },
+  {
+    "total": 64440,
+    "other": 28640,
+    "repair": 35800,
+    "Airport": "LINCOLN PARK ARPT"
+  },
+  {
+    "total": 64139,
+    "other": 1039,
+    "repair": 63100,
+    "Airport": "HUNTINGBURG ARPT"
+  },
+  {
+    "total": 63600,
+    "other": 31800,
+    "repair": 31800,
+    "Airport": "GREENVILLE MUNICIPAL AIRPORT"
+  },
+  {
+    "total": 63600,
+    "other": 10600,
+    "repair": 53000,
+    "Airport": "WALDEN-JACKSON COUNTY ARPT"
+  },
+  {
+    "total": 63168,
+    "other": 18048,
+    "repair": 45120,
+    "Airport": "GEORGE R CARR MEMORIAL"
+  },
+  {
+    "total": 63116,
+    "other": 4244,
+    "repair": 58872,
+    "Airport": "MC CLELLAN AIRFIELD"
+  },
+  {
+    "total": 62587,
+    "other": 392,
+    "repair": 62195,
+    "Airport": "KIRKSVILLE REGIONAL"
+  },
+  {
+    "total": 62490,
+    "other": 30332,
+    "repair": 32158,
+    "Airport": "DOTHAN REGIONAL ARPT"
+  },
+  {
+    "total": 62195,
+    "other": 0,
+    "repair": 62195,
+    "Airport": "NUT TREE AIRPORT"
+  },
+  {
+    "total": 61533,
+    "other": 24008,
+    "repair": 37525,
+    "Airport": "PITTSFIELD MUNICIPAL ARPT (MA)"
+  },
+  {
+    "total": 61335,
+    "other": 9135,
+    "repair": 52200,
+    "Airport": "SHEPPARD AFB/WICHITA FALLS MUNI ARPT"
+  },
+  {
+    "total": 61012,
+    "other": 39532,
+    "repair": 21480,
+    "Airport": "LAREDO INTL"
+  },
+  {
+    "total": 60506,
+    "other": 7289,
+    "repair": 53217,
+    "Airport": "WATERTOWN REGIONAL ARPT"
+  },
+  {
+    "total": 60131,
+    "other": 26840,
+    "repair": 33291,
+    "Airport": "GRATIOT COMMUNITY"
+  },
+  {
+    "total": 59598,
+    "other": 5418,
+    "repair": 54180,
+    "Airport": "MACKINAC COUNTY ARPT"
+  },
+  {
+    "total": 59384,
+    "other": 25124,
+    "repair": 34260,
+    "Airport": "MC CLELLAN-PALOMAR ARPT"
+  },
+  {
+    "total": 59268,
+    "other": 14139,
+    "repair": 45129,
+    "Airport": "RANGE REGIONAL ARPT"
+  },
+  {
+    "total": 59133,
+    "other": 0,
+    "repair": 59133,
+    "Airport": "COLOGNE-BONN"
+  },
+  {
+    "total": 58950,
+    "other": 0,
+    "repair": 58950,
+    "Airport": "SOUTH JERSEY REGIONAL ARPT"
+  },
+  {
+    "total": 58712,
+    "other": 5728,
+    "repair": 52984,
+    "Airport": "MOUNT HAWLEY AUXILIARY ARPT"
+  },
+  {
+    "total": 58513,
+    "other": 505,
+    "repair": 58008,
+    "Airport": "YOUNGSTOWN-WARREN RGNL ARPT"
+  },
+  {
+    "total": 58465,
+    "other": 482,
+    "repair": 57983,
+    "Airport": "PUNTA GORDA ARPT"
+  },
+  {
+    "total": 58344,
+    "other": 1144,
+    "repair": 57200,
+    "Airport": "CLAY CENTER MUNICIPAL APRT"
+  },
+  {
+    "total": 58282,
+    "other": 0,
+    "repair": 58282,
+    "Airport": "PALO ALTO ARPT OF SANTA CLARA COUNTY"
+  },
+  {
+    "total": 58181,
+    "other": 249,
+    "repair": 57932,
+    "Airport": "KODIAK AIRPORT"
+  },
+  {
+    "total": 58100,
+    "other": 58100,
+    "repair": 0,
+    "Airport": "KIRSCH MUNICIPAL ARPT"
+  },
+  {
+    "total": 57327,
+    "other": 0,
+    "repair": 57327,
+    "Airport": "GREELEY-WELD COUNTY ARPT"
+  },
+  {
+    "total": 57200,
+    "other": 0,
+    "repair": 57200,
+    "Airport": "CHESTER COUNTY G O CARLSON ARPT"
+  },
+  {
+    "total": 57093,
+    "other": 5235,
+    "repair": 51858,
+    "Airport": "BARABOO WISCONSIN DELLS ARPT"
+  },
+  {
+    "total": 56018,
+    "other": 7007,
+    "repair": 49011,
+    "Airport": "BATON ROUGE METROPOLITAN, RYAN FIELD"
+  },
+  {
+    "total": 55860,
+    "other": 11760,
+    "repair": 44100,
+    "Airport": "MURFREESBORO MUNICIPAL ARPT"
+  },
+  {
+    "total": 55794,
+    "other": 2698,
+    "repair": 53096,
+    "Airport": "CHANDLER MUNICIPAL ARPT"
+  },
+  {
+    "total": 55705,
+    "other": 20000,
+    "repair": 35705,
+    "Airport": "EL MIRAGE FIELD ADELANTO AIRPORT"
+  },
+  {
+    "total": 55685,
+    "other": 23086,
+    "repair": 32599,
+    "Airport": "MICHAEL J SMITH FIELD ARPT"
+  },
+  {
+    "total": 55635,
+    "other": 3077,
+    "repair": 52558,
+    "Airport": "RICK HUSBAND AMARILLO INTL"
+  },
+  {
+    "total": 55593,
+    "other": 0,
+    "repair": 55593,
+    "Airport": "LEE'S SUMMIT MUNICIPAL ARPT"
+  },
+  {
+    "total": 55052,
+    "other": 17287,
+    "repair": 37765,
+    "Airport": "ANNISTON METROPOLITAN ARPT"
+  },
+  {
+    "total": 54780,
+    "other": 16600,
+    "repair": 38180,
+    "Airport": "ANTRIM COUNTY ARPT"
+  },
+  {
+    "total": 54623,
+    "other": 0,
+    "repair": 54623,
+    "Airport": "GILLETTE-CAMPBELL COUNTY ARPT"
+  },
+  {
+    "total": 54559,
+    "other": 0,
+    "repair": 54559,
+    "Airport": "JASPER COUNTY ARPT-BELL FIELD"
+  },
+  {
+    "total": 54152,
+    "other": 22050,
+    "repair": 32102,
+    "Airport": "CARROLL COUNTY-TOLSON ARPT"
+  },
+  {
+    "total": 54071,
+    "other": 0,
+    "repair": 54071,
+    "Airport": "NANTUCKET MEMORIAL"
+  },
+  {
+    "total": 53950,
+    "other": 53950,
+    "repair": 0,
+    "Airport": "STEWART INTL AIRPORT"
+  },
+  {
+    "total": 53950,
+    "other": 0,
+    "repair": 53950,
+    "Airport": "COMANCHE COUNTY-CITY ARPT"
+  },
+  {
+    "total": 53623,
+    "other": 1753,
+    "repair": 51870,
+    "Airport": "SHEBOYGAN COUNTY MEMORIAL ARPT"
+  },
+  {
+    "total": 53000,
+    "other": 8480,
+    "repair": 44520,
+    "Airport": "GROVE MUNICIPAL AIRPORT"
+  },
+  {
+    "total": 52816,
+    "other": 466,
+    "repair": 52350,
+    "Airport": "MID-OHIO VALLEY REGIONAL"
+  },
+  {
+    "total": 52806,
+    "other": 45141,
+    "repair": 7665,
+    "Airport": "PHOENIX-MESA GATEWAY"
+  },
+  {
+    "total": 52458,
+    "other": 46,
+    "repair": 52412,
+    "Airport": "BOIRE FIELD"
+  },
+  {
+    "total": 52350,
+    "other": 0,
+    "repair": 52350,
+    "Airport": "NORTHEAST OHIO REGIONAL ARPT"
+  },
+  {
+    "total": 52032,
+    "other": 17548,
+    "repair": 34484,
+    "Airport": "IGOR I SIKORSKY MEMORIAL"
+  },
+  {
+    "total": 51751,
+    "other": 7067,
+    "repair": 44684,
+    "Airport": "HAGERSTOWN REGNL ARPT-RICHARD A HENSON FIELD"
+  },
+  {
+    "total": 51515,
+    "other": 14048,
+    "repair": 37467,
+    "Airport": "AUSTIN STRAUBEL INTL"
+  },
+  {
+    "total": 51450,
+    "other": 36750,
+    "repair": 14700,
+    "Airport": "LONDON"
+  },
+  {
+    "total": 50777,
+    "other": 167,
+    "repair": 50610,
+    "Airport": "LAWTON-FORT SILL REGIONAL ARPT"
+  },
+  {
+    "total": 50000,
+    "other": 0,
+    "repair": 50000,
+    "Airport": "JAMES CLEMENTS MUNICIPAL ARPT"
+  },
+  {
+    "total": 49969,
+    "other": 12323,
+    "repair": 37646,
+    "Airport": "KENDALL-TAMIAMI EXECUTIVE ARPT"
+  },
+  {
+    "total": 49886,
+    "other": 8317,
+    "repair": 41569,
+    "Airport": "MIGUEL HIDALGO Y COSTILLA GUADALAJARA INTL"
+  },
+  {
+    "total": 49725,
+    "other": 38675,
+    "repair": 11050,
+    "Airport": "HENDERSON EXECUTIVE ARPT"
+  },
+  {
+    "total": 49487,
+    "other": 25632,
+    "repair": 23855,
+    "Airport": "ST. LUCIE COUNTY INTL ARPT"
+  },
+  {
+    "total": 49440,
+    "other": 0,
+    "repair": 49440,
+    "Airport": "LEWIS UNIVERSITY ARPT"
+  },
+  {
+    "total": 49076,
+    "other": 17716,
+    "repair": 31360,
+    "Airport": "DILLANT-HOPKINS ARPT"
+  },
+  {
+    "total": 48825,
+    "other": 1012,
+    "repair": 47813,
+    "Airport": "MINISTRO PISTARINI"
+  },
+  {
+    "total": 48804,
+    "other": 34860,
+    "repair": 13944,
+    "Airport": "BOLTON FIELD ARPT"
+  },
+  {
+    "total": 48720,
+    "other": 0,
+    "repair": 48720,
+    "Airport": "PANOLA COUNTY ARPT"
+  },
+  {
+    "total": 48499,
+    "other": 772,
+    "repair": 47727,
+    "Airport": "FAIRBANKS INTL ARPT"
+  },
+  {
+    "total": 48115,
+    "other": 39635,
+    "repair": 8480,
+    "Airport": "AIRGLADES AIRPORT"
+  },
+  {
+    "total": 47761,
+    "other": 2770,
+    "repair": 44991,
+    "Airport": "PINE MOUNTAIN LAKE ARPT"
+  },
+  {
+    "total": 47637,
+    "other": 5037,
+    "repair": 42600,
+    "Airport": "KLAWOCK ARPT"
+  },
+  {
+    "total": 47476,
+    "other": 1716,
+    "repair": 45760,
+    "Airport": "FAYATTE REGIONAL AIR CENTER ARPT"
+  },
+  {
+    "total": 47096,
+    "other": 0,
+    "repair": 47096,
+    "Airport": "LAKE VIKING"
+  },
+  {
+    "total": 47084,
+    "other": 0,
+    "repair": 47084,
+    "Airport": "INDUCTOTHERM ARPT"
+  },
+  {
+    "total": 47010,
+    "other": 31410,
+    "repair": 15600,
+    "Airport": "LEXINGTON COUNTY ARPT AT PELION"
+  },
+  {
+    "total": 46922,
+    "other": 0,
+    "repair": 46922,
+    "Airport": "MACDILL AIR FORCE BASE"
+  },
+  {
+    "total": 46824,
+    "other": 2490,
+    "repair": 44334,
+    "Airport": "AUGUSTA REGIONAL ARPT AT BUSH FLD"
+  },
+  {
+    "total": 46713,
+    "other": 36664,
+    "repair": 10049,
+    "Airport": "SANGSTER INTL"
+  },
+  {
+    "total": 46397,
+    "other": 0,
+    "repair": 46397,
+    "Airport": "NEW KENT COUNTY"
+  },
+  {
+    "total": 46350,
+    "other": 0,
+    "repair": 46350,
+    "Airport": "MIDDLE PENINSULA REGIONAL ARPT"
+  },
+  {
+    "total": 46227,
+    "other": 171,
+    "repair": 46056,
+    "Airport": "FLAGSTAFF PULLIAM"
+  },
+  {
+    "total": 45840,
+    "other": 0,
+    "repair": 45840,
+    "Airport": "PIKE COUNTY ARPT - HATCHER FIELD"
+  },
+  {
+    "total": 45675,
+    "other": 13050,
+    "repair": 32625,
+    "Airport": "WATTS-WOODLAND ARPT"
+  },
+  {
+    "total": 45158,
+    "other": 0,
+    "repair": 45158,
+    "Airport": "OLD MARISCAL SUCRE INTL ARPT"
+  },
+  {
+    "total": 44941,
+    "other": 2249,
+    "repair": 42692,
+    "Airport": "BULVERDE AIRPARK"
+  },
+  {
+    "total": 44712,
+    "other": 628,
+    "repair": 44084,
+    "Airport": "REID-HILLVIEW ARPT OF SANTA CLARA CNTY"
+  },
+  {
+    "total": 44303,
+    "other": 20095,
+    "repair": 24208,
+    "Airport": "COLONEL JAMES JABARA ARPT"
+  },
+  {
+    "total": 44113,
+    "other": 14485,
+    "repair": 29628,
+    "Airport": "BESSEMER ARPT"
+  },
+  {
+    "total": 43694,
+    "other": 750,
+    "repair": 42944,
+    "Airport": "WILMINGTON AIR PARK"
+  },
+  {
+    "total": 43186,
+    "other": 17052,
+    "repair": 26134,
+    "Airport": "HAYWARD EXECUTIVE ARPT"
+  },
+  {
+    "total": 42980,
+    "other": 25922,
+    "repair": 17058,
+    "Airport": "GRAND CANYON NATIONAL"
+  },
+  {
+    "total": 42843,
+    "other": 27395,
+    "repair": 15448,
+    "Airport": "BEND MUNICIPAL ARPT"
+  },
+  {
+    "total": 42679,
+    "other": 23207,
+    "repair": 19472,
+    "Airport": "FREDERICK MUNICIPAL ARPT"
+  },
+  {
+    "total": 42028,
+    "other": 0,
+    "repair": 42028,
+    "Airport": "LAKES REGIONAL ARPT"
+  },
+  {
+    "total": 41962,
+    "other": 22560,
+    "repair": 19402,
+    "Airport": "STAFFORD REGIONAL ARPT"
+  },
+  {
+    "total": 41832,
+    "other": 6972,
+    "repair": 34860,
+    "Airport": "ZEPHYRHILLS MUNICIPAL ARPT"
+  },
+  {
+    "total": 41515,
+    "other": 0,
+    "repair": 41515,
+    "Airport": "BARTOW MUNICIPAL"
+  },
+  {
+    "total": 41095,
+    "other": 2659,
+    "repair": 38436,
+    "Airport": "OHIO UNIVERSITY ARPT-SNYDER FIELD"
+  },
+  {
+    "total": 40637,
+    "other": 1142,
+    "repair": 39495,
+    "Airport": "SPACE COAST REGIONAL"
+  },
+  {
+    "total": 40384,
+    "other": 0,
+    "repair": 40384,
+    "Airport": "DE KALB TAYLOR MUNICIPAL ARPT"
+  },
+  {
+    "total": 40233,
+    "other": 0,
+    "repair": 40233,
+    "Airport": "MONUMENT VALLEY ARPT (PVT)"
+  },
+  {
+    "total": 40164,
+    "other": 522,
+    "repair": 39642,
+    "Airport": "FRIDAY HARBOR ARPT"
+  },
+  {
+    "total": 40000,
+    "other": 0,
+    "repair": 40000,
+    "Airport": "MADILL MUNICIPAL AIRPORT"
+  },
+  {
+    "total": 39985,
+    "other": 34840,
+    "repair": 5145,
+    "Airport": "BURLINGTON INTL"
+  },
+  {
+    "total": 39901,
+    "other": 0,
+    "repair": 39901,
+    "Airport": "GOGEBIC-IRON COUNTY ARPT"
+  },
+  {
+    "total": 39780,
+    "other": 9945,
+    "repair": 29835,
+    "Airport": "ROBT J MILLER AIR PARK"
+  },
+  {
+    "total": 39664,
+    "other": 0,
+    "repair": 39664,
+    "Airport": "TEXAS GULF COAST REGIONAL ARPT"
+  },
+  {
+    "total": 39508,
+    "other": 10458,
+    "repair": 29050,
+    "Airport": "CLAYTON MUNICIPAL ARPT"
+  },
+  {
+    "total": 39271,
+    "other": 27958,
+    "repair": 11313,
+    "Airport": "LONG ISLAND MAC ARTHUR"
+  },
+  {
+    "total": 38895,
+    "other": 17184,
+    "repair": 21711,
+    "Airport": "FRANKLIN COUNTY ARPT"
+  },
+  {
+    "total": 38872,
+    "other": 27504,
+    "repair": 11368,
+    "Airport": "OAKLAND/TROY ARPT"
+  },
+  {
+    "total": 38870,
+    "other": 2000,
+    "repair": 36870,
+    "Airport": "RICHARD B RUSSELL"
+  },
+  {
+    "total": 38828,
+    "other": 0,
+    "repair": 38828,
+    "Airport": "SCAPPOOSE INDUSTRIAL AIRPARK"
+  },
+  {
+    "total": 38664,
+    "other": 34368,
+    "repair": 4296,
+    "Airport": "COMMUNITY HOSPITAL OF WILLIAM CO HELIPORT"
+  },
+  {
+    "total": 38491,
+    "other": 6310,
+    "repair": 32181,
+    "Airport": "TAPPAHANNOCK-ESSEX COUNTY"
+  },
+  {
+    "total": 38200,
+    "other": 0,
+    "repair": 38200,
+    "Airport": "MORGANTOWN MUNICIPAL ARPT-WALTER L. BILL HART FIELD"
+  },
+  {
+    "total": 38088,
+    "other": 34625,
+    "repair": 3463,
+    "Airport": "PALMYRA (COOPER) AIRPORT"
+  },
+  {
+    "total": 38061,
+    "other": 172,
+    "repair": 37889,
+    "Airport": "BOB SIKES ARPT"
+  },
+  {
+    "total": 37704,
+    "other": 28278,
+    "repair": 9426,
+    "Airport": "ERNESTO CORTISSOZ"
+  },
+  {
+    "total": 37539,
+    "other": 249,
+    "repair": 37290,
+    "Airport": "HORACE WILLIAMS ARPT"
+  },
+  {
+    "total": 37411,
+    "other": 6001,
+    "repair": 31410,
+    "Airport": "YELLOWSTONE REGIONAL"
+  },
+  {
+    "total": 37333,
+    "other": 17260,
+    "repair": 20073,
+    "Airport": "WATERBURY-OXFORD ARPT"
+  },
+  {
+    "total": 37292,
+    "other": 1071,
+    "repair": 36221,
+    "Airport": "SHAWANO MUNICIPAL ARPT"
+  },
+  {
+    "total": 36808,
+    "other": 14680,
+    "repair": 22128,
+    "Airport": "MC GHEE TYSON ARPT"
+  },
+  {
+    "total": 36608,
+    "other": 0,
+    "repair": 36608,
+    "Airport": "SKY MANOR ARPT"
+  },
+  {
+    "total": 36595,
+    "other": 26794,
+    "repair": 9801,
+    "Airport": "MANKATO REGIONAL ARPT"
+  },
+  {
+    "total": 36515,
+    "other": 2903,
+    "repair": 33612,
+    "Airport": "BROOKINGS REGIONAL ARPT"
+  },
+  {
+    "total": 36478,
+    "other": 1042,
+    "repair": 35436,
+    "Airport": "SEBRING REGIONAL ARPT"
+  },
+  {
+    "total": 36448,
+    "other": 1931,
+    "repair": 34517,
+    "Airport": "RUSK COUNTY ARPT"
+  },
+  {
+    "total": 36215,
+    "other": 1571,
+    "repair": 34644,
+    "Airport": "MANSFIELD LAHM MUNICIPAL"
+  },
+  {
+    "total": 36070,
+    "other": 64,
+    "repair": 36006,
+    "Airport": "ROTA"
+  },
+  {
+    "total": 35820,
+    "other": 4990,
+    "repair": 30830,
+    "Airport": "CAPE COD GATEWAY AIRPORT"
+  },
+  {
+    "total": 35607,
+    "other": 3237,
+    "repair": 32370,
+    "Airport": "ATHENS MUNICIPAL ARPT"
+  },
+  {
+    "total": 35406,
+    "other": 0,
+    "repair": 35406,
+    "Airport": "BOLIVAR MUNICIPAL ARPT"
+  },
+  {
+    "total": 35402,
+    "other": 1142,
+    "repair": 34260,
+    "Airport": "IOWA COUNTY ARPT"
+  },
+  {
+    "total": 35376,
+    "other": 10476,
+    "repair": 24900,
+    "Airport": "WORCESTER REGIONAL"
+  },
+  {
+    "total": 35370,
+    "other": 0,
+    "repair": 35370,
+    "Airport": "SLOULIN FLD INTL ARPT"
+  },
+  {
+    "total": 35360,
+    "other": 2210,
+    "repair": 33150,
+    "Airport": "COULTER FIELD ARPT"
+  },
+  {
+    "total": 35360,
+    "other": 2210,
+    "repair": 33150,
+    "Airport": "STEVENS POINT MUNICIPAL ARPT"
+  },
+  {
+    "total": 35336,
+    "other": 12620,
+    "repair": 22716,
+    "Airport": "WASHINGTON EXECUTIVE ARPT HYDE FIELD"
+  },
+  {
+    "total": 35221,
+    "other": 0,
+    "repair": 35221,
+    "Airport": "PEARSON FIELD ARPT"
+  },
+  {
+    "total": 35188,
+    "other": 2038,
+    "repair": 33150,
+    "Airport": "FORT WORTH SPINKS ARPT"
+  },
+  {
+    "total": 34961,
+    "other": 3895,
+    "repair": 31066,
+    "Airport": "SCHOLES INTL ARPT AT GALVESTON"
+  },
+  {
+    "total": 34260,
+    "other": 0,
+    "repair": 34260,
+    "Airport": "ANSON COUNTY ARPT-JEFF CLOUD FIELD"
+  },
+  {
+    "total": 34150,
+    "other": 0,
+    "repair": 34150,
+    "Airport": "BIG BEAR CITY"
+  },
+  {
+    "total": 34149,
+    "other": 34149,
+    "repair": 0,
+    "Airport": "ROBT L BRADSHAW INTL"
+  },
+  {
+    "total": 33939,
+    "other": 12570,
+    "repair": 21369,
+    "Airport": "HAYS REGIONAL"
+  },
+  {
+    "total": 33703,
+    "other": 553,
+    "repair": 33150,
+    "Airport": "NEW MARKET"
+  },
+  {
+    "total": 33326,
+    "other": 1142,
+    "repair": 32184,
+    "Airport": "NW ARKANSAS REGIONAL"
+  },
+  {
+    "total": 33288,
+    "other": 18618,
+    "repair": 14670,
+    "Airport": "NORTHEAST PHILADELPHIA ARPT"
+  },
+  {
+    "total": 33118,
+    "other": 33118,
+    "repair": 0,
+    "Airport": "GRAND STRAND ARPT"
+  },
+  {
+    "total": 32901,
+    "other": 3879,
+    "repair": 29022,
+    "Airport": "FINDLAY ARPT"
+  },
+  {
+    "total": 32875,
+    "other": 23101,
+    "repair": 9774,
+    "Airport": "Music City Executive Airport"
+  },
+  {
+    "total": 32763,
+    "other": 12032,
+    "repair": 20731,
+    "Airport": "WARRENTON-FAUQUIER"
+  },
+  {
+    "total": 32668,
+    "other": 1342,
+    "repair": 31326,
+    "Airport": "LAKELAND LINDER INTERNATIONAL AIRPORT"
+  },
+  {
+    "total": 32614,
+    "other": 3826,
+    "repair": 28788,
+    "Airport": "MYRTLE BEACH INTL"
+  },
+  {
+    "total": 32530,
+    "other": 7362,
+    "repair": 25168,
+    "Airport": "NORTHWEST FLORIDA BEACHES INTL"
+  },
+  {
+    "total": 32495,
+    "other": 11205,
+    "repair": 21290,
+    "Airport": "POCATELLO REGIONAL ARPT"
+  },
+  {
+    "total": 32370,
+    "other": 0,
+    "repair": 32370,
+    "Airport": "NORTH CENTRAL STATE ARPT"
+  },
+  {
+    "total": 32340,
+    "other": 22050,
+    "repair": 10290,
+    "Airport": "BLACKWELL-TONKAWA MUNICIPAL"
+  },
+  {
+    "total": 31884,
+    "other": 4662,
+    "repair": 27222,
+    "Airport": "MEADOW LAKE ARPT"
+  },
+  {
+    "total": 31676,
+    "other": 126,
+    "repair": 31550,
+    "Airport": "ELK GROVE ARPT"
+  },
+  {
+    "total": 31420,
+    "other": 0,
+    "repair": 31420,
+    "Airport": "CARRABELLE-THOMPSON"
+  },
+  {
+    "total": 31352,
+    "other": 10736,
+    "repair": 20616,
+    "Airport": "HAMPTON ROADS EXECUTIVE"
+  },
+  {
+    "total": 31152,
+    "other": 13366,
+    "repair": 17786,
+    "Airport": "TOLEDO SUBURBAN ARPT"
+  },
+  {
+    "total": 31075,
+    "other": 31075,
+    "repair": 0,
+    "Airport": "WAKEMAN ARPT"
+  },
+  {
+    "total": 31075,
+    "other": 6215,
+    "repair": 24860,
+    "Airport": "WARREN FIELD ARPT"
+  },
+  {
+    "total": 31068,
+    "other": 0,
+    "repair": 31068,
+    "Airport": "SKY ACRES AIRPORT"
+  },
+  {
+    "total": 31068,
+    "other": 0,
+    "repair": 31068,
+    "Airport": "BROOKS FIELD ARPT (MI)"
+  },
+  {
+    "total": 30880,
+    "other": 1000,
+    "repair": 29880,
+    "Airport": "MESQUITE METRO ARPT"
+  },
+  {
+    "total": 30632,
+    "other": 552,
+    "repair": 30080,
+    "Airport": "WILLIAMSPORT REGIONAL ARPT"
+  },
+  {
+    "total": 30232,
+    "other": 1415,
+    "repair": 28817,
+    "Airport": "YAKIMA AIR TERMINAL/MCALLISTER FIELD"
+  },
+  {
+    "total": 30065,
+    "other": 17685,
+    "repair": 12380,
+    "Airport": "TULLAHOMA REGNL ARPT/WILLIAM NORTHERN FIELD"
+  },
+  {
+    "total": 29835,
+    "other": 29835,
+    "repair": 0,
+    "Airport": "OLNEY-NOBLE ARPT"
+  },
+  {
+    "total": 29692,
+    "other": 0,
+    "repair": 29692,
+    "Airport": "PONCA CITY MUNICIPAL ARPT"
+  },
+  {
+    "total": 29680,
+    "other": 0,
+    "repair": 29680,
+    "Airport": "BANNING MUNICIPAL AIRPORT"
+  },
+  {
+    "total": 29535,
+    "other": 2120,
+    "repair": 27415,
+    "Airport": "GULFPORT-BILOXI INTL APRT"
+  },
+  {
+    "total": 29410,
+    "other": 29410,
+    "repair": 0,
+    "Airport": "ELIZABETH CITY CGAS/REGIONAL ARPT"
+  },
+  {
+    "total": 28965,
+    "other": 9655,
+    "repair": 19310,
+    "Airport": "ROCK SPRINGS-SWEETWATER CO"
+  },
+  {
+    "total": 28500,
+    "other": 23000,
+    "repair": 5500,
+    "Airport": "GREENVILLE MID-DELTA ARPT"
+  },
+  {
+    "total": 28335,
+    "other": 4770,
+    "repair": 23565,
+    "Airport": "QUINCY REGIONAL ARPT - BALDWIN FLD"
+  },
+  {
+    "total": 28161,
+    "other": 4009,
+    "repair": 24152,
+    "Airport": "GNOSS FIELD ARPT"
+  },
+  {
+    "total": 28134,
+    "other": 7207,
+    "repair": 20927,
+    "Airport": "FORT WAYNE INTL"
+  },
+  {
+    "total": 28105,
+    "other": 18263,
+    "repair": 9842,
+    "Airport": "RUSH CITY REGIONAL ARPT"
+  },
+  {
+    "total": 27860,
+    "other": 9737,
+    "repair": 18123,
+    "Airport": "EVANSVILLE REGIONAL"
+  },
+  {
+    "total": 27700,
+    "other": 0,
+    "repair": 27700,
+    "Airport": "WINONA MUNI ARPT-MAX CONRAD FIELD"
+  },
+  {
+    "total": 27657,
+    "other": 3518,
+    "repair": 24139,
+    "Airport": "CRAIG MUNICIPAL ARPT"
+  },
+  {
+    "total": 27051,
+    "other": 17168,
+    "repair": 9883,
+    "Airport": "LANCASTER ARPT (PA)"
+  },
+  {
+    "total": 27040,
+    "other": 0,
+    "repair": 27040,
+    "Airport": "GUARULHOS INTL"
+  },
+  {
+    "total": 27039,
+    "other": 14419,
+    "repair": 12620,
+    "Airport": "OIL RIG"
+  },
+  {
+    "total": 26975,
+    "other": 0,
+    "repair": 26975,
+    "Airport": "ROLLA NATIONAL ARPT"
+  },
+  {
+    "total": 26840,
+    "other": 0,
+    "repair": 26840,
+    "Airport": "ONA AIRPARK ARPT"
+  },
+  {
+    "total": 26835,
+    "other": 0,
+    "repair": 26835,
+    "Airport": "WOODBINE MUNICIPAL ARPT"
+  },
+  {
+    "total": 26663,
+    "other": 16063,
+    "repair": 10600,
+    "Airport": "FRANCISCO C. ADA/SAIPAN INTL ARPT"
+  },
+  {
+    "total": 26655,
+    "other": 26655,
+    "repair": 0,
+    "Airport": "LA JUNTA MUNICIPAL ARPT"
+  },
+  {
+    "total": 26309,
+    "other": 9135,
+    "repair": 17174,
+    "Airport": "MISSION SIOUX ARPT"
+  },
+  {
+    "total": 25920,
+    "other": 1500,
+    "repair": 24420,
+    "Airport": "SAWYER COUNTY ARPT"
+  },
+  {
+    "total": 25896,
+    "other": 25896,
+    "repair": 0,
+    "Airport": "HEART OF GEORGIA REGIONAL ARPT"
+  },
+  {
+    "total": 25890,
+    "other": 0,
+    "repair": 25890,
+    "Airport": "PITTSFIELD PENSTONE MUNICIPAL ARPT"
+  },
+  {
+    "total": 25757,
+    "other": 2040,
+    "repair": 23717,
+    "Airport": "DAVIDSON COUNTY ARPT"
+  },
+  {
+    "total": 25664,
+    "other": 9128,
+    "repair": 16536,
+    "Airport": "FLAGLER COUNTY ARPT"
+  },
+  {
+    "total": 25498,
+    "other": 0,
+    "repair": 25498,
+    "Airport": "MC ALESTER REGIONAL ARPT"
+  },
+  {
+    "total": 25284,
+    "other": 0,
+    "repair": 25284,
+    "Airport": "RIO VISTA MUNICIPAL ARPT"
+  },
+  {
+    "total": 25202,
+    "other": 1528,
+    "repair": 23674,
+    "Airport": "GENESEE COUNTY ARPT"
+  },
+  {
+    "total": 25124,
+    "other": 2284,
+    "repair": 22840,
+    "Airport": "DAWSON COMMUNITY ARPT"
+  },
+  {
+    "total": 25063,
+    "other": 7516,
+    "repair": 17547,
+    "Airport": "CORPUS CHRISTI INTL ARPT"
+  },
+  {
+    "total": 25006,
+    "other": 18822,
+    "repair": 6184,
+    "Airport": "PETER PRINCE FIELD ARPT"
+  },
+  {
+    "total": 25000,
+    "other": 25000,
+    "repair": 0,
+    "Airport": "THE FLORIDA KEYS MARATHON"
+  },
+  {
+    "total": 24990,
+    "other": 0,
+    "repair": 24990,
+    "Airport": "LITCHFIELD MUNICIPAL"
+  },
+  {
+    "total": 24817,
+    "other": 6474,
+    "repair": 18343,
+    "Airport": "WILLMAR MUNI ARPT-JOHN L RICE FIELD"
+  },
+  {
+    "total": 24553,
+    "other": 0,
+    "repair": 24553,
+    "Airport": "PLANTATION AIRPARK"
+  },
+  {
+    "total": 24545,
+    "other": 5300,
+    "repair": 19245,
+    "Airport": "SOUTHWEST GEORGIA REGIONAL ARPT"
+  },
+  {
+    "total": 24396,
+    "other": 6880,
+    "repair": 17516,
+    "Airport": "PORTLAND INTL JETPORT (ME)"
+  },
+  {
+    "total": 24080,
+    "other": 0,
+    "repair": 24080,
+    "Airport": "FREMONT AIRPORT"
+  },
+  {
+    "total": 23758,
+    "other": 1658,
+    "repair": 22100,
+    "Airport": "STINSON MUNICIPAL ARPT"
+  },
+  {
+    "total": 23618,
+    "other": 3374,
+    "repair": 20244,
+    "Airport": "CAPT FEAR REGNL JETPORT/HOWIE FRANKLIN FIELD ARPT"
+  },
+  {
+    "total": 23596,
+    "other": 324,
+    "repair": 23272,
+    "Airport": "NORWOOD MEMORIAL ARPT"
+  },
+  {
+    "total": 23169,
+    "other": 23169,
+    "repair": 0,
+    "Airport": "YAMPA VALLEY"
+  },
+  {
+    "total": 23050,
+    "other": 0,
+    "repair": 23050,
+    "Airport": "DELAWARE AIRPARK"
+  },
+  {
+    "total": 22976,
+    "other": 0,
+    "repair": 22976,
+    "Airport": "SEARCY MUNICIPAL ARPT"
+  },
+  {
+    "total": 22920,
+    "other": 0,
+    "repair": 22920,
+    "Airport": "MULEGE AIRSTRIP"
+  },
+  {
+    "total": 22840,
+    "other": 22840,
+    "repair": 0,
+    "Airport": "SAND POINT ARPT"
+  },
+  {
+    "total": 22756,
+    "other": 0,
+    "repair": 22756,
+    "Airport": "ROBERT R WELLS JR ARPT"
+  },
+  {
+    "total": 22560,
+    "other": 0,
+    "repair": 22560,
+    "Airport": "BRENNER FIELD ARPT"
+  },
+  {
+    "total": 22560,
+    "other": 0,
+    "repair": 22560,
+    "Airport": "CHEROKEE COUNTY AIRPORT"
+  },
+  {
+    "total": 22185,
+    "other": 0,
+    "repair": 22185,
+    "Airport": "PRINCETON MUNICIPAL"
+  },
+  {
+    "total": 21994,
+    "other": 0,
+    "repair": 21994,
+    "Airport": "HURON COUNTY MEMORIAL"
+  },
+  {
+    "total": 21956,
+    "other": 337,
+    "repair": 21619,
+    "Airport": "BRANDYWINE ARPT"
+  },
+  {
+    "total": 21753,
+    "other": 0,
+    "repair": 21753,
+    "Airport": "RUCKEL AIRPORT"
+  },
+  {
+    "total": 21718,
+    "other": 21718,
+    "repair": 0,
+    "Airport": "NORTH LAS VEGAS"
+  },
+  {
+    "total": 21706,
+    "other": 10916,
+    "repair": 10790,
+    "Airport": "GENERAL ESCOBEDO INTL"
+  },
+  {
+    "total": 21698,
+    "other": 0,
+    "repair": 21698,
+    "Airport": "IRAAN MUNICIPAL ARPT"
+  },
+  {
+    "total": 21580,
+    "other": 0,
+    "repair": 21580,
+    "Airport": "SOUTH VALLEY REGIONAL ARPT"
+  },
+  {
+    "total": 21580,
+    "other": 5395,
+    "repair": 16185,
+    "Airport": "LUCAS FIELD AIRPORT"
+  },
+  {
+    "total": 21461,
+    "other": 2288,
+    "repair": 19173,
+    "Airport": "FULTON COUNTY ARPT (IN)"
+  },
+  {
+    "total": 21392,
+    "other": 0,
+    "repair": 21392,
+    "Airport": "VIRACOPOS-CAMPINAS INTL ARPT"
+  },
+  {
+    "total": 21362,
+    "other": 3463,
+    "repair": 17899,
+    "Airport": "OUTAGAMIE COUNTY REGIONAL"
+  },
+  {
+    "total": 21200,
+    "other": 21200,
+    "repair": 0,
+    "Airport": "FERIHEGY ARPT"
+  },
+  {
+    "total": 21200,
+    "other": 0,
+    "repair": 21200,
+    "Airport": "PRIEST RIVER MUNICIPAL AIRPORT"
+  },
+  {
+    "total": 21112,
+    "other": 8120,
+    "repair": 12992,
+    "Airport": "RICHARD I BONG ARPT"
+  },
+  {
+    "total": 21058,
+    "other": 7177,
+    "repair": 13881,
+    "Airport": "MOLOKAI ARPT"
+  },
+  {
+    "total": 20940,
+    "other": 5235,
+    "repair": 15705,
+    "Airport": "DOOR COUNTY CHERRYLAND ARPT"
+  },
+  {
+    "total": 20916,
+    "other": 0,
+    "repair": 20916,
+    "Airport": "LOS BANOS MUNICIPAL ARPT"
+  },
+  {
+    "total": 20910,
+    "other": 16350,
+    "repair": 4560,
+    "Airport": "WITHAM FIELD ARPT"
+  },
+  {
+    "total": 20880,
+    "other": 105,
+    "repair": 20775,
+    "Airport": "BETHEL ARPT"
+  },
+  {
+    "total": 20880,
+    "other": 7830,
+    "repair": 13050,
+    "Airport": "LONDON-LUTON ARPT"
+  },
+  {
+    "total": 20759,
+    "other": 0,
+    "repair": 20759,
+    "Airport": "TOKYO INTL"
+  },
+  {
+    "total": 20476,
+    "other": 7735,
+    "repair": 12741,
+    "Airport": "HEMET-RYAN ARPT"
+  },
+  {
+    "total": 20216,
+    "other": 157,
+    "repair": 20059,
+    "Airport": "GALLATIN FIELD ARPT"
+  },
+  {
+    "total": 20192,
+    "other": 0,
+    "repair": 20192,
+    "Airport": "JESSE VIERTEL MEMORIAL ARPT"
+  },
+  {
+    "total": 20079,
+    "other": 5522,
+    "repair": 14557,
+    "Airport": "ONEIDA COUNTY ARPT"
+  },
+  {
+    "total": 20000,
+    "other": 10000,
+    "repair": 10000,
+    "Airport": "ARCADIA MUNICIPAL ARPT"
+  },
+  {
+    "total": 19852,
+    "other": 15428,
+    "repair": 4424,
+    "Airport": "HECTOR INTERNATIONAL"
+  },
+  {
+    "total": 19590,
+    "other": 1100,
+    "repair": 18490,
+    "Airport": "LOGAN-CACHE ARPT"
+  },
+  {
+    "total": 19569,
+    "other": 81,
+    "repair": 19488,
+    "Airport": "MARLBORO ARPT (CLOSED)"
+  },
+  {
+    "total": 19338,
+    "other": 3868,
+    "repair": 15470,
+    "Airport": "WEST PLAINS REGIONAL ARPT"
+  },
+  {
+    "total": 19224,
+    "other": 62,
+    "repair": 19162,
+    "Airport": "POMPANO BEACH AIRPARK"
+  },
+  {
+    "total": 19156,
+    "other": 18626,
+    "repair": 530,
+    "Airport": "INDIANAPOLIS EXECUTIVE ARPT"
+  },
+  {
+    "total": 19036,
+    "other": 1297,
+    "repair": 17739,
+    "Airport": "WAUKESHA COUNTY ARPT"
+  },
+  {
+    "total": 19019,
+    "other": 1261,
+    "repair": 17758,
+    "Airport": "GUAM INTL ARPT"
+  },
+  {
+    "total": 18930,
+    "other": 6310,
+    "repair": 12620,
+    "Airport": "ST. GEORGE  ARPT"
+  },
+  {
+    "total": 18876,
+    "other": 0,
+    "repair": 18876,
+    "Airport": "THUNDER RIDGE AIRPARK"
+  },
+  {
+    "total": 18787,
+    "other": 196,
+    "repair": 18591,
+    "Airport": "PERRY COUNTY MUNICIPAL"
+  },
+  {
+    "total": 18779,
+    "other": 8984,
+    "repair": 9795,
+    "Airport": "ANIMAS AIR PARK"
+  },
+  {
+    "total": 18708,
+    "other": 0,
+    "repair": 18708,
+    "Airport": "AUSTIN MUNICIPAL"
+  },
+  {
+    "total": 18659,
+    "other": 0,
+    "repair": 18659,
+    "Airport": "BISBEE DOUGLAS INTL ARPT"
+  },
+  {
+    "total": 18645,
+    "other": 0,
+    "repair": 18645,
+    "Airport": "PAUL C. MILLER-SPARTA ARPT"
+  },
+  {
+    "total": 18645,
+    "other": 0,
+    "repair": 18645,
+    "Airport": "SHELL LAKE MUNICIPAL ARPT"
+  },
+  {
+    "total": 18272,
+    "other": 0,
+    "repair": 18272,
+    "Airport": "GOSHEN MUNICIPAL ARPT"
+  },
+  {
+    "total": 18072,
+    "other": 341,
+    "repair": 17731,
+    "Airport": "HENRY E ROHLSEN ARPT"
+  },
+  {
+    "total": 18048,
+    "other": 0,
+    "repair": 18048,
+    "Airport": "WILLIAMSBURG-JAMESTOWN ARPT"
+  },
+  {
+    "total": 17875,
+    "other": 17875,
+    "repair": 0,
+    "Airport": "WILLIAM R FAIRCHILD INTL ARPT"
+  },
+  {
+    "total": 17762,
+    "other": 10736,
+    "repair": 7026,
+    "Airport": "YUBA COUNTY ARPT"
+  },
+  {
+    "total": 17600,
+    "other": 0,
+    "repair": 17600,
+    "Airport": "HELO KEARNY HELIPORT"
+  },
+  {
+    "total": 17451,
+    "other": 10526,
+    "repair": 6925,
+    "Airport": "ISLESBORO"
+  },
+  {
+    "total": 17430,
+    "other": 0,
+    "repair": 17430,
+    "Airport": "GREATER KANKAKEE ARPT"
+  },
+  {
+    "total": 17160,
+    "other": 0,
+    "repair": 17160,
+    "Airport": "HAMMOND NORTHSHORE REGIONAL ARPT"
+  },
+  {
+    "total": 17130,
+    "other": 0,
+    "repair": 17130,
+    "Airport": "FAIRFIELD COUNTY ARPT"
+  },
+  {
+    "total": 16953,
+    "other": 10600,
+    "repair": 6353,
+    "Airport": "AUBURN-OPELIKA RG PITTS"
+  },
+  {
+    "total": 16856,
+    "other": 12040,
+    "repair": 4816,
+    "Airport": "QUINN FIELD ARPT"
+  },
+  {
+    "total": 16758,
+    "other": 8673,
+    "repair": 8085,
+    "Airport": "BUCKINGHAM FIELD ARPT"
+  },
+  {
+    "total": 16685,
+    "other": 3717,
+    "repair": 12968,
+    "Airport": "PHOENIX GOODYEAR ARPT"
+  },
+  {
+    "total": 16606,
+    "other": 11790,
+    "repair": 4816,
+    "Airport": "HUMPHREYS COUNTY ARPT"
+  },
+  {
+    "total": 16575,
+    "other": 5525,
+    "repair": 11050,
+    "Airport": "BAHRAIN INTL"
+  },
+  {
+    "total": 16496,
+    "other": 0,
+    "repair": 16496,
+    "Airport": "ORCAS ISLAND ARPT"
+  },
+  {
+    "total": 16426,
+    "other": 10698,
+    "repair": 5728,
+    "Airport": "VANCOUVER INTL"
+  },
+  {
+    "total": 16358,
+    "other": 9547,
+    "repair": 6811,
+    "Airport": "EAGLE CREEK AIRPARK"
+  },
+  {
+    "total": 16349,
+    "other": 15506,
+    "repair": 843,
+    "Airport": "PEORIA INTL ARPT"
+  },
+  {
+    "total": 16244,
+    "other": 10849,
+    "repair": 5395,
+    "Airport": "EAST 34TH STREET HELIPORT"
+  },
+  {
+    "total": 16236,
+    "other": 531,
+    "repair": 15705,
+    "Airport": "ST. MARYS COUNTY REGIONAL"
+  },
+  {
+    "total": 16132,
+    "other": 442,
+    "repair": 15690,
+    "Airport": "FRESNO YOSEMITE INTL"
+  },
+  {
+    "total": 16045,
+    "other": 1566,
+    "repair": 14479,
+    "Airport": "JIM HAMILTON L B OWENS ARPT"
+  },
+  {
+    "total": 16036,
+    "other": 0,
+    "repair": 16036,
+    "Airport": "VINTON VETERANS MEMORIAL AIRPARK"
+  },
+  {
+    "total": 16000,
+    "other": 0,
+    "repair": 16000,
+    "Airport": "SELFRIDGE AIR NATIONAL GUARD BASE"
+  },
+  {
+    "total": 15900,
+    "other": 0,
+    "repair": 15900,
+    "Airport": "JOHNSTON COUNTY ARPT"
+  },
+  {
+    "total": 15803,
+    "other": 143,
+    "repair": 15660,
+    "Airport": "PANGBORN MEMORIAL"
+  },
+  {
+    "total": 15801,
+    "other": 2094,
+    "repair": 13707,
+    "Airport": "DRAUGHON-MILLER CENTRAL TEXAS REGIONAL ARPT"
+  },
+  {
+    "total": 15710,
+    "other": 0,
+    "repair": 15710,
+    "Airport": "SONTIMER ARPT"
+  },
+  {
+    "total": 15710,
+    "other": 0,
+    "repair": 15710,
+    "Airport": "MORAN FIELD ARPT"
+  },
+  {
+    "total": 15705,
+    "other": 0,
+    "repair": 15705,
+    "Airport": "NORTH PALM BEACH COUNTY GENERAL AVIATION"
+  },
+  {
+    "total": 15705,
+    "other": 0,
+    "repair": 15705,
+    "Airport": "IMPERIAL COUNTY ARPT"
+  },
+  {
+    "total": 15611,
+    "other": 15611,
+    "repair": 0,
+    "Airport": "ALEXANDRIA INTL"
+  },
+  {
+    "total": 15334,
+    "other": 0,
+    "repair": 15334,
+    "Airport": "PADGHAM FIELD"
+  },
+  {
+    "total": 15250,
+    "other": 0,
+    "repair": 15250,
+    "Airport": "DIAMOND POINT AIRSTRIP"
+  },
+  {
+    "total": 15104,
+    "other": 7174,
+    "repair": 7930,
+    "Airport": "GILLESPIE FIELD ARPT"
+  },
+  {
+    "total": 15074,
+    "other": 3436,
+    "repair": 11638,
+    "Airport": "SOUTHERN ILLINOIS"
+  },
+  {
+    "total": 15040,
+    "other": 0,
+    "repair": 15040,
+    "Airport": "LOUISA COUNTY ARPT/FREEMAN FLD"
+  },
+  {
+    "total": 15040,
+    "other": 0,
+    "repair": 15040,
+    "Airport": "BROWNSVILLE/SOUTH PADRE ISLAND INTL ARPT"
+  },
+  {
+    "total": 15000,
+    "other": 0,
+    "repair": 15000,
+    "Airport": "MIDLAND AIRPARK"
+  },
+  {
+    "total": 15000,
+    "other": 10000,
+    "repair": 5000,
+    "Airport": "EAGLE RIVER UNION ARPT"
+  },
+  {
+    "total": 14928,
+    "other": 0,
+    "repair": 14928,
+    "Airport": "CHIPPEWA VALLEY REGIONAL ARPT"
+  },
+  {
+    "total": 14893,
+    "other": 14893,
+    "repair": 0,
+    "Airport": "YERINGTON MUNICIPAL ARPT"
+  },
+  {
+    "total": 14872,
+    "other": 0,
+    "repair": 14872,
+    "Airport": "QUINCY MUNICIPAL ARPT"
+  },
+  {
+    "total": 14856,
+    "other": 8331,
+    "repair": 6525,
+    "Airport": "WINSTON FIELD ARPT"
+  },
+  {
+    "total": 14846,
+    "other": 0,
+    "repair": 14846,
+    "Airport": "WARREN MUNICIPAL ARPT"
+  },
+  {
+    "total": 14846,
+    "other": 5710,
+    "repair": 9136,
+    "Airport": "MC GREGOR EXECUTIVE ARPT"
+  },
+  {
+    "total": 14616,
+    "other": 0,
+    "repair": 14616,
+    "Airport": "FITCH H BEACH ARPT"
+  },
+  {
+    "total": 14473,
+    "other": 13850,
+    "repair": 623,
+    "Airport": "BAUDETTE INTL ARPT"
+  },
+  {
+    "total": 14464,
+    "other": 0,
+    "repair": 14464,
+    "Airport": "SAN CARLOS ARPT"
+  },
+  {
+    "total": 14362,
+    "other": 1010,
+    "repair": 13352,
+    "Airport": "FERANDINA BEACH MUNICIPAL ARPT"
+  },
+  {
+    "total": 14320,
+    "other": 0,
+    "repair": 14320,
+    "Airport": "ADAMS COUNTY- LEGION FIELD"
+  },
+  {
+    "total": 14295,
+    "other": 6215,
+    "repair": 8080,
+    "Airport": "GRAND RAPIDS/ITASCA COUNTY ARPT-GORDON NEWSTROM FIELD"
+  },
+  {
+    "total": 14148,
+    "other": 0,
+    "repair": 14148,
+    "Airport": "GRIFFITH-MERRILLVILLE ARPT"
+  },
+  {
+    "total": 14148,
+    "other": 0,
+    "repair": 14148,
+    "Airport": "GWINNETT COUNTY - BRISCOE FIELD"
+  },
+  {
+    "total": 13965,
+    "other": 1470,
+    "repair": 12495,
+    "Airport": "MIDDLE BASS-EAST POINT"
+  },
+  {
+    "total": 13782,
+    "other": 3315,
+    "repair": 10467,
+    "Airport": "ST CLAIR COUNTY INTL ARPT"
+  },
+  {
+    "total": 13728,
+    "other": 0,
+    "repair": 13728,
+    "Airport": "BLAIRSTOWN ARPT"
+  },
+  {
+    "total": 13673,
+    "other": 12430,
+    "repair": 1243,
+    "Airport": "METRO HEALTH MEDICAL CENTER HELIPORT"
+  },
+  {
+    "total": 13584,
+    "other": 749,
+    "repair": 12835,
+    "Airport": "PROVO MUNICIPAL ARPT"
+  },
+  {
+    "total": 13523,
+    "other": 6,
+    "repair": 13517,
+    "Airport": "FREEMAN MUNICIPAL ARPT"
+  },
+  {
+    "total": 13285,
+    "other": 0,
+    "repair": 13285,
+    "Airport": "BALDWIN COUNTY ARPT"
+  },
+  {
+    "total": 13235,
+    "other": 0,
+    "repair": 13235,
+    "Airport": "BANGALORE INTL ARPT"
+  },
+  {
+    "total": 13230,
+    "other": 1470,
+    "repair": 11760,
+    "Airport": "MOUNT OLIVE MUNICIPAL ARPT"
+  },
+  {
+    "total": 13088,
+    "other": 524,
+    "repair": 12564,
+    "Airport": "RALPH M HALL/ROCKWALL MUNICIPAL AIRPORT"
+  },
+  {
+    "total": 12969,
+    "other": 11790,
+    "repair": 1179,
+    "Airport": "PHOENIX DEER VALLEY ARPT"
+  },
+  {
+    "total": 12888,
+    "other": 0,
+    "repair": 12888,
+    "Airport": "TAUNTON MUNICIPAL ARPT - KING FIELD"
+  },
+  {
+    "total": 12784,
+    "other": 0,
+    "repair": 12784,
+    "Airport": "CLEARVIEW AIRPARK"
+  },
+  {
+    "total": 12648,
+    "other": 10981,
+    "repair": 1667,
+    "Airport": "LAKE TAHOE ARPT"
+  },
+  {
+    "total": 12620,
+    "other": 0,
+    "repair": 12620,
+    "Airport": "BOWMAN FIELD ARPT"
+  },
+  {
+    "total": 12612,
+    "other": 50,
+    "repair": 12562,
+    "Airport": "TWELVE OAKS AIRPORT"
+  },
+  {
+    "total": 12570,
+    "other": 0,
+    "repair": 12570,
+    "Airport": "NORTH PLATTE REGNL ARPT LEE BIRD FIELD"
+  },
+  {
+    "total": 12568,
+    "other": 0,
+    "repair": 12568,
+    "Airport": "CAMBRIDGE MUNICIPAL"
+  },
+  {
+    "total": 12411,
+    "other": 7853,
+    "repair": 4558,
+    "Airport": "ALLENTOWN QUEEN CITY MUNICIPAL"
+  },
+  {
+    "total": 12408,
+    "other": 2256,
+    "repair": 10152,
+    "Airport": "TIOGA MUNICIPAL ARPT"
+  },
+  {
+    "total": 12395,
+    "other": 3149,
+    "repair": 9246,
+    "Airport": "AUBURN MUNICIPAL ARPT (WA)"
+  },
+  {
+    "total": 12096,
+    "other": 3141,
+    "repair": 8955,
+    "Airport": "SAN MARCOS MUNICIPAL ARPT"
+  },
+  {
+    "total": 12046,
+    "other": 626,
+    "repair": 11420,
+    "Airport": "PULLMAN/MOSCOW REGIONAL ARPT"
+  },
+  {
+    "total": 12040,
+    "other": 12040,
+    "repair": 0,
+    "Airport": "ANIAK AIRPORT"
+  },
+  {
+    "total": 12022,
+    "other": 9612,
+    "repair": 2410,
+    "Airport": "ALMATY INTL ARPT"
+  },
+  {
+    "total": 11864,
+    "other": 9051,
+    "repair": 2813,
+    "Airport": "ELIZABETH FIELD ARPT"
+  },
+  {
+    "total": 11765,
+    "other": 458,
+    "repair": 11307,
+    "Airport": "LLANO MUNICIPAL ARPT"
+  },
+  {
+    "total": 11760,
+    "other": 8820,
+    "repair": 2940,
+    "Airport": "NEWTOK ARPT"
+  },
+  {
+    "total": 11620,
+    "other": 9296,
+    "repair": 2324,
+    "Airport": "BOLINDER FIELD - TOOELE VALLEY ARPT"
+  },
+  {
+    "total": 11620,
+    "other": 5810,
+    "repair": 5810,
+    "Airport": "MANAGUA INTL ARPT"
+  },
+  {
+    "total": 11620,
+    "other": 0,
+    "repair": 11620,
+    "Airport": "TIPTON ARPT"
+  },
+  {
+    "total": 11456,
+    "other": 0,
+    "repair": 11456,
+    "Airport": "GREENWOOD-LEFLORE ARPT"
+  },
+  {
+    "total": 11440,
+    "other": 11440,
+    "repair": 0,
+    "Airport": "DUKE UNIV NORTH HELIPORT"
+  },
+  {
+    "total": 11420,
+    "other": 0,
+    "repair": 11420,
+    "Airport": "REDDING MUNICIPAL"
+  },
+  {
+    "total": 11420,
+    "other": 0,
+    "repair": 11420,
+    "Airport": "MILLER FIELD ARPT"
+  },
+  {
+    "total": 11420,
+    "other": 0,
+    "repair": 11420,
+    "Airport": "OTTUMWA REGIONAL ARPT"
+  },
+  {
+    "total": 11353,
+    "other": 5200,
+    "repair": 6153,
+    "Airport": "HOMESTEAD GENERAL AVIATION ARPT"
+  },
+  {
+    "total": 11298,
+    "other": 2484,
+    "repair": 8814,
+    "Airport": "ANN ARBOR MUNICIPAL"
+  },
+  {
+    "total": 11288,
+    "other": 326,
+    "repair": 10962,
+    "Airport": "OSCEOLA MUNICIPAL ARPT"
+  },
+  {
+    "total": 11233,
+    "other": 10108,
+    "repair": 1125,
+    "Airport": "HILO INTL ARPT"
+  },
+  {
+    "total": 11204,
+    "other": 1034,
+    "repair": 10170,
+    "Airport": "MISSOULA INTL ARPT"
+  },
+  {
+    "total": 11093,
+    "other": 653,
+    "repair": 10440,
+    "Airport": "NEW GARDEN"
+  },
+  {
+    "total": 10936,
+    "other": 4022,
+    "repair": 6914,
+    "Airport": "BOLINGBROOKS CLOW INTL"
+  },
+  {
+    "total": 10922,
+    "other": 1394,
+    "repair": 9528,
+    "Airport": "COLLEGE PARK ARPT"
+  },
+  {
+    "total": 10864,
+    "other": 146,
+    "repair": 10718,
+    "Airport": "CLEVELAND MUNICIPAL ARPT"
+  },
+  {
+    "total": 10743,
+    "other": 0,
+    "repair": 10743,
+    "Airport": "NEW CHITOSE"
+  },
+  {
+    "total": 10611,
+    "other": 0,
+    "repair": 10611,
+    "Airport": "GRAVELLY VALLEY"
+  },
+  {
+    "total": 10602,
+    "other": 1571,
+    "repair": 9031,
+    "Airport": "SANTA MARIA PUBLIC ARPT/CAPT G ALLAN HANCOCK FIELD"
+  },
+  {
+    "total": 10600,
+    "other": 0,
+    "repair": 10600,
+    "Airport": "THE LANDINGS AIRPORT"
+  },
+  {
+    "total": 10600,
+    "other": 3600,
+    "repair": 7000,
+    "Airport": "PIERSON MUNICIPAL AIRPORT"
+  },
+  {
+    "total": 10563,
+    "other": 105,
+    "repair": 10458,
+    "Airport": "CAPE COD COAST GUARD AIR STATION"
+  },
+  {
+    "total": 10420,
+    "other": 857,
+    "repair": 9563,
+    "Airport": "MC ALLEN MILLER INTL"
+  },
+  {
+    "total": 10096,
+    "other": 0,
+    "repair": 10096,
+    "Airport": "PHILIP BILLARD MUNICIPAL ARPT"
+  },
+  {
+    "total": 10056,
+    "other": 6285,
+    "repair": 3771,
+    "Airport": "ROCK HILL (YORK CO) BRYANT FLD"
+  },
+  {
+    "total": 10000,
+    "other": 0,
+    "repair": 10000,
+    "Airport": "MACON DOWNTOWN ARPT"
+  },
+  {
+    "total": 9909,
+    "other": 0,
+    "repair": 9909,
+    "Airport": "LINCOLN REGNL ARPT/KARL HARDER FLD"
+  },
+  {
+    "total": 9744,
+    "other": 2288,
+    "repair": 7456,
+    "Airport": "SPRUCE CREEK ARPT"
+  },
+  {
+    "total": 9655,
+    "other": 0,
+    "repair": 9655,
+    "Airport": "JERRY TYLER MEMORIAL"
+  },
+  {
+    "total": 9620,
+    "other": 9620,
+    "repair": 0,
+    "Airport": "KASTRUP AIRPORT"
+  },
+  {
+    "total": 9550,
+    "other": 0,
+    "repair": 9550,
+    "Airport": "DUNSMUIR MUNICIPAL-MOTT ARPT"
+  },
+  {
+    "total": 9432,
+    "other": 0,
+    "repair": 9432,
+    "Airport": "BRACKETT FIELD ARPT"
+  },
+  {
+    "total": 9269,
+    "other": 2357,
+    "repair": 6912,
+    "Airport": "MERLE K (MUDHOLE) SMITH ARPT"
+  },
+  {
+    "total": 9141,
+    "other": 0,
+    "repair": 9141,
+    "Airport": "SEDONA ARPT"
+  },
+  {
+    "total": 9136,
+    "other": 9136,
+    "repair": 0,
+    "Airport": "SCOTT & WHITE MEMORIAL HOSPITAL HELIPORT"
+  },
+  {
+    "total": 9135,
+    "other": 1827,
+    "repair": 7308,
+    "Airport": "OSWEGO COUNTY"
+  },
+  {
+    "total": 9066,
+    "other": 0,
+    "repair": 9066,
+    "Airport": "SOUTH ALBANY ARPT"
+  },
+  {
+    "total": 9061,
+    "other": 7799,
+    "repair": 1262,
+    "Airport": "ASPEN-PITKIN COUNTY ARPT/SARDY FIELD"
+  },
+  {
+    "total": 9030,
+    "other": 3010,
+    "repair": 6020,
+    "Airport": "KIPNUK ARPT"
+  },
+  {
+    "total": 9029,
+    "other": 0,
+    "repair": 9029,
+    "Airport": "GAYLORD REGIONAL ARPT"
+  },
+  {
+    "total": 8951,
+    "other": 3978,
+    "repair": 4973,
+    "Airport": "BEAUREGARD REGIONAL ARPT"
+  },
+  {
+    "total": 8855,
+    "other": 0,
+    "repair": 8855,
+    "Airport": "COLD BAY ARPT"
+  },
+  {
+    "total": 8825,
+    "other": 0,
+    "repair": 8825,
+    "Airport": "TRACY MUNICIPAL ARPT"
+  },
+  {
+    "total": 8742,
+    "other": 846,
+    "repair": 7896,
+    "Airport": "GRAHAM MUNICIPAL ARPT"
+  },
+  {
+    "total": 8702,
+    "other": 622,
+    "repair": 8080,
+    "Airport": "DARE COUNTY REGIONAL ARPT"
+  },
+  {
+    "total": 8701,
+    "other": 6215,
+    "repair": 2486,
+    "Airport": "SHALZ FIELD ARPT"
+  },
+  {
+    "total": 8661,
+    "other": 379,
+    "repair": 8282,
+    "Airport": "WINDHAM ARPT"
+  },
+  {
+    "total": 8585,
+    "other": 3350,
+    "repair": 5235,
+    "Airport": "RIDGELAND-CLAUDE DEAN AIRPORT"
+  },
+  {
+    "total": 8548,
+    "other": 0,
+    "repair": 8548,
+    "Airport": "HUTCHINSON MUNICIPAL-BUTLER FLD"
+  },
+  {
+    "total": 8482,
+    "other": 1153,
+    "repair": 7329,
+    "Airport": "FREMONT MUNICIPAL AIRPORT"
+  },
+  {
+    "total": 8389,
+    "other": 2284,
+    "repair": 6105,
+    "Airport": "DELAND MUNICIPAL ARPT-SIDNEY H TAYLOR FIELD"
+  },
+  {
+    "total": 8376,
+    "other": 0,
+    "repair": 8376,
+    "Airport": "OKEECHOBEE COUNTY ARPT"
+  },
+  {
+    "total": 8367,
+    "other": 6248,
+    "repair": 2119,
+    "Airport": "CENTRAL NEBRASKA REGIONAL"
+  },
+  {
+    "total": 8314,
+    "other": 4317,
+    "repair": 3997,
+    "Airport": "CHEYENNE REGIONAL ARPT/JERRY OLSON FIELD"
+  },
+  {
+    "total": 8310,
+    "other": 0,
+    "repair": 8310,
+    "Airport": "MACOMB MUNICIPAL ARPT"
+  },
+  {
+    "total": 8253,
+    "other": 2358,
+    "repair": 5895,
+    "Airport": "ORR REGIONAL ARPT"
+  },
+  {
+    "total": 8246,
+    "other": 0,
+    "repair": 8246,
+    "Airport": "NORTH PERRY ARPT"
+  },
+  {
+    "total": 8200,
+    "other": 2200,
+    "repair": 6000,
+    "Airport": "SHELBY-CLEVELAND COUNTY REGIONAL AIRPORT"
+  },
+  {
+    "total": 8046,
+    "other": 3384,
+    "repair": 4662,
+    "Airport": "EMMONAK ARPT"
+  },
+  {
+    "total": 8025,
+    "other": 0,
+    "repair": 8025,
+    "Airport": "OZARK-BLACKWELL FIELD ARPT"
+  },
+  {
+    "total": 8008,
+    "other": 0,
+    "repair": 8008,
+    "Airport": "SEMINOLE LAKE GLIDERPORT"
+  },
+  {
+    "total": 7856,
+    "other": 3928,
+    "repair": 3928,
+    "Airport": "BEAVER COUNTY ARPT"
+  },
+  {
+    "total": 7855,
+    "other": 0,
+    "repair": 7855,
+    "Airport": "CORNELL MUNICIPAL ARPT"
+  },
+  {
+    "total": 7821,
+    "other": 0,
+    "repair": 7821,
+    "Airport": "TAMPA BAY EXECUTIVE (CLOSED)"
+  },
+  {
+    "total": 7767,
+    "other": 5178,
+    "repair": 2589,
+    "Airport": "KASIGLUK ARPT"
+  },
+  {
+    "total": 7728,
+    "other": 6471,
+    "repair": 1257,
+    "Airport": "WARSAW MUNICIPAL (IN)"
+  },
+  {
+    "total": 7640,
+    "other": 0,
+    "repair": 7640,
+    "Airport": "DAVID'S ARPT"
+  },
+  {
+    "total": 7553,
+    "other": 0,
+    "repair": 7553,
+    "Airport": "GEAUGA COUNTY ARPT"
+  },
+  {
+    "total": 7553,
+    "other": 2158,
+    "repair": 5395,
+    "Airport": "RENO/STEAD ARPT"
+  },
+  {
+    "total": 7542,
+    "other": 1257,
+    "repair": 6285,
+    "Airport": "HANA ARPT"
+  },
+  {
+    "total": 7520,
+    "other": 0,
+    "repair": 7520,
+    "Airport": "RED LODGE ARPT"
+  },
+  {
+    "total": 7357,
+    "other": 1142,
+    "repair": 6215,
+    "Airport": "FLOYD BENNETT MEMORIAL"
+  },
+  {
+    "total": 7308,
+    "other": 0,
+    "repair": 7308,
+    "Airport": "ARANSAS COUNTY ARPT"
+  },
+  {
+    "total": 7258,
+    "other": 1146,
+    "repair": 6112,
+    "Airport": "STARKS TWIN OAKS"
+  },
+  {
+    "total": 7248,
+    "other": 888,
+    "repair": 6360,
+    "Airport": "SACRAMENTO MATHER ARPT"
+  },
+  {
+    "total": 7244,
+    "other": 602,
+    "repair": 6642,
+    "Airport": "IMMOKALEE REGIONAL ARPT"
+  },
+  {
+    "total": 7194,
+    "other": 0,
+    "repair": 7194,
+    "Airport": "DONALDSON CENTER ARPT"
+  },
+  {
+    "total": 7160,
+    "other": 7160,
+    "repair": 0,
+    "Airport": "PANAMA CITY - BAY COUNTY INTL"
+  },
+  {
+    "total": 7122,
+    "other": 355,
+    "repair": 6767,
+    "Airport": "VENICE MUNICIPAL AIRPORT"
+  },
+  {
+    "total": 7108,
+    "other": 0,
+    "repair": 7108,
+    "Airport": "CLARK COUNTY ARPT (SD)"
+  },
+  {
+    "total": 7074,
+    "other": 3537,
+    "repair": 3537,
+    "Airport": "UNION PARISH ARPT"
+  },
+  {
+    "total": 7000,
+    "other": 75,
+    "repair": 6925,
+    "Airport": "TACOMA NARROWS ARPT"
+  },
+  {
+    "total": 7000,
+    "other": 5000,
+    "repair": 2000,
+    "Airport": "RIVERTON HOSPITAL HELIPORT"
+  },
+  {
+    "total": 6925,
+    "other": 0,
+    "repair": 6925,
+    "Airport": "BEAVER ISLAND ARPT"
+  }
+]
