@@ -2,17 +2,52 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <script src="main.js" defer></script>
-    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.0/chart.min.js" ></script>
+    <link href="styles.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:regular,bold" rel="stylesheet">
     <title>Title</title>
 </head>
 <body>
-    <div class="container">
-        <section class="plane-visualisation">
-            <canvas class="canvas"></canvas>
-            <button class="missiles">Launch!</button>
-        </section>
-    </div>
 
+<div class="container">
+    <h1>Bird strikes</h1>
+    <section id="plane-chart">
+        <div class="plane">
+            <canvas class="canvas" id="plane-canvas"></canvas>
+            <button class="missiles">Launch!</button>
+    </div>
+    </section>
+
+    <!--Josef Har skrevet bar chart section -->
+    <section id="bar-chart">
+        <div class="search-bar">
+            <label for="search">Input Airport here</label>
+            <input id="search" name="" type="text">
+            <button>Placeholder for GO</button>
+
+        </div>
+
+        <div class="chart-wrapper">
+            <div class="chart-container" >
+                <canvas id="bar-test"></canvas>
+            </div>
+        </div>
+        <p>Above is a visualisation of the cost of all the recorded bird strikes since 1990</p>
+    </section>
+
+    <section id="text-chart">
+        <h2>What was the most expensive bird hit?</h2>
+    <div class="wrapper">
+        <div class="descriptor">Up Towards</div>
+        <div id="large-number">13,000,000$</div>
+        <div class="descriptor">for ONE bird! </div>
+    </div>
+    </section>
+
+
+
+</div>
 </body>
+<script src="data.js"></script>
+<script src="main.js" type="module"></script>
 </html>

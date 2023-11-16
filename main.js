@@ -1,6 +1,9 @@
-const canvas = document.querySelector("canvas");
+const canvas = document.querySelector("#plane-canvas");
 const ctx= canvas.getContext("2d");
 const launch = document.querySelector(".missiles");
+
+let dotCount = 0;
+console.log(dotCount);
 
 //Lykke
 // Defining airplane shape
@@ -81,6 +84,8 @@ function drawDot(x, y, dotSize, dotColor) {
     ctx.beginPath();
     ctx.arc(x, y, dotSize, 0, Math.PI * 2);
     ctx.fill();
+    dotCount++;
+    console.log(dotCount);
 }
 
 // Function to draw dots within the circular shape of the cockpit with a delay
@@ -185,13 +190,6 @@ function birdAttack() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     drawAirplane();
 
-    // Count amount of dots
-    let fillFunctionCallCount = 0;
-    CanvasRenderingContext2D.prototype.originalFill = CanvasRenderingContext2D.prototype.fill;
-    CanvasRenderingContext2D.prototype.fill = function() {
-        fillFunctionCallCount++; // Increment the counter
-        this.originalFill.apply(this, arguments); // Call the original fill function
-    };
 
     // Draw dots within the circular shape of the cockpit with a delay
     drawDotsInCockpitWithDelay();
@@ -239,7 +237,8 @@ function birdAttack() {
         airplane.x + 100, airplane.y + 8,
         airplane.x + 100, airplane.y + 15
     );
-    console.log(fillFunctionCallCount)
+
+    setTimeout(()=>{console.log(dotCount)},50*300)
 }
 
 window.addEventListener("load", ()=>{
@@ -247,6 +246,9 @@ window.addEventListener("load", ()=>{
     drawAirplane();
 })
 launch.addEventListener("click", () =>{
+    dotCount = 0;
     birdAttack();
 
 })
+
+console.log(dotCount)
