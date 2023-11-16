@@ -5,6 +5,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.0/chart.min.js" ></script>
     <link href="styles.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:regular,bold" rel="stylesheet">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Title</title>
 </head>
 <body>
@@ -19,11 +22,12 @@
 
     <!--Josef Har skrevet bar chart section -->
     <section id="bar-chart">
-        <div class="search-bar">
-            <label for="search">Input Airport here</label>
-            <input id="search" name="" type="text">
-            <button>Placeholder for GO</button>
 
+        <div id="search-container">
+            <input type="text" id="searchInput" placeholder="Search...">
+            <button onclick="search()">Search</button>
+            <button onclick="clearSearch()">Clear</button>
+            <div id="results"></div>
         </div>
 
         <div class="chart-wrapper">
@@ -48,6 +52,7 @@
 
 </div>
 </body>
+<script src="data.json"></script>
 <script src="data.js"></script>
-<script src="main.js" type="module"></script>
+<script type="module" src="main.js"></script>
 </html>
