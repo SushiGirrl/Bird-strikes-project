@@ -92,7 +92,7 @@ function drawDotsInCockpitWithDelay() {
     let count = 0;
 
     function drawDotInCockpitWithDelay() {
-        if (count < 50) {
+        if (count < 4184) {
             const angle = Math.random() * Math.PI * 2;
             const distance = Math.random() * cockpitRadius;
             const dotX = cockpitCenterX + distance * Math.cos(angle);
@@ -115,7 +115,7 @@ function drawDotsInMotorWithDelay(centerX, centerY) {
     let count = 0;
 
     function drawDotInMotorWithDelay() {
-        if (count < 20) {
+        if (count < 2284) {
             const angle = Math.random() * Math.PI * 2;
             const distance = Math.random() * motorRadius;
             const dotX = centerX + distance * Math.cos(angle);
@@ -139,7 +139,7 @@ function drawDotsInWingsWithDelay() {
     let count = 0;
 
     function drawDotInWingsWithDelay() {
-        if (count < 100) {
+        if (count < 1500) {
             const dotX = Math.random() * wingWidth + airplane.x;
             const dotY = Math.random() * wingHeight + airplane.y + 20;
 
@@ -159,7 +159,7 @@ function drawDotsInTriangleWithDelay(x1, y1, x2, y2, x3, y3) {
     let count = 0;
 
     function drawDotWithDelay() {
-        if (count < 20) {
+        if (count < 80) {
             const u = Math.random();
             const v = Math.random();
 
