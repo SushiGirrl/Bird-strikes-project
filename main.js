@@ -85,8 +85,7 @@ function drawDot(x, y, dotSize, dotColor) {
     ctx.arc(x, y, dotSize, 0, Math.PI * 2);
     ctx.fill();
     dotCount++;
-    console.log(dotCount);
-}
+    updateCostCounter(dotCount)}
 
 // Function to draw dots within the circular shape of the cockpit with a delay
 function drawDotsInCockpitWithDelay() {
@@ -239,6 +238,15 @@ function birdAttack() {
     );
 
     setTimeout(()=>{console.log(dotCount)},50*300)
+}
+
+// Josef
+function updateCostCounter(num){
+    // Tag nummeret, opdater et nummer i HTML
+    // id=cost-counter
+
+    const costCountSpan = document.querySelector("#cost-counter")
+    costCountSpan.textContent = `${num}`
 }
 
 window.addEventListener("load", ()=>{
