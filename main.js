@@ -1,6 +1,7 @@
 const canvas = document.querySelector("#plane-canvas");
 const ctx= canvas.getContext("2d");
 const launch = document.querySelector(".missiles");
+const birdPrice = 2644;
 
 let dotCount = 0;
 console.log(dotCount);
@@ -84,8 +85,10 @@ function drawDot(x, y, dotSize, dotColor) {
     ctx.beginPath();
     ctx.arc(x, y, dotSize, 0, Math.PI * 2);
     ctx.fill();
+    //Josef (dotCount)
     dotCount++;
-    updateCostCounter(dotCount)}
+    updateCostCounter(birdPrice * dotCount);
+}
 
 // Function to draw dots within the circular shape of the cockpit with a delay
 function drawDotsInCockpitWithDelay() {
@@ -119,7 +122,7 @@ function drawDotsInMotorWithDelay(centerX, centerY) {
     let count = 0;
 
     function drawDotInMotorWithDelay() {
-        if (count < 2284) {
+        if (count < 1142) {
             const angle = Math.random() * Math.PI * 2;
             const distance = Math.random() * motorRadius;
             const dotX = centerX + distance * Math.cos(angle);
@@ -188,6 +191,7 @@ function drawDotsInTriangleWithDelay(x1, y1, x2, y2, x3, y3) {
 function birdAttack() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     drawAirplane();
+    launch.disabled = true
 
 
     // Draw dots within the circular shape of the cockpit with a delay
@@ -247,6 +251,7 @@ function updateCostCounter(num){
 
     const costCountSpan = document.querySelector("#cost-counter")
     costCountSpan.textContent = `${num}`
+
 }
 
 window.addEventListener("load", ()=>{
@@ -256,7 +261,6 @@ window.addEventListener("load", ()=>{
 launch.addEventListener("click", () =>{
     dotCount = 0;
     birdAttack();
-
 })
 
-console.log(dotCount)
+console.log(dotCount);
