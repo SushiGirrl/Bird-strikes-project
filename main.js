@@ -88,13 +88,12 @@ function updateData(chart){
 }
 
 // Attach event listeners
-window.addEventListener("load", ()=>{clearSearch()})
 document.getElementById('searchInput').addEventListener('input', ()=>search(data));
 document.getElementById('searchButton').addEventListener('click', ()=>updateData(myChart));
 document.getElementById('clearButton').addEventListener('click', ()=>{clearSearch();updateData(myChart)});
 
 //This part of the code is the plane visualisation
-const canvas = document.querySelector("#plane-canvas");
+const canvas = document.querySelector(".plane-canvas");
 const planeContext = canvas.getContext("2d");
 const launch = document.querySelector(".missiles");
 const birdPrice = 2644;
@@ -353,6 +352,7 @@ function updateCostCounter(num){
 window.addEventListener("load", ()=>{
     planeContext.clearRect(0, 0, canvas.width, canvas.height);
     drawAirplane();
+    clearSearch();
 })
 launch.addEventListener("click", () =>{
     dotCount = 0;
