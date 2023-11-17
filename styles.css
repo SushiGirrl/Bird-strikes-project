@@ -9,6 +9,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 100vh;
     background-color: #1E3859;
 }
 
@@ -28,12 +29,6 @@ h1 {
     align-items: center;
 }
 
-.plane {
-    height: 400px;
-    width: 400px;
-    background-color: indianred;
-}
-
 .container {
     border: solid 3px #D904A0;
     background: white;
@@ -42,7 +37,25 @@ h1 {
     justify-content: center;
     align-items: center;
 }
-
+.plane-visualisation {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 35vh;
+    width: 80vw;
+}
+.plane-canvas{
+    display: flex;
+    background-color: white;
+    width: 100%;
+    height: 100%;
+}
+.missiles{
+    margin: 10px;
+    max-width: 65px;
+    border-radius: 5px;
+    border: 0;
+}
 .search-bar {
     text-align: center;
 }
