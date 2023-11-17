@@ -1,6 +1,9 @@
-const canvas = document.querySelector("canvas");
+const canvas = document.querySelector("#plane-canvas");
 const ctx= canvas.getContext("2d");
 const launch = document.querySelector(".missiles");
+
+let dotCount = 0;
+console.log(dotCount);
 
 //Lykke
 // Defining airplane shape
@@ -81,7 +84,8 @@ function drawDot(x, y, dotSize, dotColor) {
     ctx.beginPath();
     ctx.arc(x, y, dotSize, 0, Math.PI * 2);
     ctx.fill();
-}
+    dotCount++;
+    updateCostCounter(dotCount)}
 
 // Function to draw dots within the circular shape of the cockpit with a delay
 function drawDotsInCockpitWithDelay() {
@@ -185,6 +189,7 @@ function birdAttack() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     drawAirplane();
 
+
     // Draw dots within the circular shape of the cockpit with a delay
     drawDotsInCockpitWithDelay();
 
@@ -231,6 +236,17 @@ function birdAttack() {
         airplane.x + 100, airplane.y + 8,
         airplane.x + 100, airplane.y + 15
     );
+
+    setTimeout(()=>{console.log(dotCount)},50*300)
+}
+
+// Josef
+function updateCostCounter(num){
+    // Tag nummeret, opdater et nummer i HTML
+    // id=cost-counter
+
+    const costCountSpan = document.querySelector("#cost-counter")
+    costCountSpan.textContent = `${num}`
 }
 
 window.addEventListener("load", ()=>{
@@ -238,5 +254,9 @@ window.addEventListener("load", ()=>{
     drawAirplane();
 })
 launch.addEventListener("click", () =>{
+    dotCount = 0;
     birdAttack();
+
 })
+
+console.log(dotCount)
