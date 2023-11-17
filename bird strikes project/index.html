@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.0/chart.min.js" ></script>
+    <link href="styles.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:regular,bold" rel="stylesheet">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Title</title>
+</head>
+<body>
+
+<div class="container">
+    <h1>Bird strikes</h1>
+    <section class="plane">
+        <div class="bird-strikes-cost">Cost of bird strikes: <span id="cost-counter">0</span></div>
+        <div class="plane-visualisation">
+            <canvas class="plane-canvas"></canvas>
+            <button class="missiles">Launch!</button>
+        </div>
+    </section>
+
+    <!--Josef -->
+    <section id="bar-chart">
+
+        <div id="search-container">
+            <!-- Mathias -->
+            <label for="searchInput">Enter airport: </label>
+            <input type="text" id="searchInput" placeholder="Search...">
+            <button id="searchButton">Search</button>
+            <button id="clearButton">Clear</button>
+            <div id="results"></div>
+        </div>
+
+        <div class="chart-wrapper">
+            <h1>The Cost</h1>
+            <div class="chart-container" >
+                <canvas id="bar-test"></canvas>
+            </div>
+        </div>
+        <p>Above is a visualisation of the cost of all the recorded bird strikes 1990-2022</p>
+    </section>
+
+    <section id="text-chart">
+        <h2>What was the most expensive bird hit?</h2>
+    <div class="wrapper">
+        <div class="descriptor">Up Towards</div>
+        <div id="large-number">13,000,000 $</div>
+        <div class="descriptor">for ONE bird!</div>
+    </div>
+
+    </section>
+
+
+
+</div>
+</body>
+<script src="data.js"></script>
+<script type="module" src="main.js"></script>
+</html>
