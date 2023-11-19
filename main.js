@@ -67,7 +67,7 @@ const myChart = new Chart(barContext,
             labels:yLabels,
             datasets:[
                 {
-                    label:'Total cost per Airport per year',
+                    label:'Total cost per Airport per year in dollars',
                     data: data.map(row=>row.totalPerYear),
                     backgroundColor: bgColorArray,
                 }
@@ -77,9 +77,10 @@ const myChart = new Chart(barContext,
             animation: false,
             maintainAspectRatio: false,
             indexAxis:"y",
+            barThickness: 90,
             plugins:{
                 title:{
-                    display:true,
+                    display:false,
                     text:"The Cost",
                     font:{
                         size:22,
@@ -89,7 +90,9 @@ const myChart = new Chart(barContext,
             },
             scales:{
                 y:{
-
+                    grid:{
+                        display: false
+                    }
                 },
                 x:{
 
