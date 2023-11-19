@@ -94,8 +94,10 @@ const canvas = document.querySelector(".plane-canvas");
 const planeContext = canvas.getContext("2d");
 const launch = document.querySelector(".missiles");
 const birdPrice = 2644;
+const dotColor = `#D61F22`;
 
 let dotCount = 0;
+
 console.log(dotCount);
 
 //Lykke
@@ -113,23 +115,23 @@ function drawAirplane() {
     // Cockpit
     planeContext.beginPath();
     planeContext.arc(airplane.x + 100, airplane.y + 15, 24, 0, Math.PI * 2);
-    planeContext.fillStyle = '#7C9498FF'; // Red color
+    planeContext.fillStyle = '#ACABB0'; // Red color
     planeContext.fill();
 
     // Left motor
     planeContext.beginPath();
     planeContext.arc(airplane.x + 55, airplane.y + 35, 10, 0, Math.PI * 2);
-    planeContext.fillStyle = '#7C9498FF'; // Red color
+    planeContext.fillStyle = '#ACABB0'; // Red color
     planeContext.fill();
 
     // Right motor
     planeContext.beginPath();
     planeContext.arc(airplane.x + 145, airplane.y + 35, 10, 0, Math.PI * 2);
-    planeContext.fillStyle = '#7C9498FF'; // Red color
+    planeContext.fillStyle = '#ACABB0'; // Red color
     planeContext.fill();
 
     // Wings
-    planeContext.fillStyle = '#7C9498FF'; // Yellow color
+    planeContext.fillStyle = '#ACABB0'; // Yellow color
     planeContext.fillRect(airplane.x, airplane.y + 20, 200, 7);
 
     // Right wing-tip
@@ -137,7 +139,7 @@ function drawAirplane() {
     planeContext.moveTo(airplane.x + 200, airplane.y + 20);
     planeContext.lineTo(airplane.x + 250, airplane.y + 20);
     planeContext.lineTo(airplane.x + 200, airplane.y + 27);
-    planeContext.fillStyle = '#7C9498FF'; // Green color
+    planeContext.fillStyle = '#ACABB0'; // Green color
     planeContext.fill();
 
     // Left wing-tip
@@ -145,7 +147,7 @@ function drawAirplane() {
     planeContext.moveTo(airplane.x - 50, airplane.y + 20);
     planeContext.lineTo(airplane.x, airplane.y + 20);
     planeContext.lineTo(airplane.x, airplane.y + 27);
-    planeContext.fillStyle = "#7C9498FF"; // Green color
+    planeContext.fillStyle = "#ACABB0"; // Green color
     planeContext.fill();
 
     // tail middle
@@ -153,7 +155,7 @@ function drawAirplane() {
     planeContext.moveTo(airplane.x + 100, airplane.y - 40);
     planeContext.lineTo(airplane.x + 103, airplane.y - 9);
     planeContext.lineTo(airplane.x + 97, airplane.y - 9);
-    planeContext.fillStyle = "#7C9498FF"; // Green color
+    planeContext.fillStyle = "#ACABB0"; // Green color
     planeContext.fill();
 
     // tail right
@@ -161,7 +163,7 @@ function drawAirplane() {
     planeContext.moveTo(airplane.x + 150, airplane.y + 3);
     planeContext.lineTo(airplane.x + 100, airplane.y + 8);
     planeContext.lineTo(airplane.x + 100, airplane.y + 15);
-    planeContext.fillStyle = "#7C9498FF"; // Green color
+    planeContext.fillStyle = "#ACABB0"; // Green color
     planeContext.fill();
 
     // tail left
@@ -169,7 +171,7 @@ function drawAirplane() {
     planeContext.moveTo(airplane.x + 50, airplane.y + 3);
     planeContext.lineTo(airplane.x + 100, airplane.y + 8);
     planeContext.lineTo(airplane.x + 100, airplane.y + 15);
-    planeContext.fillStyle = "#7C9498FF"; // Green color
+    planeContext.fillStyle = "#ACABB0"; // Green color
     planeContext.fill();
 }
 
@@ -198,7 +200,7 @@ function drawDotsInCockpitWithDelay() {
             const dotX = cockpitCenterX + distance * Math.cos(angle);
             const dotY = cockpitCenterY + distance * Math.sin(angle);
 
-            drawDot(dotX, dotY, 2, 'red');
+            drawDot(dotX, dotY, 2, dotColor);
             count++;
 
             // Adjust the delay time (in milliseconds) based on your preference
@@ -221,7 +223,7 @@ function drawDotsInMotorWithDelay(centerX, centerY) {
             const dotX = centerX + distance * Math.cos(angle);
             const dotY = centerY + distance * Math.sin(angle);
 
-            drawDot(dotX, dotY, 2, 'red');
+            drawDot(dotX, dotY, 2, dotColor);
             count++;
 
             // Adjust the delay time (in milliseconds) based on your preference
@@ -243,7 +245,7 @@ function drawDotsInWingsWithDelay() {
             const dotX = Math.random() * wingWidth + airplane.x;
             const dotY = Math.random() * wingHeight + airplane.y + 20;
 
-            drawDot(dotX, dotY, 2, 'red');
+            drawDot(dotX, dotY, 2, dotColor);
             count++;
 
             // Adjust the delay time (in milliseconds) based on your preference
@@ -270,7 +272,7 @@ function drawDotsInTriangleWithDelay(x1, y1, x2, y2, x3, y3) {
             const dotX = w1 * x1 + w2 * x2 + w3 * x3;
             const dotY = w1 * y1 + w2 * y2 + w3 * y3;
 
-            drawDot(dotX, dotY, 2, 'red');
+            drawDot(dotX, dotY, 2, dotColor);
             count++;
 
             // Adjust the delay time (in milliseconds) based on your preference
@@ -343,7 +345,7 @@ function updateCostCounter(num){
     // id=cost-counter
 
     const costCountSpan = document.querySelector("#cost-counter")
-    costCountSpan.textContent = `${num}`
+    costCountSpan.textContent = `${num} $`
 
 }
 
