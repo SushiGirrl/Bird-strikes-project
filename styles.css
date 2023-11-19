@@ -16,6 +16,7 @@ body{
     margin-bottom: 50px;
 }
 
+/* Josef */
 section {
     margin-top: 50px;
 }
@@ -142,12 +143,12 @@ h1 {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-/* Lykke and other person(s) */
+/* Lykke and Josef */
 .chart-container{
     width: 100%;
     height: 9600px;
 }
-/* Lykke and other person(s) */
+/* Lykke and Josef */
 p {
     text-align: center;
     color: #2D2C30;
@@ -155,7 +156,7 @@ p {
     margin-right: 30px;
     margin-left: 30px;
 }
-/* Lykke and other person(s) */
+/* Lykke and Josef*/
 .text-chart{
     display: flex;
     flex-direction: column;
@@ -170,14 +171,14 @@ p {
     margin-bottom: 40px;
     text-align: center;
 }
-/* Lykke and other person(s) */
+/* Lykke and Josef */
 .wrapper {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-bottom: 100px;
 }
-/* Mathias and other */
+/* Mathias and Josef */
 .descriptor {
     font-size: larger;
     color: white;
@@ -199,7 +200,7 @@ p {
     color: white;
     text-align: center;
 }
-/* Lykke */
+/* Lykke & Josef*/
 #eagle-pic {
     height: 50%;
     width: 50%;

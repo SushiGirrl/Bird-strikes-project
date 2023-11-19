@@ -1,16 +1,15 @@
 console.log(data)
 
-// Josef har skrevet denne del
+// Josef
 const barContext = document.querySelector("#bar-test")
 const yLabels = getYLabels(data)
 const bgColorArray = [];
 
-//data.forEach((obj)=>obj.Airport = obj.Airport.split(/[\s?=/]+/))
 
+// Josef
 function getYLabels(d){
     return d.map((row)=>row.Airport.split(/[\s?=/]+/))
 }
-
 data.forEach((obj,index)=> {
     obj.Airport === "UNKNOWN" ? bgColorArray[index]="grey" : bgColorArray[index]="#CE1D20"
 })
@@ -20,8 +19,6 @@ data.forEach((obj,index)=> {
 function search(airports) {
     const searchTerm = document.getElementById('searchInput').value.trim().toLowerCase();
     let matchingAirports;
-
-// Josef har skrevet denne del
 
     if (searchTerm.length === 1) {
         matchingAirports = airports.filter(obj =>
@@ -33,9 +30,6 @@ function search(airports) {
         );
     }
 
-
-    // displayResults(matchingAirports);
-        console.log(matchingAirports)
     return matchingAirports
 }
 
@@ -46,8 +40,8 @@ function clearSearch() {
     document.getElementById('results').innerHTML = '';
 }
 
-
-const myChart = new Chart(barContext,
+// Josef - create bar-chart
+const barChart = new Chart(barContext,
     {
         type:'bar',
         data:{
@@ -88,6 +82,8 @@ const myChart = new Chart(barContext,
         }
 });
 
+// Josef
+// Update existing chart with new data based on search input.
 function updateData(chart){
     let newData = search(data)
     chart.data.labels = getYLabels(newData)
@@ -106,8 +102,9 @@ function updateData(chart){
 // Josef og Mathias
 // Attach event listeners
 document.getElementById('searchInput').addEventListener('input', ()=>search(data));
-document.getElementById('searchButton').addEventListener('click', ()=>updateData(myChart));
-document.getElementById('clearButton').addEventListener('click', ()=>{clearSearch();updateData(myChart)});
+document.getElementById('searchButton').addEventListener('click', ()=>updateData(barChart));
+document.getElementById('clearButton').addEventListener('click', ()=>{clearSearch();updateData(barChart)});
+
 
 //This part of the code is the plane visualisation
 //Lykke

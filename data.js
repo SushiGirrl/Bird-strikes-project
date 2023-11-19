@@ -15193,7 +15193,7 @@ let data = `[
   }
 ]`
 
-// Josef har skrevet nedenstående
+// Josef
 data = JSON.parse(data)
 data = data.filter(elem=>elem.total>0)
 data.forEach(elem=>elem.totalPerYear = (elem.total)/32)
