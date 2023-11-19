@@ -107,6 +107,7 @@ document.getElementById('searchButton').addEventListener('click', ()=>updateData
 document.getElementById('clearButton').addEventListener('click', ()=>{clearSearch();updateData(myChart)});
 
 //This part of the code is the plane visualisation
+//Lykke
 const canvas = document.querySelector(".plane-canvas");
 const planeContext = canvas.getContext("2d");
 const launch = document.querySelector(".missiles");
@@ -191,6 +192,7 @@ function drawAirplane() {
     planeContext.fill();
 }
 
+//Lykke
 function drawDot(x, y, dotSize, dotColor) {
     planeContext.fillStyle = dotColor;
     planeContext.beginPath();
@@ -202,6 +204,7 @@ function drawDot(x, y, dotSize, dotColor) {
 }
 
 // Function to draw dots within the circular shape of the cockpit with a delay
+//Lykke
 function drawDotsInCockpitWithDelay() {
     const cockpitCenterX = airplane.x + 100;
     const cockpitCenterY = airplane.y + 15;
@@ -219,7 +222,7 @@ function drawDotsInCockpitWithDelay() {
             drawDot(dotX, dotY, 2, dotColor);
             count++;
 
-            // Adjust the delay time (in milliseconds) based on your preference
+            //Adjusts the delay time (in milliseconds)
             setTimeout(drawDotInCockpitWithDelay, 15);
         }
     }
@@ -242,7 +245,7 @@ function drawDotsInMotorWithDelay(centerX, centerY) {
             drawDot(dotX, dotY, 2, dotColor);
             count++;
 
-            // Adjust the delay time (in milliseconds) based on your preference
+            //Adjusts the delay time (in milliseconds)
             setTimeout(drawDotInMotorWithDelay, 15);
         }
     }
@@ -264,7 +267,7 @@ function drawDotsInWingsWithDelay() {
             drawDot(dotX, dotY, 2, dotColor);
             count++;
 
-            // Adjust the delay time (in milliseconds) based on your preference
+            //Adjusts the delay time (in milliseconds)
             setTimeout(drawDotInWingsWithDelay, 15);
         }
     }
@@ -291,7 +294,7 @@ function drawDotsInTriangleWithDelay(x1, y1, x2, y2, x3, y3) {
             drawDot(dotX, dotY, 2, dotColor);
             count++;
 
-            // Adjust the delay time (in milliseconds) based on your preference
+            //Adjusts the delay time (in milliseconds)
             setTimeout(drawDotWithDelay, 15);
         }
     }
@@ -299,6 +302,8 @@ function drawDotsInTriangleWithDelay(x1, y1, x2, y2, x3, y3) {
     drawDotWithDelay();
 }
 
+//Lykke
+//this function calls all the necessary functions for the birds to be launched
 function birdAttack() {
     planeContext.clearRect(0, 0, canvas.width, canvas.height);
     drawAirplane();
@@ -365,11 +370,13 @@ function updateCostCounter(num){
 
 }
 
+//Lykke
 window.addEventListener("load", ()=>{
     planeContext.clearRect(0, 0, canvas.width, canvas.height);
     drawAirplane();
     clearSearch();
 })
+//Lykke
 launch.addEventListener("click", () =>{
     dotCount = 0;
     birdAttack();
