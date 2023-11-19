@@ -15,7 +15,8 @@ data.forEach((obj,index)=> {
     obj.Airport === "UNKNOWN" ? bgColorArray[index]="grey" : bgColorArray[index]="#CE1D20"
 })
 
-// Mathias HC
+// Mathias
+// Retrieves the value entered into the search input field
 function search(airports) {
     const searchTerm = document.getElementById('searchInput').value.trim().toLowerCase();
     let matchingAirports;
@@ -38,7 +39,8 @@ function search(airports) {
     return matchingAirports
 }
 
-
+// Mathias
+// Clear and reset search results
 function clearSearch() {
     document.getElementById('searchInput').value = '';
     document.getElementById('results').innerHTML = '';
@@ -101,6 +103,7 @@ function updateData(chart){
     chart.update();
 }
 
+// Josef og Mathias
 // Attach event listeners
 document.getElementById('searchInput').addEventListener('input', ()=>search(data));
 document.getElementById('searchButton').addEventListener('click', ()=>updateData(myChart));
