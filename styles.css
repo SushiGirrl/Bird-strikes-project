@@ -73,10 +73,17 @@ h1 {
     font-size: 1em;
     cursor: pointer;
     transition: background-color 0.3s ease;
+    box-shadow: 5px 5px 5px gray;
 }
 
 .missiles:hover {
     background-color: #643326;
+}
+
+.missiles:disabled {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    opacity: 0.6;
+    cursor: not-allowed;
 }
 
 .bird-strikes-cost {
@@ -94,6 +101,8 @@ h1 {
 #cost-counter {
     color: #CE1D20;
 }
+
+
 
 .search-bar {
     text-align: center;
@@ -139,7 +148,7 @@ p {
 
 .descriptor {
     font-size: larger;
-    color: #643326;
+    color: #FAFCFC;
     margin-bottom: 10px;
     padding: 6px;
     font-weight: 400;

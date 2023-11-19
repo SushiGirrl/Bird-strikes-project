@@ -5,6 +5,8 @@ const barContext = document.querySelector("#bar-test")
 const yLabels = getYLabels(data)
 const bgColorArray = [];
 
+
+
 //data.forEach((obj)=>obj.Airport = obj.Airport.split(/[\s?=/]+/))
 
 function getYLabels(d){
@@ -356,5 +358,12 @@ launch.addEventListener("click", () =>{
     dotCount = 0;
     birdAttack();
 })
+
+launch.addEventListener("click", () => {
+    dotCount = 0;
+    birdAttack();
+    launch.disabled = true; // Disable the button after it's clicked
+});
+
 
 console.log(dotCount);
