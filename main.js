@@ -94,6 +94,10 @@ function updateData(chart){
     const chartHeightPx = 160*newData.length;
     chart.canvas.parentNode.style.height = `${chartHeightPx}px`;
 
+    newData.forEach((obj,index)=> {
+        obj.Airport === "UNKNOWN" ? bgColorArray[index]="grey" : bgColorArray[index]="#CE1D20"
+    })
+
     chart.update();
 }
 
