@@ -93,7 +93,7 @@ document.getElementById('clearButton').addEventListener('click', ()=>{clearSearc
 const canvas = document.querySelector(".plane-canvas");
 const planeContext = canvas.getContext("2d");
 const launch = document.querySelector(".missiles");
-const birdPrice = 2644;
+const birdPrice = 255;
 const dotColor = `#D61F22`;
 
 let dotCount = 0;
@@ -194,7 +194,7 @@ function drawDotsInCockpitWithDelay() {
     let count = 0;
 
     function drawDotInCockpitWithDelay() {
-        if (count < 4184) {
+        if (count < 4227) {
             const angle = Math.random() * Math.PI * 2;
             const distance = Math.random() * cockpitRadius;
             const dotX = cockpitCenterX + distance * Math.cos(angle);
@@ -204,7 +204,7 @@ function drawDotsInCockpitWithDelay() {
             count++;
 
             // Adjust the delay time (in milliseconds) based on your preference
-            setTimeout(drawDotInCockpitWithDelay, 50);
+            setTimeout(drawDotInCockpitWithDelay, 15);
         }
     }
 
@@ -217,7 +217,7 @@ function drawDotsInMotorWithDelay(centerX, centerY) {
     let count = 0;
 
     function drawDotInMotorWithDelay() {
-        if (count < 1142) {
+        if (count < 1582) {
             const angle = Math.random() * Math.PI * 2;
             const distance = Math.random() * motorRadius;
             const dotX = centerX + distance * Math.cos(angle);
@@ -227,7 +227,7 @@ function drawDotsInMotorWithDelay(centerX, centerY) {
             count++;
 
             // Adjust the delay time (in milliseconds) based on your preference
-            setTimeout(drawDotInMotorWithDelay, 50);
+            setTimeout(drawDotInMotorWithDelay, 15);
         }
     }
 
@@ -241,7 +241,7 @@ function drawDotsInWingsWithDelay() {
     let count = 0;
 
     function drawDotInWingsWithDelay() {
-        if (count < 1500) {
+        if (count < 3163) {
             const dotX = Math.random() * wingWidth + airplane.x;
             const dotY = Math.random() * wingHeight + airplane.y + 20;
 
@@ -249,7 +249,7 @@ function drawDotsInWingsWithDelay() {
             count++;
 
             // Adjust the delay time (in milliseconds) based on your preference
-            setTimeout(drawDotInWingsWithDelay, 50);
+            setTimeout(drawDotInWingsWithDelay, 15);
         }
     }
 
@@ -261,7 +261,7 @@ function drawDotsInTriangleWithDelay(x1, y1, x2, y2, x3, y3) {
     let count = 0;
 
     function drawDotWithDelay() {
-        if (count < 80) {
+        if (count < 580) {
             const u = Math.random();
             const v = Math.random();
 
@@ -276,7 +276,7 @@ function drawDotsInTriangleWithDelay(x1, y1, x2, y2, x3, y3) {
             count++;
 
             // Adjust the delay time (in milliseconds) based on your preference
-            setTimeout(drawDotWithDelay, 50);
+            setTimeout(drawDotWithDelay, 15);
         }
     }
 
@@ -336,7 +336,7 @@ function birdAttack() {
         airplane.x + 100, airplane.y + 15
     );
 
-    setTimeout(()=>{console.log(dotCount)},50*300)
+    setTimeout(()=>{console.log(dotCount)},15*300)
 }
 
 // Josef
