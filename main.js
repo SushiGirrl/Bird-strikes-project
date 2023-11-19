@@ -11,14 +11,31 @@ function getYLabels(d){
     return d.map((row)=>row.Airport.split(/[\s?=/]+/))
 }
 
+
+function displayResults(matchingAirports) {
+    const resultsContainer = document.getElementById('results');
+    resultsContainer.innerHTML = '';
+
 data.forEach((obj,index)=> {
     obj.Airport === "UNKNOWN" ? bgColorArray[index]="grey" : bgColorArray[index]="#8C0383"
 })
 
+    if (matchingAirports.length === 0) {
+        resultsContainer.innerHTML = 'No results found. Sorry!';
+    } else {
+        matchingAirports.forEach(airport => {
+            const airportElement = document.createElement('div');
+            airportElement.textContent = airport.Airport;
+            resultsContainer.appendChild(airportElement);
+        });
+    }
+}
 
 function search(airports) {
     const searchTerm = document.getElementById('searchInput').value.trim().toLowerCase();
     let matchingAirports;
+
+// Josef har skrevet denne del
 
     if (searchTerm.length === 1) {
         matchingAirports = airports.filter(obj =>
@@ -40,10 +57,7 @@ function search(airports) {
 function clearSearch() {
     document.getElementById('searchInput').value = '';
     document.getElementById('results').innerHTML = '';
-
-
 }
-
 
 
 const myChart = new Chart(barContext,
@@ -64,6 +78,14 @@ const myChart = new Chart(barContext,
             maintainAspectRatio: false,
             indexAxis:"y",
             plugins:{
+                title:{
+                    display:true,
+                    text:"The Cost",
+                    font:{
+                        size:22,
+                        weight: "bold",
+                    }
+                }
             },
             scales:{
                 y:{
