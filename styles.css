@@ -22,27 +22,31 @@ h1 {
     padding: 6px;
     text-align: center;
 }
-
-.wrapper {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.chart-wrapper h1{
+    padding: 6px;
+    text-align: center;
 }
 
 .container {
     border: solid 3px #D904A0;
+    width: 75vw;
     background: white;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
+.plane span{
+    color: #D61F22;
+    font-weight: bold;
+}
 .plane-visualisation {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 35vh;
-    width: 80vw;
+    width: 40vw;
+    height: 30vh;
+    margin-bottom: 50px;
 }
 .plane-canvas{
     display: flex;
@@ -55,6 +59,38 @@ h1 {
     max-width: 65px;
     border-radius: 5px;
     border: 0;
+    background-color: #ACABB0;
+    color: #D61F22;
+    padding: 5px;
+    font-weight: bold;
+}
+.missiles:is(:hover){
+    background-color: #CBCBCD;
+}
+.search-container button:is(:hover){
+    background-color: #CBCBCD;
+}
+.search-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.search-container label{
+    margin-bottom: 4px;
+}
+.search-container input{
+    margin-bottom: 4px;
+}
+.search-container button{
+    margin: 10px;
+    max-width: 65px;
+    border-radius: 5px;
+    border: 0;
+    background-color: #ACABB0;
+    color: white;
+    padding: 5px;
+    font-weight: bold;
 }
 .search-bar {
     text-align: center;
@@ -68,22 +104,35 @@ Josef har skrevet denne del, der handler om chart-området
     max-height: 450px;
     overflow-y:scroll ;
     margin: 20px 0;
+    width: 90%;
 }
 
 .chart-container{
-    width: 500px;
-    height: 9600px
-}
-
-#bar-test {
+    width: 100%;
+    height: 1800px;
 }
 
 p {
     text-align: center;
 }
-#text-chart{
+.text-chart{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+.text-chart h2{
+    margin-bottom: 40px;
+
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     margin-bottom: 100px;
 }
+
 #text-chart h2{
     margin-bottom: 20px;
 

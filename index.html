@@ -13,7 +13,7 @@
 <body>
 
 <div class="container">
-    <h1>Bird strikes</h1>
+    <h1 class="bird-cost">Bird strikes</h1>
     <section class="plane">
         <div>Cost of bird strikes: <span id="cost-counter">0</span></div>
         <div class="plane-visualisation">
@@ -23,14 +23,16 @@
     </section>
 
     <!--Josef -->
-    <section id="bar-chart">
+    <section class="bar-chart">
 
-        <div id="search-container">
+        <div class="search-container">
             <!-- Mathias -->
             <label for="searchInput">Enter airport: </label>
             <input type="text" id="searchInput" placeholder="Search...">
-            <button id="searchButton">Search</button>
-            <button id="clearButton">Clear</button>
+            <div class="input buttons">
+                <button id="searchButton">Search</button>
+                <button id="clearButton">Clear</button>
+            </div>
             <div id="results"></div>
         </div>
 
@@ -43,7 +45,7 @@
         <p>Above is a visualisation of the cost of all the recorded bird strikes 1990-2022</p>
     </section>
 
-    <section id="text-chart">
+    <section class="text-chart">
         <h2>What was the most expensive bird hit?</h2>
     <div class="wrapper">
         <div class="descriptor">Up Towards</div>
