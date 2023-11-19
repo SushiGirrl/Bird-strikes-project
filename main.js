@@ -345,7 +345,7 @@ function updateCostCounter(num){
     // id=cost-counter
 
     const costCountSpan = document.querySelector("#cost-counter")
-    costCountSpan.textContent = `${num}`
+    costCountSpan.textContent = `${num} $`
 
 }
 
