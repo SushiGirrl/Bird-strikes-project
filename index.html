@@ -15,7 +15,7 @@
 <div class="container">
     <h1>Bird strikes</h1>
     <section class="plane">
-        <div class="bird-strikes-cost">Cost of bird strikes: <span id="cost-counter">0</span></div>
+        <div class="bird-strikes-cost">Cost of bird strikes: <span id="cost-counter">0</span>$</div>
         <div class="plane-visualisation">
             <canvas class="plane-canvas"></canvas>
             <button class="missiles">Launch!</button>
@@ -33,9 +33,9 @@
             <button id="clearButton">Clear</button>
             <div id="results"></div>
         </div>
+        <h1>The Cost</h1>
 
         <div class="chart-wrapper">
-            <h1>The Cost</h1>
             <div class="chart-container" >
                 <canvas id="bar-test"></canvas>
             </div>
@@ -44,13 +44,19 @@
     </section>
 
     <section id="text-chart">
-        <h2>What was the most expensive bird hit?</h2>
-    <div class="wrapper">
-        <div class="descriptor">Up Towards</div>
-        <div id="large-number">13,000,000 $</div>
-        <div class="descriptor">for ONE bird!</div>
-    </div>
 
+    <div class="wrapper">
+        <h2>What was the most expensive bird hit?</h2>
+        <div id="text-vis">
+        <p class="descriptor">Repairs cost</p>
+        <p id="large-number">17,668,000 $</p>
+        <p class="descriptor">for ONE bird!</p>
+        </div>
+    </div>
+        <div class="wrapper">
+        <p style="font-size:17px"> This hit was performed by a bald eagle over Denver airport, taking out just a single engine.</p>
+        <img id="eagle-pic" src="img/eagle-gems.jpg" alt="Picture of an eagle made of gems.">
+        </div>
     </section>
 
 
