@@ -1,26 +1,31 @@
 * {
-    margin:0;
-    padding:0;
-    font-family: "Montserrat";
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+    box-sizing: border-box;
 }
 
-body{
+body {
     width: 100vw;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #1E3859;
+    background-color: #0D090B;
+    color: #FAFCFC;
 }
 
 section {
     margin-top: 50px;
 }
 
-
 h1 {
     padding: 6px;
     text-align: center;
+    color: #CE1D20;
+    text-transform: uppercase;
+    font-size: 2em;
+    margin-bottom: 20px;
 }
 
 .wrapper {
@@ -30,44 +35,80 @@ h1 {
 }
 
 .container {
-    border: solid 3px #D904A0;
-    background: white;
+    border: solid 3px #CE1D20;
+    background: #FAFCFC;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    width: 80%;
+    max-width: 1200px;
 }
+
 .plane-visualisation {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 35vh;
-    width: 80vw;
-}
-.plane-canvas{
-    display: flex;
-    background-color: white;
-    width: 100%;
-    height: 100%;
-}
-.missiles{
-    margin: 10px;
-    max-width: 65px;
-    border-radius: 5px;
-    border: 0;
-}
-.search-bar {
-    text-align: center;
+    margin-top: 30px;
 }
 
-/*
-Josef har skrevet denne del, der handler om chart-området
- */
+.plane-canvas {
+    background-color: #FAFCFC;
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.missiles {
+    margin: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #CE1D20;
+    color: #FAFCFC;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.missiles:hover {
+    background-color: #643326;
+}
+
+.bird-strikes-cost {
+    color: #2D2C30;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+
+
+}
+
+.container > div {
+    color: #2D2C30;
+}
+
+#cost-counter {
+    color: #CE1D20;
+}
+
+.search-bar {
+    text-align: center;
+    color: #2D2C30;
+    margin-top: 20px;
+}
+
 .chart-wrapper {
     height: 450px;
     max-height: 450px;
-    overflow-y:scroll ;
-    margin: 20px 0;
+    overflow-y: scroll;
+    margin-top: 20px;
+    background-color: #FAFCFC;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .chart-container{
@@ -80,21 +121,29 @@ Josef har skrevet denne del, der handler om chart-området
 
 p {
     text-align: center;
+    color: #2D2C30;
+    margin-top: 20px;
 }
-#text-chart{
+
+#text-chart {
     margin-bottom: 100px;
 }
-#text-chart h2{
-    margin-bottom: 20px;
 
+#text-chart h2 {
+    color: #CE1D20;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin-bottom: 20px;
 }
 
 .descriptor {
     font-size: larger;
+    color: #CE1D20;
+    margin-bottom: 10px;
 }
 
 #large-number {
-    font-size: xx-large;
+    font-size: 2em;
     font-weight: bold;
-
+    color: #CE1D20;
 }

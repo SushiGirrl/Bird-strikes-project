@@ -12,10 +12,10 @@ function getYLabels(d){
 }
 
 data.forEach((obj,index)=> {
-    obj.Airport === "UNKNOWN" ? bgColorArray[index]="grey" : bgColorArray[index]="#8C0383"
+    obj.Airport === "UNKNOWN" ? bgColorArray[index]="grey" : bgColorArray[index]="#CE1D20"
 })
 
-
+// Mathias HC
 function search(airports) {
     const searchTerm = document.getElementById('searchInput').value.trim().toLowerCase();
     let matchingAirports;
@@ -29,9 +29,6 @@ function search(airports) {
             obj.Airport.toLowerCase().includes(searchTerm)
         );
     }
-
-
-    // displayResults(matchingAirports);
         console.log(matchingAirports)
     return matchingAirports
 }
@@ -109,6 +106,7 @@ const airplane = {
     width: 200,
     height: 100
 };
+
 //Lykke (drawAirplane())
 // Draws airplane
 function drawAirplane() {
